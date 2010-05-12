@@ -1,0 +1,42 @@
+for a in local $(ls /opt/ | grep -v local | grep -v gentoo); do
+    FULLPATH=/opt/$a
+    if [ -x $FULLPATH ]; then
+        if [ -x $FULLPATH/bin ]; then
+            export PATH="$FULLPATH/bin:$PATH" 
+        fi
+        if [ -x $FULLPATH/sbin ]; then
+            export PATH="$FULLPATH/sbin:$PATH" 
+        fi
+        if [ -x $FULLPATH/share/aclocal ]; then
+            export ACLOCAL_FLAGS="-I $FULLPATH/share/aclocal $ACLOCAL_FLAGS" 
+        fi
+        if [ -x $FULLPATH/man ]; then
+            export MANPATH="$FULLPATH/man:$MANPATH" 
+        fi
+        if [ -x $FULLPATH/share/man ]; then
+            export MANPATH="$FULLPATH/share/man:$MANPATH" 
+        fi
+        if [ -x $FULLPATH/lib/pkgconfig ]; then
+            export PKG_CONFIG_PATH="$FULLPATH/lib/pkgconfig/:$PKG_CONFIG_PATH" 
+        fi
+    fi
+done
+
+function parse_git_branch {
+  ref=$(git symbolic-ref HEAD 2> /dev/null) || return
+  echo "["${ref#refs/heads/}"]" 
+}
+
+function railsapp {
+  template=$1
+  appname=$2
+  shift 2
+  rails $appname -m http://github.com/urfolomeus/rails_templates/raw/master/$template.rb $@
+}
+
+VIOLET="\[\033[0;35m\]"
+CYAN="\[\033[0;36m\]" 
+YELLOW="\[\033[0;33m\]" 
+GREEN="\[\033[0;32m\]" 
+
+export PS1="\n$VIOLET\u: $CYAN\w$YELLOW \$(parse_git_branch)$GREEN\$\n> "

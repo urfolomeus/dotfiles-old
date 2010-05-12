@@ -1,0 +1,30 @@
+# bash
+alias tu='top -o cpu'
+alias tm='top -o vsize' #memory
+alias c=clear
+
+# ruby
+alias rb='ruby'
+alias cc='cucumber'
+
+# rails
+alias ss="./script/server"
+alias sg="./script/generate"
+alias sd="./script/destroy"
+alias sc="./script/console"
+alias scr="./script/cucumber-rstakeout"
+alias rdbm="rake db:migrate"
+alias rdbtp="rake db:test:prepare"
+alias rdbfl="rake db:fixtures:load"
+alias rs="rake spec"
+
+# git
+alias ga="git add -A"
+alias gs="git status"
+alias gc="git commit"
+alias gp="git push "
+alias gpom="git push origin master"
+alias gl="git log"
+
+# emacs
+alias emacs="/Applications/Emacs.app/Contents/MacOS/bin/emacsclient"
