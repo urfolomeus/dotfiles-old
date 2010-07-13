@@ -20,7 +20,7 @@ alias rtf="rake test:functionals"
 alias rtu="rake test:units"
 
 alias rs="rails server"
-
+alias rc="rails console"
 alias rg="rails generate"
 alias rgc="rails generate controller"
 alias rgm="rails generate model"
