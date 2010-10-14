@@ -27,13 +27,29 @@ alias rgm="rails generate model"
 alias rgmg="rails generate migration"
 alias rgs="rails generate scaffold"
 
+#rstakeout
+alias rsc='./script/rstakeout "./script/cucumber" "app/**/*.erb" "features/**/*"'
+alias rsr='./script/rstakeout "rake spec" "app/**/*.rb" "spec/**/*"'
+
 # git
 alias ga="git add -A"
 alias gs="git status"
 alias gc="git commit"
+alias gd="git diff"
+alias gi="git init"
 alias gp="git push "
-alias gpom="git push origin master"
+alias gpo="git push origin"
+alias gph="git push heroku"
 alias gl="git log"
+alias gco="git checkout"
 
 # emacs
 alias emacs="/Applications/Emacs.app/Contents/MacOS/bin/emacsclient"
+
+# mysql
+alias mst="/Library/StartupItems/MySQLCOM/MySQLCOM start"
+alias msp="/Library/StartupItems/MySQLCOM/MySQLCOM stop"
+
+# rvm
+alias rvmu="rvm use"
+alias rvmgu="rvm gemset use"
