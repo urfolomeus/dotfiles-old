@@ -1,3 +1,7 @@
 Host planeturf
 	HostName	109.74.199.58
 	User			root
+	
+Host newdev
+	HostName	qa-major.asmallworld.net
+	User		alan
