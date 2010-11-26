@@ -2,6 +2,8 @@
 alias tu='top -o cpu'
 alias tm='top -o vsize' #memory
 alias c=clear
+alias nd='ssh alan@qa-major.asmallworld.net -L8162:soq:8161 -L8163:quirm:8161'
+alias sock='ln -s /opt/local/var/run/mysql5/mysqld.sock /tmp/mysql.sock'
 
 # ruby
 alias rb='ruby'
@@ -42,6 +44,7 @@ alias gpo="git push origin"
 alias gph="git push heroku"
 alias gl="git log"
 alias gco="git checkout"
+alias gfo="git fetch origin"
 
 # emacs
 alias emacs="/Applications/Emacs.app/Contents/MacOS/bin/emacsclient"
