@@ -4,6 +4,7 @@ alias tm='top -o vsize' #memory
 alias c=clear
 alias nd='ssh alan@qa-major.asmallworld.net -L8162:soq:8161 -L8163:quirm:8161'
 alias sock='ln -s /opt/local/var/run/mysql5/mysqld.sock /tmp/mysql.sock'
+alias :q='exit'
 
 # ruby
 alias rb='ruby'

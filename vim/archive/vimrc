@@ -3,6 +3,8 @@
 
 set nocompatible                  " Must come first because it changes other options.
 
+silent! call pathogen#runtime_append_all_bundles()
+
 syntax enable                     " Turn on syntax highlighting.
 filetype plugin indent on         " Turn on file type detection.
 
@@ -27,7 +29,7 @@ set ruler                         " Show cursor position.
 set incsearch                     " Highlight matches as you type.
 set hlsearch                      " Highlight matches.
 
-set nowrap                          " Turn on line wrapping.
+set wrap                          " Turn on line wrapping.
 set scrolloff=3                   " Show 3 lines of context around the cursor.
 
 set title                         " Set the terminal's title
@@ -41,14 +43,14 @@ set directory=$HOME/.vim/tmp//,.  " Keep swap files in one location
 " UNCOMMENT TO USE
 set tabstop=2                    " Global tab width.
 set shiftwidth=2                 " And again, related.
-"set expandtab                    " Use spaces instead of tabs
+set expandtab                    " Use spaces instead of tabs
 
 set laststatus=2                  " Show the status line all the time
 " Useful status information at bottom of screen
-set statusline=[%n]\ %<%.99f\ %h%w%m%r%y\ %{exists('*CapsLockStatusline')?CapsLockStatusline():''}%=%-16(\ %l,%c-%v\ %)%P
+set statusline=[%n]\ %<%.99f\ %h%w%m%r%y\ %{fugitive#statusline()}%{exists('*CapsLockStatusline')?CapsLockStatusline():''}%=%-16(\ %l,%c-%v\ %)%P
 
 " Or use topfunky-light
-colorscheme ir_black
+colorscheme vividchalk
 
 " Tab mappings.
 map <leader>tt :tabnew<cr>
@@ -74,3 +76,22 @@ map <leader>tm :tabmove
 " Automatic fold settings for specific files. Uncomment to use.
 " autocmd FileType ruby setlocal foldmethod=syntax
 " autocmd FileType css  setlocal foldmethod=indent shiftwidth=2 tabstop=2
+
+" For the MakeGreen plugin and Ruby RSpec. Uncomment to use.
+autocmd BufNewFile,BufRead *_spec.rb compiler rspec
+
+" Add recently accessed projects menu (project plugin)
+set viminfo^=!
+ 
+" Minibuffer Explorer Settings
+let g:miniBufExplMapWindowNavVim = 1
+let g:miniBufExplMapWindowNavArrows = 1
+let g:miniBufExplMapCTabSwitchBufs = 1
+let g:miniBufExplModSelTarget = 1
+ 
+" alt+n or alt+p to navigate between entries in QuickFix
+map <silent> <m-p> :cp <cr>
+map <silent> <m-n> :cn <cr>
+ 
+" Change which file opens after executing :Rails command
+let g:rails_default_file='config/database.yml'
