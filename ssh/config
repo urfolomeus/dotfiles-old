@@ -5,3 +5,11 @@ Host planeturf
 Host newdev
 	HostName	qa-major.asmallworld.net
 	User		alan
+
+Host mb
+  HostName 10.0.1.2
+  User Alan
+
+Host mbp
+  HostName 10.0.1.7
+  User urfolomeus
