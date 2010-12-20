@@ -5,6 +5,8 @@ alias c=clear
 alias nd='ssh alan@qa-major.asmallworld.net -L8162:soq:8161 -L8163:quirm:8161'
 alias sock='ln -s /opt/local/var/run/mysql5/mysqld.sock /tmp/mysql.sock'
 alias :q='exit'
+alias swapmb='ruby ~/bin/utilities/swap.rb -h mb'
+alias swapmbp='ruby ~/bin/utilities/swap.rb -h mbp'
 
 # ruby
 alias rb='ruby'
