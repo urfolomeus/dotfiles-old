@@ -1,4 +1,3 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
-let g:netrw_dirhist_1='/Users/Alan/src/asw/ASW-Site/Web/db'
-let g:netrw_dirhist_2='/Users/Alan/src/asw/ASW-Site/Web/db/migrate'
+let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_1='/Users/Alan/src/mine/ruby/rspec_book/codebreaker/features/step_definitions'

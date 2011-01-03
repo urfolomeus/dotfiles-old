@@ -10,7 +10,13 @@ alias swapmbp='ruby ~/bin/utilities/swap.rb -h mbp'
 
 # ruby
 alias rb='ruby'
+
+# testing
 alias cc='cucumber'
+alias ccf='cc features'
+alias rsp='rspec --color'
+alias spec='rsp spec --format doc'
+alias t='cc && spec'
 
 # rails
 alias ss="./script/server"
