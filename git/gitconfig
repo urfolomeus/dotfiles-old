@@ -1,0 +1,5 @@
+[user]
+	name = Alan Gardner
+	email = urfolomeus@gmail.com
+[core]
+	excludesfile = /Users/urfolomeus/.gitignore

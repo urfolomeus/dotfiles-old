@@ -1,3 +1,6 @@
+# temp
+alias paw='cd projects/asw/web'
+
 # bash
 alias tu='top -o cpu'
 alias tm='top -o vsize' #memory
