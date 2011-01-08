@@ -1,5 +1,5 @@
 # temp
-alias paw='cd projects/asw/web'
+alias paw='cd ~/projects/asw/web'
 
 # bash
 alias tu='top -o cpu'
