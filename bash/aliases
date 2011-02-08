@@ -1,5 +1,9 @@
 # temp
 alias paw='cd ~/projects/asw/web'
+alias aswm='mysql -uroot asw_major'
+alias aswt='mysql -uroot asw_test'
+alias std='mysql -uroot susan_development'
+alias stt='mysql -uroot susan_test'
 
 # bash
 alias tu='top -o cpu'

@@ -1,6 +1,7 @@
 
 if has("gui_macvim")
   " Fullscreen takes up entire screen
+  set fu
   set fuoptions=maxhorz,maxvert
 
   " Command-T for CommandT
@@ -30,7 +31,7 @@ set guioptions-=T
 color railscasts
 
 " Make the text big
-set guifont=Monaco:h18
+set guifont=Monaco:h16
 
 " ConqueTerm wrapper
 function StartTerm()
