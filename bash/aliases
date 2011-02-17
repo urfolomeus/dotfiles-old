@@ -1,15 +1,17 @@
-# temp
+# projects
 alias paw='cd ~/projects/asw/web'
 alias aswm='mysql -uroot asw_major'
 alias aswt='mysql -uroot asw_test'
+alias nd='ssh alan@qa-major.asmallworld.net -L8162:soq:8161 -L8163:quirm:8161'
+
 alias std='mysql -uroot susan_development'
 alias stt='mysql -uroot susan_test'
+alias stssh='ssh alex@susantabak.com'
 
 # bash
 alias tu='top -o cpu'
 alias tm='top -o vsize' #memory
 alias c=clear
-alias nd='ssh alan@qa-major.asmallworld.net -L8162:soq:8161 -L8163:quirm:8161'
 alias sock='ln -s /opt/local/var/run/mysql5/mysqld.sock /tmp/mysql.sock'
 alias :q='exit'
 alias swapmb='ruby ~/bin/utilities/swap.rb -h mb & exit'
