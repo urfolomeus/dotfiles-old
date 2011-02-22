@@ -1,7 +1,7 @@
 
 if has("gui_macvim")
   " Fullscreen takes up entire screen
-  set fu
+  "set fu
   set fuoptions=maxhorz,maxvert
 
   " Command-T for CommandT

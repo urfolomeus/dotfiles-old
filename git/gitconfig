@@ -3,3 +3,5 @@
 	email = urfolomeus@gmail.com
 [core]
 	excludesfile = /Users/urfolomeus/.gitignore
+[diff]
+  color = true

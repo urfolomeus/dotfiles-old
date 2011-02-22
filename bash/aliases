@@ -16,6 +16,7 @@ alias sock='ln -s /opt/local/var/run/mysql5/mysqld.sock /tmp/mysql.sock'
 alias :q='exit'
 alias swapmb='ruby ~/bin/utilities/swap.rb -h mb & exit'
 alias swapmbp='ruby ~/bin/utilities/swap.rb -h mbp & exit'
+alias mvim='mvim &'
 
 # ruby
 alias rb='ruby'
@@ -29,6 +30,7 @@ alias t='cc && spec'
 
 # rails
 alias ss="./script/server"
+alias sss="rake sphinx:start && ./script/server"
 alias sg="./script/generate"
 alias sd="./script/destroy"
 alias sc="./script/console"
@@ -38,6 +40,7 @@ alias rdbtp="rake db:test:prepare"
 alias rdbfl="rake db:fixtures:load"
 alias rtf="rake test:functionals"
 alias rtu="rake test:units"
+alias rst="rake sphinx:stop"
 
 alias rs="rails server"
 alias rc="rails console"
