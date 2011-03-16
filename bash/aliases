@@ -14,6 +14,8 @@ alias tm='top -o vsize' #memory
 alias c=clear
 alias sock='ln -s /opt/local/var/run/mysql5/mysqld.sock /tmp/mysql.sock'
 alias :q='exit'
+alias mb='ssh urfolomeus@10.0.1.2'
+alias mbp='ssh urfolomeus@10.0.1.7'
 alias swapmb='ruby ~/bin/utilities/swap.rb -h mb & exit'
 alias swapmbp='ruby ~/bin/utilities/swap.rb -h mbp & exit'
 alias mvim='mvim &'
@@ -22,11 +24,9 @@ alias mvim='mvim &'
 alias rb='ruby'
 
 # testing
-alias cc='cucumber'
-alias ccf='cc features'
-alias rsp='rspec --color'
-alias spec='rsp spec --format doc'
-alias t='cc && spec'
+alias cc='rake cucumber'
+alias rsp='rake spec'
+alias t='c & cc && rsp'
 
 # rails
 alias ss="./script/server"
