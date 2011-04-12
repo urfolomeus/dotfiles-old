@@ -1,5 +1,5 @@
 # projects
-alias paw='cd ~/projects/asw/web'
+alias paw='cd ~/projects/asw/web && rvm asw'
 alias aswm='mysql -uroot asw_major'
 alias aswt='mysql -uroot asw_test'
 alias nd='ssh alan@qa-major.asmallworld.net -L8162:soq:8161 -L8163:quirm:8161'
@@ -7,6 +7,8 @@ alias nd='ssh alan@qa-major.asmallworld.net -L8162:soq:8161 -L8163:quirm:8161'
 alias std='mysql -uroot susan_development'
 alias stt='mysql -uroot susan_test'
 alias stssh='ssh alex@susantabak.com'
+
+alias ct='cd ~/projects/chemis-tree && rvm rails3'
 
 # bash
 alias tu='top -o cpu'
@@ -36,6 +38,7 @@ alias sd="./script/destroy"
 alias sc="./script/console"
 alias scr="./script/cucumber-rstakeout"
 alias rdbm="rake db:migrate"
+alias rdbs="rake db:seed"
 alias rdbtp="rake db:test:prepare"
 alias rdbfl="rake db:fixtures:load"
 alias rtf="rake test:functionals"
@@ -68,6 +71,7 @@ alias gplo="git pull origin"
 alias gl="git log"
 alias gco="git checkout"
 alias gfo="git fetch origin"
+alias gm="git merge"
 
 # emacs
 alias emacs="/Applications/Emacs.app/Contents/MacOS/bin/emacsclient"

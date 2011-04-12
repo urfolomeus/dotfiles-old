@@ -10,6 +10,9 @@ function railsapp {
   rails $appname -m http://github.com/urfolomeus/rails_templates/raw/master/$template.rb $@
 }
 
+git_completion=`brew --prefix git`/etc/bash_completion.d/git-completion.bash
+if [ -f $git_completion ] ; then source $git_completion; fi
+
 VIOLET="\[\033[0;35m\]"
 CYAN="\[\033[0;36m\]" 
 YELLOW="\[\033[0;33m\]" 

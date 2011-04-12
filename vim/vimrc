@@ -1,4 +1,5 @@
 set nocompatible
+set hidden
 
 set number
 set ruler
@@ -117,3 +118,8 @@ set directory=~/.vim/tmp
 if filereadable(expand("~/.vimrc.local"))
   source ~/.vimrc.local
 endif
+
+nmap <D-[> <<
+nmap <D-]> >>
+vmap <D-[> <gv
+vmap <D-]> >gv
