@@ -1,5 +1,5 @@
 # projects
-alias paw='cd ~/projects/asw/web'
+alias paw='cd ~/projects/asw/web && rvm asw'
 alias aswm='mysql -uroot asw_major'
 alias aswt='mysql -uroot asw_test'
 alias nd='ssh alan@qa-major.asmallworld.net -L8162:soq:8161 -L8163:quirm:8161'
@@ -8,12 +8,16 @@ alias std='mysql -uroot susan_development'
 alias stt='mysql -uroot susan_test'
 alias stssh='ssh alex@susantabak.com'
 
+alias ct='cd ~/projects/chemis-tree && rvm rails3'
+
 # bash
 alias tu='top -o cpu'
 alias tm='top -o vsize' #memory
 alias c=clear
 alias sock='ln -s /opt/local/var/run/mysql5/mysqld.sock /tmp/mysql.sock'
 alias :q='exit'
+alias mb='ssh urfolomeus@10.0.1.2'
+alias mbp='ssh urfolomeus@10.0.1.7'
 alias swapmb='ruby ~/bin/utilities/swap.rb -h mb & exit'
 alias swapmbp='ruby ~/bin/utilities/swap.rb -h mbp & exit'
 alias mvim='mvim &'
@@ -22,11 +26,9 @@ alias mvim='mvim &'
 alias rb='ruby'
 
 # testing
-alias cc='cucumber'
-alias ccf='cc features'
-alias rsp='rspec --color'
-alias spec='rsp spec --format doc'
-alias t='cc && spec'
+alias cc='rake cucumber'
+alias rsp='rake spec'
+alias t='c & cc && rsp'
 
 # rails
 alias ss="./script/server"
@@ -69,6 +71,7 @@ alias gplo="git pull origin"
 alias gl="git log"
 alias gco="git checkout"
 alias gfo="git fetch origin"
+alias gm="git merge"
 
 # emacs
 alias emacs="/Applications/Emacs.app/Contents/MacOS/bin/emacsclient"
