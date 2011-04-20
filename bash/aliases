@@ -8,7 +8,7 @@ alias std='mysql -uroot susan_development'
 alias stt='mysql -uroot susan_test'
 alias stssh='ssh alex@susantabak.com'
 
-alias ct='cd ~/projects/chemis-tree && rvm rails3'
+alias ct='cd ~/projects/chemis-tree && rvm chemis-tree'
 
 # bash
 alias tu='top -o cpu'
