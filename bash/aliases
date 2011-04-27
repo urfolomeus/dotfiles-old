@@ -1,11 +1,12 @@
 # projects
+alias mysu='mysql -uroot'
 alias paw='cd ~/projects/asw/web && rvm asw'
-alias aswm='mysql -uroot asw_major'
-alias aswt='mysql -uroot asw_test'
+alias aswm='mysu asw_major'
+alias aswt='mysu asw_test'
 alias nd='ssh alan@qa-major.asmallworld.net -L8162:soq:8161 -L8163:quirm:8161'
 
-alias std='mysql -uroot susan_development'
-alias stt='mysql -uroot susan_test'
+alias std='mysu susan_development'
+alias stt='mysu susan_test'
 alias stssh='ssh alex@susantabak.com'
 
 alias ct='cd ~/projects/chemis-tree && rvm chemis-tree'
@@ -28,6 +29,7 @@ alias rb='ruby'
 # testing
 alias cc='rake cucumber'
 alias rsp='rake spec'
+alias st='script/test'
 alias t='c & cc && rsp'
 
 # rails
