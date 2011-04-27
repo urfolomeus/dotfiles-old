@@ -6,7 +6,7 @@
   editor = /usr/bin/vim
 [diff]
   color = true
-	external = /Users/Alan/bin/dotfiles/git/git_diff_wrapper.sh
+	external = ~/bin/dotfiles/git/git_diff_wrapper.sh
 [github]
 	user = urfolomeus
 	token = 16376518d5113e3e185d2d5896fa6a3d

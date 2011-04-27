@@ -1,10 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =8
-let g:netrw_dirhist_1='/Users/Alan/src/mine/ruby/rspec_book/codebreaker/features/step_definitions'
-let g:netrw_dirhist_2='/Users/Alan/src/asw/ASW-Site/Web'
-let g:netrw_dirhist_3='/Users/Alan/src/asw/ASW-Site/Web/spec'
-let g:netrw_dirhist_4='/Users/Alan/src/asw/ASW-Site/Web/spec/models'
-let g:netrw_dirhist_5='/Users/Alan/src/asw/ASW-Site/Web'
-let g:netrw_dirhist_6='/Users/Alan/src/asw/ASW-Site/Web/app'
-let g:netrw_dirhist_7='/Users/Alan/src/asw/ASW-Site/Web/app/models'
-let g:netrw_dirhist_8='/Users/Alan/src/asw/ASW-Site/Web'
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/Users/Alan/src/asw/ASW-Site/Web'
+let g:netrw_dirhist_2='/Users/urfolomeus/src/work/ASW-Site/Web'
+let g:netrw_dirhist_3='/Users/Alan/src/mine/rails/awdwr4/depot'
