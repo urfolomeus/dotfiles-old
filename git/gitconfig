@@ -2,7 +2,7 @@
 	name = Alan Gardner
 	email = urfolomeus@gmail.com
 [core]
-	excludesfile = /Users/Alan/.gitignore
+	excludesfile = /Users/urfolomeus/.gitignore
   editor = /usr/bin/vim
 [diff]
   color = true
