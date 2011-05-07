@@ -21,7 +21,7 @@ alias mb='ssh urfolomeus@10.0.1.2'
 alias mbp='ssh urfolomeus@10.0.1.7'
 alias swapmb='ruby ~/bin/utilities/swap.rb -h mb & exit'
 alias swapmbp='ruby ~/bin/utilities/swap.rb -h mbp & exit'
-alias mvim='mvim &'
+alias vim='mvim'
 
 # ruby
 alias rb='ruby'

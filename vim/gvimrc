@@ -64,11 +64,16 @@ endif
 " Don't beep
 set visualbell
 
-" Start without the toolbar
+" Start without the toolbar or scrollbars
 set guioptions-=T
+set guioptions-=L
+set guioptions-=r
 
 " Default gui color scheme
-color ir_black
+color vibrantink
+
+" Default font and size
+set guifont=Monaco:h15
 
 " ConqueTerm wrapper
 function StartTerm()
