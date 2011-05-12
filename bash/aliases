@@ -22,6 +22,8 @@ alias mbp='ssh urfolomeus@10.0.1.7'
 alias swapmb='ruby ~/bin/utilities/swap.rb -h mb & exit'
 alias swapmbp='ruby ~/bin/utilities/swap.rb -h mbp & exit'
 alias vim='mvim'
+alias mysqlstop='/usr/local/Cellar/mysql/5.5.10/bin/mysqld stop'
+alias mysqlstop='/usr/local/Cellar/mysql/5.5.10/bin/mysqld start'
 
 # ruby
 alias rb='ruby'
