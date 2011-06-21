@@ -11,6 +11,8 @@ alias stssh='ssh alex@susantabak.com'
 
 alias ct='cd ~/projects/chemis-tree && rvm chemis-tree'
 
+alias mc='cd ~/projects/music_cataloger && rvm mc'
+
 # bash
 alias tu='top -o cpu'
 alias tm='top -o vsize' #memory
@@ -24,6 +26,7 @@ alias swapmbp='ruby ~/bin/utilities/swap.rb -h mbp & exit'
 alias vim='mvim'
 alias mysqlstop='/usr/local/Cellar/mysql/5.5.10/bin/mysqld stop'
 alias mysqlstop='/usr/local/Cellar/mysql/5.5.10/bin/mysqld start'
+alias nudge='. ~/.bashrc'
 
 # ruby
 alias rb='ruby'
@@ -57,6 +60,8 @@ alias rgm="rails generate model"
 alias rgmg="rails generate migration"
 alias rgs="rails generate scaffold"
 
+alias uni="unicorn_rails -c config/unicorn/development.rb"
+
 #rstakeout
 alias rsc='./script/rstakeout "./script/cucumber" "app/**/*.erb" "features/**/*"'
 alias rsr='./script/rstakeout "rake spec" "app/**/*.rb" "spec/**/*"'
@@ -66,12 +71,15 @@ alias ga="git add -A"
 alias gs="git status"
 alias gc="git commit"
 alias gd="git diff"
+alias gdt="git difftool"
 alias gi="git init"
 alias gps="git push"
 alias gpso="git push origin"
 alias gpsh="git push heroku"
 alias gpl="git pull"
 alias gplo="git pull origin"
+alias gpr="git pull --rebase"
+alias gpro="git pull --rebase origin"
 alias gl="git log"
 alias gco="git checkout"
 alias gfo="git fetch origin"
