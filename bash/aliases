@@ -85,6 +85,8 @@ alias gco="git checkout"
 alias gfo="git fetch origin"
 alias gm="git merge"
 alias gb="git branch"
+alias gst="git stash"
+alias gsta="git stash apply"
 
 # emacs
 alias emacs="/Applications/Emacs.app/Contents/MacOS/bin/emacsclient"
