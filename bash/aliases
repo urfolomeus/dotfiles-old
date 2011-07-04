@@ -1,6 +1,6 @@
 # projects
-alias mysu='mysql -uroot'
-alias paw='cd ~/projects/asw/web && rvm asw'
+alias asw='cd ~/projects/asw/web && rvm asw'
+alias paw='echo Use asw, numbnuts'
 alias aswm='mysu asw_major'
 alias aswt='mysu asw_test'
 alias nd='ssh alan@qa-major.asmallworld.net -L8162:soq:8161 -L8163:quirm:8161'
@@ -10,8 +10,13 @@ alias stt='mysu susan_test'
 alias stssh='ssh alex@susantabak.com'
 
 alias ct='cd ~/projects/chemis-tree && rvm chemis-tree'
+alias hcp='heroku console --app chemis-tree-paypal'
+alias hlp='heroku logs --app chemis-tree-paypal'
+alias gphp='git push heroku_paypal'
 
 alias mc='cd ~/projects/music_cataloger && rvm mc'
+
+alias sht='cd ~/projects/showtime && rvm rsb'
 
 # bash
 alias tu='top -o cpu'
@@ -26,6 +31,7 @@ alias swapmbp='ruby ~/bin/utilities/swap.rb -h mbp & exit'
 alias vim='mvim'
 alias mysqlstop='/usr/local/Cellar/mysql/5.5.10/bin/mysqld stop'
 alias mysqlstop='/usr/local/Cellar/mysql/5.5.10/bin/mysqld start'
+alias mysu='mysql -uroot'
 alias nudge='. ~/.bashrc'
 
 # ruby
@@ -61,6 +67,10 @@ alias rgmg="rails generate migration"
 alias rgs="rails generate scaffold"
 
 alias uni="unicorn_rails -c config/unicorn/development.rb"
+
+#heroku
+alias hc="heroku console"
+alias hl="heroku logs"
 
 #rstakeout
 alias rsc='./script/rstakeout "./script/cucumber" "app/**/*.erb" "features/**/*"'
