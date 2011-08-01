@@ -18,6 +18,8 @@ alias mc='cd ~/projects/music_cataloger && rvm mc'
 
 alias sht='cd ~/projects/showtime && rvm rsb'
 
+alias oj='cd ~/projects/msc/oj && rvm ms_oj'
+
 # bash
 alias tu='top -o cpu'
 alias tm='top -o vsize' #memory
@@ -40,8 +42,10 @@ alias rb='ruby'
 # testing
 alias cc='rake cucumber'
 alias rsp='rake spec'
-alias st='script/test'
-alias t='c & cc && rsp'
+alias bec='bundle exec cucumber'
+alias bes='bundle exec spec'
+alias ber='bundle exec rspec'
+alias t='c & bec && bes'
 
 # rails
 alias ss="./script/server"
@@ -97,6 +101,7 @@ alias gm="git merge"
 alias gb="git branch"
 alias gst="git stash"
 alias gsta="git stash apply"
+alias gcp="git cherry-pick"
 
 # emacs
 alias emacs="/Applications/Emacs.app/Contents/MacOS/bin/emacsclient"

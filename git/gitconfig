@@ -9,7 +9,9 @@
 	token = 16376518d5113e3e185d2d5896fa6a3d
 [diff]
   color = true
-	tool = Kaleidoscope
+	tool = Changes
+[difftool "Changes"]
+	cmd = chdiff \"$LOCAL\" \"$REMOTE\"
 [difftool "Kaleidoscope"]
 	cmd = ksdiff-wrapper git \"$LOCAL\" \"$REMOTE\"
 [difftool]
