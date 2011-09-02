@@ -1,24 +1,28 @@
 # projects
+
+# ASW
 alias asw='cd ~/projects/asw/web && rvm asw'
-alias paw='echo Use asw, numbnuts'
 alias aswm='mysu asw_major'
 alias aswt='mysu asw_test'
 alias nd='ssh alan@qa-major.asmallworld.net -L8162:soq:8161 -L8163:quirm:8161'
 
+# susantabak.com
 alias std='mysu susan_development'
 alias stt='mysu susan_test'
 alias stssh='ssh alex@susantabak.com'
 
+# chemis-tree.com
 alias ct='cd ~/projects/chemis-tree && rvm chemis-tree'
 alias hcp='heroku console --app chemis-tree-paypal'
 alias hlp='heroku logs --app chemis-tree-paypal'
 alias gphp='git push heroku_paypal'
 
+# personal
+alias jssb='cd ~/Sites/javascript/js_sandbox'
 alias mc='cd ~/projects/music_cataloger && rvm mc'
-
 alias sht='cd ~/projects/showtime && rvm rsb'
 
-alias oj='cd ~/projects/msc/oj && rvm ms_oj'
+# other
 
 # bash
 alias tu='top -o cpu'
@@ -34,6 +38,7 @@ alias vim='mvim'
 alias mysqlstop='/usr/local/Cellar/mysql/5.5.10/bin/mysqld stop'
 alias mysqlstop='/usr/local/Cellar/mysql/5.5.10/bin/mysqld start'
 alias mysu='mysql -uroot'
+alias mc_hammer='launchctl stop com.danga.memcached & launchctl start com.danga.memcached'
 alias nudge='. ~/.bashrc'
 
 # ruby
@@ -82,26 +87,28 @@ alias rsr='./script/rstakeout "rake spec" "app/**/*.rb" "spec/**/*"'
 
 # git
 alias ga="git add -A"
-alias gs="git status"
+alias gb="git branch"
 alias gc="git commit"
+alias gco="git checkout"
+alias gcp="git cherry-pick"
 alias gd="git diff"
 alias gdt="git difftool"
+alias gfo="git fetch origin"
 alias gi="git init"
-alias gps="git push"
-alias gpso="git push origin"
-alias gpsh="git push heroku"
+alias gl="git log"
+alias gm="git merge --ff"
+alias gmf="git merge"
 alias gpl="git pull"
 alias gplo="git pull origin"
 alias gpr="git pull --rebase"
 alias gpro="git pull --rebase origin"
-alias gl="git log"
-alias gco="git checkout"
-alias gfo="git fetch origin"
-alias gm="git merge"
-alias gb="git branch"
+alias gps="git push"
+alias gpsh="git push heroku"
+alias gpso="git push origin"
+alias grh="git reset HEAD"
+alias gs="git status"
 alias gst="git stash"
 alias gsta="git stash apply"
-alias gcp="git cherry-pick"
 
 # emacs
 alias emacs="/Applications/Emacs.app/Contents/MacOS/bin/emacsclient"

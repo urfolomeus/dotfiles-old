@@ -73,7 +73,7 @@ set guioptions-=r
 color vibrantink
 
 " Default font and size
-set guifont=Monaco:h15
+set guifont=Monaco:h18
 
 " ConqueTerm wrapper
 function StartTerm()

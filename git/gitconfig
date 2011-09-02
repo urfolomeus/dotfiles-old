@@ -9,7 +9,7 @@
 	token = 16376518d5113e3e185d2d5896fa6a3d
 [diff]
   color = true
-	tool = Changes
+	tool = Kaleidoscope
 [difftool "Changes"]
 	cmd = chdiff \"$LOCAL\" \"$REMOTE\"
 [difftool "Kaleidoscope"]

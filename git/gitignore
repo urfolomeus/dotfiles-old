@@ -5,3 +5,7 @@
 .rvmrc
 *asw_dump*
 db/chemis-tree-paypal.db
+*Reporting/report/periodic_*
+*/public/javascripts/Player.js
+*/public/javascripts/Song.js
+*/spec/javascripts/PlayerSpec.js
