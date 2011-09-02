@@ -1,4 +1,4 @@
-# projects
+## projects
 
 # ASW
 alias asw='cd ~/projects/asw/web && rvm asw'
@@ -21,38 +21,35 @@ alias gphp='git push heroku_paypal'
 alias jssb='cd ~/Sites/javascript/js_sandbox'
 alias mc='cd ~/projects/music_cataloger && rvm mc'
 alias sht='cd ~/projects/showtime && rvm rsb'
+alias depot='cd ~/src/learning/rails/depot && rvm rails31'
 
 # other
 
-# bash
-alias tu='top -o cpu'
-alias tm='top -o vsize' #memory
-alias c=clear
-alias sock='ln -s /opt/local/var/run/mysql5/mysqld.sock /tmp/mysql.sock'
+## bash
 alias :q='exit'
-alias mb='ssh urfolomeus@10.0.1.2'
-alias mbp='ssh urfolomeus@10.0.1.7'
+alias c='clear'
+alias jfdi='sudo'
+alias mc_hammer='launchctl stop com.danga.memcached & launchctl start com.danga.memcached'
+alias mysqlstop='/usr/local/Cellar/mysql/5.5.10/bin/mysqld stop'
+alias mysqlstart='/usr/local/Cellar/mysql/5.5.10/bin/mysqld start'
+alias mysu='mysql -uroot'
+alias nudge='. ~/.bashrc'
+alias rb='ruby'
 alias swapmb='ruby ~/bin/utilities/swap.rb -h mb & exit'
 alias swapmbp='ruby ~/bin/utilities/swap.rb -h mbp & exit'
+alias tm='top -o vsize' #memory
+alias tu='top -o cpu'
 alias vim='mvim'
-alias mysqlstop='/usr/local/Cellar/mysql/5.5.10/bin/mysqld stop'
-alias mysqlstop='/usr/local/Cellar/mysql/5.5.10/bin/mysqld start'
-alias mysu='mysql -uroot'
-alias mc_hammer='launchctl stop com.danga.memcached & launchctl start com.danga.memcached'
-alias nudge='. ~/.bashrc'
 
-# ruby
-alias rb='ruby'
-
-# testing
+## testing
+alias bec='bundle exec cucumber'
+alias ber='bundle exec rspec'
+alias bes='bundle exec spec'
 alias cc='rake cucumber'
 alias rsp='rake spec'
-alias bec='bundle exec cucumber'
-alias bes='bundle exec spec'
-alias ber='bundle exec rspec'
 alias t='c & bec && bes'
 
-# rails
+## rails
 alias ss="./script/server"
 alias sss="rake sphinx:start && ./script/server"
 alias sg="./script/generate"
@@ -63,6 +60,7 @@ alias rdbm="rake db:migrate"
 alias rdbs="rake db:seed"
 alias rdbtp="rake db:test:prepare"
 alias rdbfl="rake db:fixtures:load"
+alias rt="rake test"
 alias rtf="rake test:functionals"
 alias rtu="rake test:units"
 alias rst="rake sphinx:stop"
@@ -77,18 +75,19 @@ alias rgs="rails generate scaffold"
 
 alias uni="unicorn_rails -c config/unicorn/development.rb"
 
-#heroku
+##heroku
 alias hc="heroku console"
 alias hl="heroku logs"
 
-#rstakeout
+##rstakeout
 alias rsc='./script/rstakeout "./script/cucumber" "app/**/*.erb" "features/**/*"'
 alias rsr='./script/rstakeout "rake spec" "app/**/*.rb" "spec/**/*"'
 
-# git
+## git
 alias ga="git add -A"
 alias gb="git branch"
 alias gc="git commit"
+alias gca="git commit -a"
 alias gco="git checkout"
 alias gcp="git cherry-pick"
 alias gd="git diff"
@@ -110,13 +109,13 @@ alias gs="git status"
 alias gst="git stash"
 alias gsta="git stash apply"
 
-# emacs
+## emacs
 alias emacs="/Applications/Emacs.app/Contents/MacOS/bin/emacsclient"
 
-# mysql
+## mysql
 alias mst="/Library/StartupItems/MySQLCOM/MySQLCOM start"
 alias msp="/Library/StartupItems/MySQLCOM/MySQLCOM stop"
 
-# rvm
+## rvm
 alias rvmu="rvm use"
 alias rvmgu="rvm gemset use"

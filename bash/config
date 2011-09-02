@@ -19,3 +19,6 @@ YELLOW="\[\033[0;33m\]"
 GREEN="\[\033[0;32m\]" 
 
 export PS1="\n$VIOLET\u: $CYAN\w$YELLOW \$(parse_git_branch)$GREEN\$\n> "
+
+export CLICOLOR=1
+export LSCOLORS=GxExCxDxBxegedabagacad
