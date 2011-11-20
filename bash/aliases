@@ -23,8 +23,11 @@ alias mc='cd ~/projects/music_cataloger && rvm mc'
 alias sht='cd ~/projects/showtime && rvm rsb'
 alias depot='cd ~/src/learning/rails/depot && rvm rails31'
 alias koans='cd ~/projects/ruby_koans && rvm 1.9.2'
+alias dt='cd ~/src/learning/rails/rails3-devise-rspec-cucumber/ && rvm rails31'
+alias nl='cd ~/src/work/northern_lights && rvm sinatra'
 
 # other
+alias ad_test='cd ~/src/personal/sandbox/ad_test'
 
 ## bash
 alias :q='exit'
@@ -47,14 +50,13 @@ alias vim='mvim'
 alias bec='bundle exec cucumber'
 alias ber='bundle exec rspec'
 alias bes='bundle exec spec'
-alias cc='rake cucumber'
-alias rsp='rake spec'
-alias t='c & bec && bes'
+alias bert='bundle exec rake test'
 
 ## rails
 alias sss="rake sphinx:start && ./script/server"
 alias rdbfl="rake db:fixtures:load"
 alias rdbm="rake db:migrate"
+alias rdbr="rake db:rollback"
 alias rdbs="rake db:seed"
 alias rdbtp="rake db:test:prepare"
 alias rssp="rake sphinx:stop"
@@ -137,3 +139,7 @@ alias msp="/Library/StartupItems/MySQLCOM/MySQLCOM stop"
 ## rvm
 alias rvmu="rvm use"
 alias rvmgu="rvm gemset use"
+
+## rake
+alias rr="rake routes"
+alias rT="rake -T"
