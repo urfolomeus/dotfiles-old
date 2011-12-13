@@ -24,6 +24,7 @@ alias sht='cd ~/projects/showtime && rvm rsb'
 alias depot='cd ~/src/learning/rails/depot && rvm rails31'
 alias koans='cd ~/projects/ruby_koans && rvm 1.9.2'
 alias dt='cd ~/src/learning/rails/rails3-devise-rspec-cucumber/ && rvm rails31'
+alias cb='cd ~/src/learning/rails/cucumber_book/ && rvm cuke_book'
 alias nl='cd ~/src/work/northern_lights && rvm sinatra'
 
 # other
@@ -47,10 +48,11 @@ alias tm='top -o vsize' #memory
 alias tu='top -o cpu'
 
 ## testing
-alias bec='bundle exec cucumber'
-alias ber='bundle exec rspec'
-alias bes='bundle exec spec'
-alias bert='bundle exec rake test'
+alias cuke="clear && cucumber"
+alias bec='clear && bundle exec cucumber'
+alias ber='clear && bundle exec rspec'
+alias bes='clear && bundle exec spec'
+alias bert='clear && bundle exec rake test'
 
 ## rails
 alias sss="rake sphinx:start && ./script/server"
@@ -121,9 +123,12 @@ alias gpl="git pull"
 alias gplo="git pull origin"
 alias gpr="git pull --rebase"
 alias gpro="git pull --rebase origin"
+alias gproc="git pull --rebase origin $(parse_git_branch)"
 alias gps="git push"
 alias gpsh="git push heroku"
+alias gpshc="git push heroku $(parse_git_branch)"
 alias gpso="git push origin"
+alias gpsoc="git push origin $(parse_git_branch)"
 alias grh="git reset HEAD"
 alias gs="git status"
 alias gst="git stash"
