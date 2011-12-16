@@ -26,6 +26,7 @@ alias koans='cd ~/projects/ruby_koans && rvm 1.9.2'
 alias dt='cd ~/src/learning/rails/rails3-devise-rspec-cucumber/ && rvm rails31'
 alias cb='cd ~/src/learning/rails/cucumber_book/ && rvm cuke_book'
 alias nl='cd ~/src/work/northern_lights && rvm sinatra'
+alias oor='cd ~/src/learning/rails/oor/ && rvm rails'
 
 # other
 alias ad_test='cd ~/src/personal/sandbox/ad_test'
