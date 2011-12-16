@@ -1,5 +1,0 @@
-" Map leader key
-let mapleader = ","
-
-" Default color scheme
-color vibrantink
