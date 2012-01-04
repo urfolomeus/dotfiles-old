@@ -1,15 +1,16 @@
 call pathogen#infect()
+filetype off
+syntax on
+filetype plugin indent on       " load file type plugins + indentation
 
 set nocompatible
 
 set number
 set ruler
-syntax enable
 
 set encoding=utf-8
 
 set showcmd                     " display incomplete commands
-filetype plugin indent on       " load file type plugins + indentation
 
 "" Whitespace
 set nowrap
