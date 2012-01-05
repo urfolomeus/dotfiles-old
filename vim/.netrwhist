@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/alan/bin/dotfiles/bash'
+let g:netrw_dirhist_2='/Users/alan/src/work/chemis-tree/app'
+let g:netrw_dirhist_3='/Users/alan/src/work/chemis-tree'
+let g:netrw_dirhist_4='/Users/alan/src/work/chemis-tree/config'
+let g:netrw_dirhist_5='/Users/alan/src/work/chemis-tree/config/environments'
+let g:netrw_dirhist_6='/Users/alan/src/work/chemis-tree/config'
+let g:netrw_dirhist_7='/Users/alan/src/work/chemis-tree/config/initializers'
