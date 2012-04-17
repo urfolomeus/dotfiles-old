@@ -26,35 +26,45 @@ alias koans='cd ~/projects/ruby_koans && rvm 1.9.2'
 alias katas='cd ~/src/learning/katas && rvm 1.9.3'
 alias dt='cd ~/src/learning/rails/rails3-devise-rspec-cucumber/ && rvm rails31'
 alias cb='cd ~/src/learning/rails/cucumber_book/ && rvm cuke_book'
-alias nl='cd ~/src/work/northern_lights && rvm sinatra'
+alias nl='cd ~/src/work/northern_lights && rvm use 1.9.3@nlc'
 alias oor='cd ~/src/learning/rails/oor/ && rvm rails'
+alias csb='cd ~/src/learning/coffeescript/book'
+alias grf='cd ~/projects/grokfodder'
+alias style='cd ~/Sites/style_box'
 
 # other
-alias ad_test='cd ~/src/personal/sandbox/ad_test'
+alias darts='cd ~/projects/scotrug/darts'
 
 ## bash
 alias :q='exit'
 alias c='clear'
+alias cf='coffee'
+alias ea='vim ~/bin/dotfiles/bash/aliases'
+alias elastic='elasticsearch -f -D es.config=/usr/local/Cellar/elasticsearch/0.18.7/config/elasticsearch.yml'
 alias jfdi='sudo'
 alias manp="man -t $1 | open -fa preview"
 alias mc_hammer='launchctl stop com.danga.memcached & launchctl start com.danga.memcached'
 alias mysqlstop='/usr/local/Cellar/mysql/5.5.10/bin/mysqld stop'
 alias mysqlstart='/usr/local/Cellar/mysql/5.5.10/bin/mysqld start'
 alias mysu='mysql -uroot -p'
-alias ea='vim ~/bin/dotfiles/bash/aliases'
+alias mong='mongod run --config /usr/local/Cellar/mongodb/2.0.2-x86_64/mongod.conf'
+alias mongd='nohup mongod run --config /usr/local/Cellar/mongodb/2.0.2-x86_64/mongod.conf > /tmp/mongod.log 2>&1 &'
 alias nudge='. ~/.bashrc'
 alias rb='ruby'
 alias swapmb='ruby ~/bin/utilities/swap.rb -h mb & exit'
 alias swapmbp='ruby ~/bin/utilities/swap.rb -h mbp & exit'
 alias tm='top -o vsize' #memory
 alias tu='top -o cpu'
+alias tks='tmux kill-session -t'
 
 ## testing
 alias cuke="clear && cucumber"
 alias bec='clear && bundle exec cucumber'
 alias ber='clear && bundle exec rspec'
+alias berc='clear && bundle exec rspec && bundle exec cucumber'
 alias bes='clear && bundle exec spec'
 alias bert='clear && bundle exec rake test'
+alias bifta='clear && bundle exec cucumber -f html -o tmp/cukes.html; open tmp/cukes.html; bundle exec rspec spec'
 
 ## rails
 alias sss="rake sphinx:start && ./script/server"
@@ -85,6 +95,7 @@ alias sgs="./script/generate scaffold"
 alias ss="./script/server"
 
 #3.x
+alias be="bundle exec"
 alias rc="rails console"
 alias sd="rails destroy"
 alias sdc="rails destroy controller"
@@ -99,8 +110,9 @@ alias rgs="rails generate scaffold"
 alias rs="rails server"
 
 ##heroku
-alias hc="heroku console"
+alias hc="heroku run console"
 alias hl="heroku logs"
+alias hrdbm="heroku run rake db:migrate"
 
 ##rstakeout
 #alias scr="./script/cucumber-rstakeout"
@@ -112,10 +124,12 @@ alias ga="git add -A"
 alias gb="git branch"
 alias gc="git commit"
 alias gca="git commit -a"
+alias gcl="git clone"
 alias gco="git checkout"
 alias gcp="git cherry-pick"
 alias gd="git diff"
 alias gdt="git difftool"
+alias gdtc="git difftool --cached"
 alias gfo="git fetch origin"
 alias gi="git init"
 alias gl="git log --graph --pretty=\"format:%C(yellow)%h%Cblue%d%Creset %s %C(white) %an, %ar%Creset\""
