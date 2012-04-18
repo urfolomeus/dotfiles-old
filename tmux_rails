@@ -1,0 +1,48 @@
+#!/usr/bin/env bash
+PWD=`pwd`
+
+tmux has-session -t develop
+if [ $? != 0 ]
+then
+  # open the editor window and detach
+  set -- $(stty size) # $1 = rows $2 = columns
+  tmux -2 new-session -d -s develop -n editor -x "$2" -y "$(($1 - 1))" # status line uses a row
+
+  # split the screen and select a layout
+  tmux split-window -v -p 20 -t develop
+
+  # open vim in the project directory
+  tmux send-keys -t develop:1.0 "cd $PWD && clear" C-m
+  tmux send-keys -t develop:1.0 'vim' C-m
+
+  # open the tests in a pane below the editor
+  tmux send-keys -t develop:1.1 "cd $PWD && clear" C-m
+  tmux send-keys -t develop:1.1 'watch' C-m
+
+  # open a window for tools
+  tmux new-window -n tools -t develop
+
+  # split that window into 3 panes
+  tmux split-window -v -p 40 -t develop
+  tmux split-window -h -t develop
+  tmux select-layout 
+
+  # open the console in the first pane
+  tmux send-keys -t develop:2.0 "cd $PWD && clear" C-m
+
+  # open the rails console in the second pane
+  tmux send-keys -t develop:2.1 "cd $PWD && clear" C-m
+  tmux send-keys -t develop:2.1 "rails console" C-m
+
+  # open server in the third pane
+  tmux send-keys -t develop:2.2 "cd $PWD && clear" C-m
+  tmux send-keys -t develop:2.2 "rails server" C-m
+
+  # set initial window
+  tmux select-pane -t develop:2.0
+  tmux select-window -t develop:1
+  tmux select-pane -t develop:1.0
+fi
+
+# reattach to the session
+tmux attach -t develop

@@ -1,39 +1,10 @@
 ## projects
 
-# ASW
-alias asw='cd ~/projects/asw/web && rvm asw'
-alias aswm='mysu asw_major'
-alias aswt='mysu asw_test'
-alias nd='ssh alan@qa-major.asmallworld.net -L8162:soq:8161 -L8163:quirm:8161'
-
-# susantabak.com
-alias std='mysu susan_development'
-alias stt='mysu susan_test'
-alias stssh='ssh alex@susantabak.com'
-
-# chemis-tree.com
-alias ct='cd ~/projects/chemis-tree && rvm chemis-tree'
-alias hcp='heroku console --app chemis-tree-paypal'
-alias hlp='heroku logs --app chemis-tree-paypal'
-alias gphp='git push heroku_paypal'
-
 # personal
 alias jssb='cd ~/Sites/javascript/js_sandbox'
-alias mc='cd ~/projects/music_cataloger && rvm mc'
-alias sht='cd ~/projects/showtime && rvm rsb'
-alias depot='cd ~/src/learning/rails/depot && rvm rails31'
-alias koans='cd ~/projects/ruby_koans && rvm 1.9.2'
-alias katas='cd ~/src/learning/katas && rvm 1.9.3'
-alias dt='cd ~/src/learning/rails/rails3-devise-rspec-cucumber/ && rvm rails31'
-alias cb='cd ~/src/learning/rails/cucumber_book/ && rvm cuke_book'
 alias nl='cd ~/src/work/northern_lights && rvm use 1.9.3@nlc'
-alias oor='cd ~/src/learning/rails/oor/ && rvm rails'
-alias csb='cd ~/src/learning/coffeescript/book'
-alias grf='cd ~/projects/grokfodder'
 alias style='cd ~/Sites/style_box'
 
-# other
-alias darts='cd ~/projects/scotrug/darts'
 
 ## bash
 alias :q='exit'
@@ -46,7 +17,6 @@ alias manp="man -t $1 | open -fa preview"
 alias mc_hammer='launchctl stop com.danga.memcached & launchctl start com.danga.memcached'
 alias mysqlstop='/usr/local/Cellar/mysql/5.5.10/bin/mysqld stop'
 alias mysqlstart='/usr/local/Cellar/mysql/5.5.10/bin/mysqld start'
-alias mysu='mysql -uroot -p'
 alias mong='mongod run --config /usr/local/Cellar/mongodb/2.0.2-x86_64/mongod.conf'
 alias mongd='nohup mongod run --config /usr/local/Cellar/mongodb/2.0.2-x86_64/mongod.conf > /tmp/mongod.log 2>&1 &'
 alias nudge='. ~/.bashrc'
@@ -56,25 +26,24 @@ alias swapmbp='ruby ~/bin/utilities/swap.rb -h mbp & exit'
 alias tm='top -o vsize' #memory
 alias tu='top -o cpu'
 alias tks='tmux kill-session -t'
+alias tmr='~/bin/dotfiles/tmux_rails'
+
 
 ## testing
-alias cuke="clear && cucumber"
+alias watch='watchr ./Watchfile'
 alias bec='clear && bundle exec cucumber'
 alias ber='clear && bundle exec rspec'
-alias berc='clear && bundle exec rspec && bundle exec cucumber'
-alias bes='clear && bundle exec spec'
+alias berc='clear && bundle exec rspec; bundle exec cucumber'
 alias bert='clear && bundle exec rake test'
 alias bifta='clear && bundle exec cucumber -f html -o tmp/cukes.html; open tmp/cukes.html; bundle exec rspec spec'
 
+
 ## rails
-alias sss="rake sphinx:start && ./script/server"
 alias rdbfl="rake db:fixtures:load"
 alias rdbm="rake db:migrate"
 alias rdbr="rake db:rollback"
 alias rdbs="rake db:seed"
 alias rdbtp="rake db:test:prepare"
-alias rssp="rake sphinx:stop"
-alias rsst="rake sphinx:start"
 alias rt="rake test"
 alias rtf="rake test:functionals"
 alias rtu="rake test:units"
@@ -109,21 +78,17 @@ alias rgmg="rails generate migration"
 alias rgs="rails generate scaffold"
 alias rs="rails server"
 
+
 ##heroku
 alias hc="heroku run console"
 alias hl="heroku logs"
 alias hrdbm="heroku run rake db:migrate"
 
-##rstakeout
-#alias scr="./script/cucumber-rstakeout"
-alias rsc='./script/rstakeout "./script/cucumber" "app/**/*.erb" "features/**/*"'
-alias rsr='./script/rstakeout "rake spec" "app/**/*.rb" "spec/**/*"'
 
 ## git
 alias ga="git add -A"
 alias gb="git branch"
 alias gc="git commit"
-alias gca="git commit -a"
 alias gcl="git clone"
 alias gco="git checkout"
 alias gcp="git cherry-pick"
@@ -150,17 +115,13 @@ alias gs="git status"
 alias gst="git stash"
 alias gsta="git stash apply"
 
-## emacs
-alias emacs="/Applications/Emacs.app/Contents/MacOS/bin/emacsclient"
-
-## mysql
-alias mst="/Library/StartupItems/MySQLCOM/MySQLCOM start"
-alias msp="/Library/StartupItems/MySQLCOM/MySQLCOM stop"
 
 ## rvm
 alias rvmu="rvm use"
 alias rvmgu="rvm gemset use"
 
+
 ## rake
 alias rr="rake routes"
 alias rT="rake -T"
+
