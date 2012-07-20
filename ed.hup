@@ -1,9 +1,0 @@
-. ~/bin/dotfiles/bashrc
-
-if [ -s ~/.rvm/scripts/rvm ] ; then source ~/.rvm/scripts/rvm ; fi
-
-
-source /Users/Alan/.profile
-
-export AUTOFEATURE=true
-export RSPEC=true
