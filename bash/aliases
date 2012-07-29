@@ -21,6 +21,7 @@ alias mong='mongod run --config /usr/local/Cellar/mongodb/2.0.2-x86_64/mongod.co
 alias mongd='nohup mongod run --config /usr/local/Cellar/mongodb/2.0.2-x86_64/mongod.conf > /tmp/mongod.log 2>&1 &'
 alias nudge='. ~/.bashrc'
 alias rb='ruby'
+alias sublime='~/bin/dotfiles/sublime'
 alias swapmb='ruby ~/bin/utilities/swap.rb -h mb & exit'
 alias swapmbp='ruby ~/bin/utilities/swap.rb -h mbp & exit'
 alias tm='top -o vsize' #memory
