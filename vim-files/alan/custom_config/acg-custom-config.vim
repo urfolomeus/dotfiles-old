@@ -10,7 +10,8 @@ else
   let &t_EI = "\<Esc>]50;CursorShape=0\x7"
 endif
 
-autocmd BufNewFile,BufRead /Users/urfolomeus/src/learning/7l7w/prolog/*.pl set filetype=prolog
+autocmd BufNewFile,BufRead /Users/urfolomeus/src/personal/learning/7l7w/prolog/*.pl set filetype=prolog
+au BufRead,BufNewFile *.scala set filetype=scala
 
 " Save on focus lost
 :au FocusLost * silent! wa

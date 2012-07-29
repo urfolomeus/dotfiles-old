@@ -2,5 +2,5 @@
 " install plugins.
 
 " Plugins requiring no additional configuration or keymaps
-  Bundle "git://github.com/ecomba/vim-ruby-refactoring"
   Bundle "git://github.com/adimit/prolog.vim"
+  Bundle "git://github.com/derekwyatt/vim-scala.git"
