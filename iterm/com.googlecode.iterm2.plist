@@ -388,7 +388,7 @@
 	<key>NSTableView Sort Ordering KeyBingingTable</key>
 	<array/>
 	<key>NSWindow Frame Preferences</key>
-	<string>431 228 924 485 0 0 1366 768 </string>
+	<string>1595 769 924 485 0 0 2560 1440 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
 	<string>0 0 1366 768 0 0 1366 746 </string>
 	<key>NeverWarnAboutShortLivedSessions_3C40CD0D-D6C9-42B3-B420-BCDBA2F9A615</key>
@@ -580,7 +580,7 @@
 			<key>Blur</key>
 			<false/>
 			<key>Blur Radius</key>
-			<real>2</real>
+			<real>4.3967456817626953</real>
 			<key>Bold Color</key>
 			<dict>
 				<key>Blue Component</key>
@@ -1854,7 +1854,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2012-04-18T09:10:13Z</date>
+	<date>2012-07-20T07:43:50Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>Show Toolbelt</key>
