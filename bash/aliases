@@ -30,12 +30,16 @@ alias tks='tmux kill-session -t'
 alias tmr='~/bin/dotfiles/tmux_rails'
 
 
+## clojure
+alias lr='lein repl'
+
 ## testing
 alias watch='watchr ./Watchfile'
 alias bec='clear && bundle exec cucumber'
-alias ber='clear && bundle exec rspec'
+alias ber='clear && bundle exec rspec --format progress'
 alias berc='clear && bundle exec rspec; bundle exec cucumber'
 alias bert='clear && bundle exec rake test'
+alias bew='bundle exec watchr watchr.rb'
 alias bifta='clear && bundle exec cucumber -f html -o tmp/cukes.html; open tmp/cukes.html; bundle exec rspec spec'
 
 
