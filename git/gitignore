@@ -1,0 +1,15 @@
+.DS_Store
+*.swp
+*_acg*
+.idea/workspace.xml
+.rvmrc
+.ruby-gemset
+*asw_dump*
+db/chemis-tree-paypal.db
+*Reporting/report/periodic_*
+*/public/javascripts/Player.js
+*/public/javascripts/Song.js
+*/spec/javascripts/PlayerSpec.js
+TODO
+*.sqlite3-journal
+coverage

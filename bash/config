@@ -1,0 +1,20 @@
+function parse_git_branch {
+  ref=$(git symbolic-ref HEAD 2> /dev/null) || return
+  echo ${ref#refs/heads/}
+}
+
+. ~/bin/dotfiles/bash/git-completion.bash
+
+VIOLET="\[\033[0;35m\]"
+CYAN="\[\033[0;36m\]"
+YELLOW="\[\033[0;33m\]"
+GREEN="\[\033[0;32m\]"
+
+export PS1="\n$VIOLET\u: $CYAN\w$YELLOW [\$(parse_git_branch)]$GREEN\$\n> "
+
+export CLICOLOR=1
+export LSCOLORS=GxExCxDxBxegedabagacad
+
+bind '"\e[A": history-search-backward'
+bind '"\e[B": history-search-forward'
+

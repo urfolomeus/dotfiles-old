@@ -1,0 +1,8 @@
+export CC=gcc-4.2
+export EDITOR="/usr/bin/vim"
+export SHELL="bash"
+export PATH=/usr/local/bin:/usr/local/sbin:/usr/local/mysql/bin:/usr/local/jruby/bin:$PATH:~/bin:/usr/local/racket/bin
+export PATH=$PATH:/usr/local/share/npm/bin
+export PATH=$PATH:~/src/personal/scripts/css_pal/bin
+export PATH=$PATH:~/src/personal/scripts/git_pal/bin
+export NODE_PATH=/usr/local/lib/node_modules
