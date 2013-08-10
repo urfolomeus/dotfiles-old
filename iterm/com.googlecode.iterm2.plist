@@ -408,7 +408,7 @@
 	<key>NSTableView Sort Ordering KeyBingingTable</key>
 	<array/>
 	<key>NSWindow Frame Preferences</key>
-	<string>1151 688 605 485 0 0 2560 1440 </string>
+	<string>311 204 924 485 0 0 1366 768 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
 	<string>0 0 1366 768 0 0 1366 746 </string>
 	<key>NeverWarnAboutShortLivedSessions_3C40CD0D-D6C9-42B3-B420-BCDBA2F9A615</key>
@@ -432,6 +432,8 @@
 			<string></string>
 			<key>AWDS Window Option</key>
 			<string>No</string>
+			<key>Allow Title Reporting</key>
+			<false/>
 			<key>Ambiguous Double Width</key>
 			<false/>
 			<key>Ansi 0 Color</key>
@@ -591,6 +593,8 @@
 				<key>Red Component</key>
 				<real>0.0</real>
 			</dict>
+			<key>Background Image Is Tiled</key>
+			<false/>
 			<key>Background Image Location</key>
 			<string></string>
 			<key>Blend</key>
@@ -1100,7 +1104,7 @@
 			<key>Terminal Type</key>
 			<string>xterm-256color</string>
 			<key>Transparency</key>
-			<real>0.0</real>
+			<real>0.18341577053070068</real>
 			<key>Triggers</key>
 			<array/>
 			<key>Unlimited Scrollback</key>
@@ -1109,6 +1113,10 @@
 			<true/>
 			<key>Use Bright Bold</key>
 			<true/>
+			<key>Use Canonical Parser</key>
+			<false/>
+			<key>Use Italic Font</key>
+			<false/>
 			<key>Vertical Spacing</key>
 			<real>1</real>
 			<key>Visual Bell</key>
@@ -2578,11 +2586,11 @@
 	<key>SUEnableAutomaticChecks</key>
 	<true/>
 	<key>SUFeedURL</key>
-	<string>http://iterm2.googlecode.com/svn/trunk/appcasts/testing.xml</string>
+	<string>http://iterm2.com/appcasts/testing.xml</string>
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2013-06-06T11:07:14Z</date>
+	<date>2013-07-08T06:16:13Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>Show Toolbelt</key>
@@ -6396,6 +6404,6 @@
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>1.0.0.20130319</string>
+	<string>1.0.0.20130624</string>
 </dict>
 </plist>
