@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## projects
 
 # personal
@@ -8,28 +7,13 @@ alias style='cd ~/Sites/style_box'
 
 
 ## bash
-=======
-## bash
-alias ..='cd ..'
->>>>>>> 109a2a9351b4ab08da334f0cf57d5b385b8d0444
 alias :q='exit'
 alias c='clear'
 alias cf='coffee'
 alias ea='vim ~/bin/dotfiles/bash/aliases'
 alias elastic='elasticsearch -f -D es.config=/usr/local/Cellar/elasticsearch/0.18.7/config/elasticsearch.yml'
-<<<<<<< HEAD
 alias jfdi='sudo'
 alias manp="man -t $1 | open -fa preview"
-=======
-alias erl15='brew unlink erlang-r16; brew link erlang'
-alias erl16='brew unlink erlang; brew link erlang-r16'
-alias grep='grep --color -nr'
-alias jake='./jake.sh'
-alias jfdi='sudo'
-alias ll='ls -la'
-alias manp="man -t $1 | open -fa preview"
-alias memcache='nohup /usr/local/opt/memcached/bin/memcached > /tmp/memcached.log 2>&1 &'
->>>>>>> 109a2a9351b4ab08da334f0cf57d5b385b8d0444
 alias mc_hammer='launchctl stop com.danga.memcached & launchctl start com.danga.memcached'
 alias mysqlstop='/usr/local/Cellar/mysql/5.5.10/bin/mysqld stop'
 alias mysqlstart='/usr/local/Cellar/mysql/5.5.10/bin/mysqld start'
@@ -44,11 +28,7 @@ alias tm='top -o vsize' #memory
 alias tu='top -o cpu'
 alias tks='tmux kill-session -t'
 alias tmr='~/bin/dotfiles/tmux_rails'
-<<<<<<< HEAD
 
-=======
-alias vi='vim'
->>>>>>> 109a2a9351b4ab08da334f0cf57d5b385b8d0444
 
 ## clojure
 alias lr='lein repl'
@@ -64,10 +44,6 @@ alias bifta='clear && bundle exec cucumber -f html -o tmp/cukes.html; open tmp/c
 
 
 ## rails
-<<<<<<< HEAD
-=======
-alias migrate="rake db:migrate db:test:prepare"
->>>>>>> 109a2a9351b4ab08da334f0cf57d5b385b8d0444
 alias rdbfl="rake db:fixtures:load"
 alias rdbm="rake db:migrate"
 alias rdbr="rake db:rollback"
@@ -127,17 +103,10 @@ alias gdtc="git difftool --cached"
 alias gfo="git fetch origin"
 alias gi="git init"
 alias gl="git log --graph --pretty=\"format:%C(yellow)%h%Cblue%d%Creset %s %C(white) %an, %ar%Creset\""
-<<<<<<< HEAD
 alias gm="git merge --ff"
 alias gmf="git merge"
 alias gpl="git pull"
 alias gplo="git pull origin"
-=======
-alias gm="git merge"
-alias gpl="git pull"
-alias gplo="git pull origin"
-alias gploc="git pull origin $(parse_git_branch)"
->>>>>>> 109a2a9351b4ab08da334f0cf57d5b385b8d0444
 alias gpr="git pull --rebase"
 alias gpro="git pull --rebase origin"
 alias gproc="git pull --rebase origin $(parse_git_branch)"
@@ -161,11 +130,3 @@ alias rvmgu="rvm gemset use"
 alias rr="rake routes"
 alias rT="rake -T"
 
-<<<<<<< HEAD
-=======
-
-## vagrant
-alias vag='vagrant'
-alias vu='vagrant up'
-alias vs='vagrant ssh'
->>>>>>> 109a2a9351b4ab08da334f0cf57d5b385b8d0444

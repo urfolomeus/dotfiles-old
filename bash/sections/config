@@ -3,7 +3,6 @@ function parse_git_branch {
   echo ${ref#refs/heads/}
 }
 
-<<<<<<< HEAD
 function railsapp {
   template=$1
   appname=$2
@@ -18,14 +17,6 @@ VIOLET="\[\033[0;35m\]"
 CYAN="\[\033[0;36m\]" 
 YELLOW="\[\033[0;33m\]" 
 GREEN="\[\033[0;32m\]" 
-=======
-. ~/bin/dotfiles/bash/git-completion.bash
-
-VIOLET="\[\033[0;35m\]"
-CYAN="\[\033[0;36m\]"
-YELLOW="\[\033[0;33m\]"
-GREEN="\[\033[0;32m\]"
->>>>>>> 109a2a9351b4ab08da334f0cf57d5b385b8d0444
 
 export PS1="\n$VIOLET\u: $CYAN\w$YELLOW [\$(parse_git_branch)]$GREEN\$\n> "
 
