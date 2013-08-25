@@ -1,19 +1,9 @@
-<<<<<<< HEAD
---- 
-=======
----
->>>>>>> 109a2a9351b4ab08da334f0cf57d5b385b8d0444
 :verbose: true
 install: --no-rdoc --no-ri
 :backtrace: false
 :benchmark: false
-<<<<<<< HEAD
-:sources: 
-=======
 :sources:
->>>>>>> 109a2a9351b4ab08da334f0cf57d5b385b8d0444
-- http://rubygems.org/
-- http://rubygems.org
+- https://rubygems.org
 update: --no-rdoc --no-ri
 :update_sources: true
 :bulk_threshold: 1000

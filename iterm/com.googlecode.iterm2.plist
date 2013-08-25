@@ -2,13 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-<<<<<<< HEAD
-=======
 	<key>AdjustWindowForFontSizeChange</key>
 	<true/>
 	<key>AllowClipboardAccess</key>
 	<false/>
->>>>>>> 109a2a9351b4ab08da334f0cf57d5b385b8d0444
 	<key>AnimateDimming</key>
 	<false/>
 	<key>AppleAntiAliasingThreshold</key>
@@ -391,11 +388,8 @@
 	<string></string>
 	<key>NSRepeatCountBinding</key>
 	<string></string>
-<<<<<<< HEAD
-=======
 	<key>NSScrollAnimationEnabled</key>
 	<false/>
->>>>>>> 109a2a9351b4ab08da334f0cf57d5b385b8d0444
 	<key>NSTableView Columns KeyBingingTable</key>
 	<array>
 		<data>
@@ -414,11 +408,7 @@
 	<key>NSTableView Sort Ordering KeyBingingTable</key>
 	<array/>
 	<key>NSWindow Frame Preferences</key>
-<<<<<<< HEAD
-	<string>431 205 605 485 0 0 1366 768 </string>
-=======
 	<string>311 204 924 485 0 0 1366 768 </string>
->>>>>>> 109a2a9351b4ab08da334f0cf57d5b385b8d0444
 	<key>NSWindow Frame iTerm Window 0</key>
 	<string>0 0 1366 768 0 0 1366 746 </string>
 	<key>NeverWarnAboutShortLivedSessions_3C40CD0D-D6C9-42B3-B420-BCDBA2F9A615</key>
@@ -442,11 +432,8 @@
 			<string></string>
 			<key>AWDS Window Option</key>
 			<string>No</string>
-<<<<<<< HEAD
-=======
 			<key>Allow Title Reporting</key>
 			<false/>
->>>>>>> 109a2a9351b4ab08da334f0cf57d5b385b8d0444
 			<key>Ambiguous Double Width</key>
 			<false/>
 			<key>Ansi 0 Color</key>
@@ -606,11 +593,8 @@
 				<key>Red Component</key>
 				<real>0.0</real>
 			</dict>
-<<<<<<< HEAD
-=======
 			<key>Background Image Is Tiled</key>
 			<false/>
->>>>>>> 109a2a9351b4ab08da334f0cf57d5b385b8d0444
 			<key>Background Image Location</key>
 			<string></string>
 			<key>Blend</key>
@@ -968,11 +952,7 @@
 			<key>Non-ASCII Anti Aliased</key>
 			<true/>
 			<key>Normal Font</key>
-<<<<<<< HEAD
-			<string>Monaco 16</string>
-=======
 			<string>Monaco 14</string>
->>>>>>> 109a2a9351b4ab08da334f0cf57d5b385b8d0444
 			<key>Option Key Sends</key>
 			<integer>0</integer>
 			<key>Prompt Before Closing 2</key>
@@ -1124,11 +1104,7 @@
 			<key>Terminal Type</key>
 			<string>xterm-256color</string>
 			<key>Transparency</key>
-<<<<<<< HEAD
-			<real>0.0</real>
-=======
 			<real>0.18341577053070068</real>
->>>>>>> 109a2a9351b4ab08da334f0cf57d5b385b8d0444
 			<key>Triggers</key>
 			<array/>
 			<key>Unlimited Scrollback</key>
@@ -1137,13 +1113,10 @@
 			<true/>
 			<key>Use Bright Bold</key>
 			<true/>
-<<<<<<< HEAD
-=======
 			<key>Use Canonical Parser</key>
 			<false/>
 			<key>Use Italic Font</key>
 			<false/>
->>>>>>> 109a2a9351b4ab08da334f0cf57d5b385b8d0444
 			<key>Vertical Spacing</key>
 			<real>1</real>
 			<key>Visual Bell</key>
@@ -2613,19 +2586,11 @@
 	<key>SUEnableAutomaticChecks</key>
 	<true/>
 	<key>SUFeedURL</key>
-<<<<<<< HEAD
-	<string>http://iterm2.googlecode.com/svn/trunk/appcasts/testing.xml</string>
-	<key>SUHasLaunchedBefore</key>
-	<true/>
-	<key>SULastCheckTime</key>
-	<date>2012-11-18T08:02:47Z</date>
-=======
 	<string>http://iterm2.com/appcasts/testing.xml</string>
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
 	<date>2013-07-08T06:16:13Z</date>
->>>>>>> 109a2a9351b4ab08da334f0cf57d5b385b8d0444
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>Show Toolbelt</key>
@@ -6439,10 +6404,6 @@
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-<<<<<<< HEAD
-	<string>1.0.0.20120203</string>
-=======
 	<string>1.0.0.20130624</string>
->>>>>>> 109a2a9351b4ab08da334f0cf57d5b385b8d0444
 </dict>
 </plist>

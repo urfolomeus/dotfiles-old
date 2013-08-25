@@ -1,14 +1,9 @@
 .DS_Store
 *.swp
 *_acg*
-<<<<<<< HEAD
 .idea/
 .rvmrc
-=======
-.idea/workspace.xml
-.rvmrc
 .ruby-gemset
->>>>>>> 109a2a9351b4ab08da334f0cf57d5b385b8d0444
 *asw_dump*
 db/chemis-tree-paypal.db
 *Reporting/report/periodic_*
@@ -17,7 +12,4 @@ db/chemis-tree-paypal.db
 */spec/javascripts/PlayerSpec.js
 TODO
 *.sqlite3-journal
-<<<<<<< HEAD
-=======
 coverage
->>>>>>> 109a2a9351b4ab08da334f0cf57d5b385b8d0444
