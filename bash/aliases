@@ -3,6 +3,7 @@ alias ..='cd ..'
 alias :q='exit'
 alias c='clear'
 alias cf='coffee'
+alias dock='defaults write com.apple.dock no-glass -boolean YES; killall Dock'
 alias ea='vim ~/bin/dotfiles/bash/aliases'
 alias elastic='elasticsearch -f -D es.config=/usr/local/Cellar/elasticsearch/0.18.7/config/elasticsearch.yml'
 alias erl15='brew unlink erlang-r16; brew link erlang'
@@ -19,7 +20,10 @@ alias mysqlstart='/usr/local/Cellar/mysql/5.5.10/bin/mysqld start'
 alias mong='mongod run --config /usr/local/Cellar/mongodb/2.0.2-x86_64/mongod.conf'
 alias mongd='nohup mongod run --config /usr/local/Cellar/mongodb/2.0.2-x86_64/mongod.conf > /tmp/mongod.log 2>&1 &'
 alias nudge='. ~/.bashrc'
+alias pg='pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start'
 alias rb='ruby'
+alias redis='redis-server /usr/local/etc/redis.conf'
+alias rvmthis='rvm use `cat .ruby-version`@`cat .ruby-gemset`'
 alias sublime='~/bin/dotfiles/sublime'
 alias swapmb='ruby ~/bin/utilities/swap.rb -h mb & exit'
 alias swapmbp='ruby ~/bin/utilities/swap.rb -h mbp & exit'
@@ -116,7 +120,7 @@ alias gpshc="git push heroku $(parse_git_branch)"
 alias gpso="git push origin"
 alias gpsoc="git push origin $(parse_git_branch)"
 alias grh="git reset HEAD"
-alias gs="git status"
+alias gs="git st"
 alias gst="git stash"
 alias gsta="git stash apply"
 

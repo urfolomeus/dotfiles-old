@@ -15,6 +15,3 @@ export PS1="\n$VIOLET\u: $CYAN\w$YELLOW [\$(parse_git_branch)]$GREEN\$\n> "
 export CLICOLOR=1
 export LSCOLORS=GxExCxDxBxegedabagacad
 
-bind '"\e[A": history-search-backward'
-bind '"\e[B": history-search-forward'
-

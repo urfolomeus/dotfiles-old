@@ -352,6 +352,8 @@
 	<false/>
 	<key>HideActivityIndicator</key>
 	<false/>
+	<key>HideMenuBarInFullscreen</key>
+	<true/>
 	<key>HideScrollbar</key>
 	<true/>
 	<key>HideTab</key>
@@ -401,16 +403,16 @@
 		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
 		hAErATGG
 		</data>
-		<string>302</string>
+		<string>198</string>
 	</array>
 	<key>NSTableView Hidden Columns KeyBingingTable</key>
 	<array/>
 	<key>NSTableView Sort Ordering KeyBingingTable</key>
 	<array/>
 	<key>NSWindow Frame Preferences</key>
-	<string>311 204 924 485 0 0 1366 768 </string>
+	<string>269 138 924 485 0 0 1366 746 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>0 0 1366 768 0 0 1366 746 </string>
+	<string>0 0 1920 1200 0 0 1920 1178 </string>
 	<key>NeverWarnAboutShortLivedSessions_3C40CD0D-D6C9-42B3-B420-BCDBA2F9A615</key>
 	<true/>
 	<key>NeverWarnAboutShortLivedSessions_401BC3BB-C4FC-40AF-B13C-0EF65CF46A0E</key>
@@ -2572,7 +2574,7 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
-	<string>/Users/urfolomeus/bin/dotfiles/iterm</string>
+	<string>/Users/alan/bin/dotfiles/iterm</string>
 	<key>PromptOnClose</key>
 	<false/>
 	<key>PromptOnQuit</key>
@@ -2590,7 +2592,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2013-07-08T06:16:13Z</date>
+	<date>2014-01-13T14:01:45Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>Show Toolbelt</key>
@@ -6404,6 +6406,6 @@
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>1.0.0.20130624</string>
+	<string>1.0.0.20131228</string>
 </dict>
 </plist>

@@ -13,3 +13,4 @@ db/chemis-tree-paypal.db
 TODO
 *.sqlite3-journal
 coverage
+.ackrc
