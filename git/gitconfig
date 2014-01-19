@@ -1,0 +1,28 @@
+[user]
+  name = Alan Gardner
+  email = urfolomeus@gmail.com
+[core]
+  excludesfile = /Users/urfolomeus/.gitignore
+  editor = /usr/bin/vim
+[github]
+  user = urfolomeus
+  token = 16376518d5113e3e185d2d5896fa6a3d
+[diff]
+  color = true
+  tool = Kaleidoscope
+[difftool "Changes"]
+  cmd = chdiff \"$LOCAL\" \"$REMOTE\"
+[difftool "Kaleidoscope"]
+  cmd = ksdiff --partial-changeset --relative-path \"$MERGED\" -- \"$LOCAL\" \"$REMOTE\"
+[difftool]
+  prompt = false
+[git-pair]
+  authors = Alan Gardner <alan@edgecase.com>
+  authors = Paul Wilson <paul@edgecase.com>
+[mergetool "Kaleidoscope"]
+  cmd = ksdiff --merge --output \"$MERGED\" --base \"$BASE\" -- \"$LOCAL\" --snapshot \"$REMOTE\" --snapshot
+  trustExitCode = true
+[mergetool]
+  prompt = false
+[merge]
+  tool = Kaleidoscope

@@ -4,7 +4,6 @@ alias :q='exit'
 alias c='clear'
 alias cf='coffee'
 alias dock='defaults write com.apple.dock no-glass -boolean YES; killall Dock'
-alias ea='vim ~/bin/dotfiles/bash/aliases'
 alias elastic='elasticsearch -f -D es.config=/usr/local/Cellar/elasticsearch/0.18.7/config/elasticsearch.yml'
 alias erl15='brew unlink erlang-r16; brew link erlang'
 alias erl16='brew unlink erlang; brew link erlang-r16'
@@ -110,15 +109,11 @@ alias gl="git log --graph --pretty=\"format:%C(yellow)%h%Cblue%d%Creset %s %C(wh
 alias gm="git merge"
 alias gpl="git pull"
 alias gplo="git pull origin"
-alias gploc="git pull origin $(parse_git_branch)"
 alias gpr="git pull --rebase"
 alias gpro="git pull --rebase origin"
-alias gproc="git pull --rebase origin $(parse_git_branch)"
 alias gps="git push"
 alias gpsh="git push heroku"
-alias gpshc="git push heroku $(parse_git_branch)"
 alias gpso="git push origin"
-alias gpsoc="git push origin $(parse_git_branch)"
 alias grh="git reset HEAD"
 alias gs="git st"
 alias gst="git stash"
@@ -133,7 +128,6 @@ alias rvmgu="rvm gemset use"
 ## rake
 alias rr="rake routes"
 alias rT="rake -T"
-
 
 ## vagrant
 alias vag='vagrant'
