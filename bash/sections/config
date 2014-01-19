@@ -3,7 +3,7 @@ function parse_git_branch {
   echo ${ref#refs/heads/}
 }
 
-. ~/bin/dotfiles/bash/git-completion.bash
+. ~/bin/dotfiles/bash/scripts/git-completion.bash
 
 VIOLET="\[\033[0;35m\]"
 CYAN="\[\033[0;36m\]"
