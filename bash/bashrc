@@ -1,4 +1,5 @@
-. ~/bin/dotfiles/bash/sections/env
+. ~/bin/dotfiles/shared/sections/env
+. ~/bin/dotfiles/shared/sections/aliases
+. ~/bin/dotfiles/shared/sections/custom
+
 . ~/bin/dotfiles/bash/sections/config
-. ~/bin/dotfiles/bash/sections/aliases
-. ~/bin/dotfiles/bash/sections/custom

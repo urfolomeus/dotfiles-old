@@ -1,4 +1,0 @@
-. ~/bin/dotfiles/bash/addons/heroku
-. ~/bin/dotfiles/bash/addons/rbenv
-. ~/bin/dotfiles/bash/addons/tmuxinator
-

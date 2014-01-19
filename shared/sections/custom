@@ -1,0 +1,5 @@
+. ~/bin/dotfiles/shared/addons/heroku
+. ~/bin/dotfiles/shared/addons/rbenv
+. ~/bin/dotfiles/shared/addons/rvm
+. ~/bin/dotfiles/shared/addons/tmuxinator
+

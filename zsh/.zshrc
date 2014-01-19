@@ -5,12 +5,15 @@ ZSH=$HOME/.oh-my-zsh
 # Look in ~/.oh-my-zsh/themes/
 # Optionally, if you set this to "random", it'll load a random theme each
 # time that oh-my-zsh is loaded.
-ZSH_THEME="juanghurtado"
+# ZSH_THEME="juanghurtado"
+ZSH_THEME="amuse"
+# ZSH_THEME="bureau"
+# ZSH_THEME="agnoster"
+# ZSH_THEME="remy"
 
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-. ~/bin/dotfiles/bash/sections/aliases
 
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
@@ -45,8 +48,7 @@ plugins=(brew bundle git rails ruby)
 
 source $ZSH/oh-my-zsh.sh
 
-# Customize to your needs...
-export PATH=$PATH:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin
-
-PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+source ~/bin/dotfiles/shared/sections/aliases
+source ~/bin/dotfiles/shared/sections/env
+source ~/bin/dotfiles/shared/sections/custom
 
