@@ -1,5 +1,6 @@
 export CC=gcc-4.2
 export EDITOR="/usr/bin/vim"
+export DEFAULT_USER=alan
 
 export PATH=/usr/local/bin:/usr/local/sbin:/usr/local/mysql/bin:/usr/local/jruby/bin:$PATH
 
