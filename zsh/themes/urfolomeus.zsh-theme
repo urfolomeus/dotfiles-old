@@ -43,7 +43,7 @@ prompt_git() {
     else
       prompt_segment green black
     fi
-    echo -n "${ref/refs\/heads\//⭠ } "
+    echo -n " ${ref/refs\/heads\//⭠ } "
   fi
 }
 
