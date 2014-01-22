@@ -1,95 +1,77 @@
-total 48
-drwxrwxr-x+ 94 root        admin   3196  9 Aug 15:11 .
-drwxr-xr-x  34 root        wheel   1224  9 Aug 15:54 ..
--rw-rw-r--   1 root        admin  21508  9 Aug 21:08 .DS_Store
--rw-r--r--   1 root        wheel      0 20 Jun  2012 .localized
-drwxr-xr-x   3 root        wheel    102 18 Jul  2012 1Password.app
-drwxrwxr-x   4 root        admin    136 25 Feb 14:28 Adobe
-drwxrwxr-x@  7 root        admin    238 23 Jul 14:37 Adobe Bridge CS6
-drwxr-xr-x@  3 urfolomeus  staff    102  7 May  2012 Adobe Download Assistant.app
-drwxrwxr-x@ 11 root        admin    374  3 Jul 07:20 Adobe Photoshop CS6
-drwxr-xr-x@  3 urfolomeus  admin    102 12 Mar 19:17 AirServer.app
-drwxr-xr-x   3 urfolomeus  staff    102 25 Mar 13:01 Alfred.app
-drwxr-xr-x+  3 root        wheel    102 11 Jun 17:05 App Store.app
-drwxr-xr-x   3 root        wheel    102 11 Jun 17:05 Automator.app
-drwxr-xr-x   3 root        wheel    102 26 Sep  2012 Calculator.app
-drwxr-xr-x+  3 root        wheel    102 11 Jun 17:05 Calendar.app
-drwxr-xr-x   3 root        wheel    102 19 Apr 09:18 Chess.app
-drwxr-xr-x   3 urfolomeus  staff    102  8 Jan  2013 Cinch.app
-drwxr-xr-x   3 urfolomeus  staff    102 22 Apr 14:35 CleanMyMac 2.app
-drwxr-xr-x   3 urfolomeus  wheel    102  7 Aug 01:40 Cloudup.app
-drwxr-xr-x   3 root        wheel    102 26 Jun 09:08 Cobook.app
-drwxr-xr-x@  3 urfolomeus  staff    102  7 Feb  2013 ColorScope.app
-drwxr-xr-x+  3 root        wheel    102 11 Jun 17:05 Contacts.app
-drwxr-xr-x   3 urfolomeus  admin    102 31 Jul 15:03 Copy.app
-drwxr-xr-x+  3 root        wheel    102 19 Apr 09:18 DVD Player.app
-drwxr-xr-x   3 urfolomeus  admin    102 27 Jun  2012 DaisyDisk.app
-drwxr-xr-x   3 root        wheel    102 20 Jun  2012 Dashboard.app
-drwxr-xr-x+  3 root        wheel    102 20 Jun  2012 Dictionary.app
-drwxr-xr-x@  3 urfolomeus  staff    102  5 Jun 18:21 Dropbox.app
-drwxr-xr-x   3 root        wheel    102  1 Aug 13:42 Evernote.app
-drwxr-xr-x+  3 root        wheel    102 11 Jun 17:05 FaceTime.app
-drwxr-xr-x   3 urfolomeus  staff    102 22 Jul 21:52 Fantastical.app
-drwxr-xr-x@  4 urfolomeus  admin    136 26 Mar 23:33 Firefox.app
-drwxr-xr-x   3 root        wheel    102 19 Apr 09:18 Font Book.app
-drwxr-xr-x+  3 root        wheel    102 11 Jun 17:05 Game Center.app
-drwxr-xr-x   3 urfolomeus  admin    102 21 May 00:16 GitHub.app
-drwxr-xr-x@  3 urfolomeus  staff    102 17 Sep  2009 GitX.app
-drwxr-xr-x   3 urfolomeus  staff    102 21 Jun 00:01 GoToMeeting (1189).app
-drwxrwxr-x@  3 urfolomeus  admin    102 24 Jul 23:16 Google Chrome.app
-drwxr-xr-x@  3 urfolomeus  staff    102 25 Jul 23:41 Google Drive.app
-drwxr-xr-x   3 root        wheel    102  1 Aug 13:42 Growl.app
-drwxr-xr-x   3 urfolomeus  admin    102 17 Jul  2012 HandBrake.app
-drwxr-xr-x   3 urfolomeus  staff    102 24 Jun 18:31 HipChat.app
-drwxr-xr-x+  3 root        wheel    102 23 Jun  2012 Image Capture.app
-drwxr-xr-x   3 root        wheel    102 29 Apr 09:56 Jenkins
-drwxr-xr-x   3 urfolomeus  staff    102 19 Feb 16:53 Kaleidoscope.app
-drwxr-xr-x   3 root        wheel    102  5 Dec  2012 Keynote.app
-drwxr-xr-x   3 root        wheel    102 12 Sep  2012 Kindle.app
-drwxr-xr-x   3 root        wheel    102 20 Jun  2012 Launchpad.app
-drwxr-xr-x+  3 root        wheel    102 11 Jun 17:05 Mail.app
-drwxr-xr-x   3 urfolomeus  staff    102  6 Mar 11:33 MainMenu Pro.app
-drwxr-xr-x+  3 root        wheel    102 11 Jun 17:05 Messages.app
-drwxrwxr-x@ 10 root        admin    340 17 Jul 11:26 Microsoft Office 2011
-drwxr-xr-x   3 root        wheel    102 20 Jun  2012 Mission Control.app
-drwxr-xr-x   3 urfolomeus  admin    102 31 Mar  2011 NookForMac.app
-drwxr-xr-x+  3 root        wheel    102 11 Jun 17:05 Notes.app
-drwxr-xr-x@  3 urfolomeus  admin    102  2 Apr 12:52 Opera.app
-drwxr-xr-x   3 root        wheel    102 16 Dec  2012 Pages.app
-drwxr-xr-x+  3 root        wheel    102 19 Apr 09:18 Photo Booth.app
-drwxr-xr-x   3 root        wheel    102 19 Apr 04:43 Pocket.app
-drwxr-xr-x+  3 root        wheel    102 11 Jun 17:05 Preview.app
-drwxr-xr-x+  3 root        wheel    102 11 Jun 17:05 QuickTime Player.app
-drwxr-xr-x+  3 root        wheel    102 11 Jun 17:05 Reminders.app
-drwxrwxr-x   3 root        admin    102 25 Jul 11:29 Remote Desktop Connection.app
-drwxr-xr-x   3 root        wheel    102 20 Jan  2012 SQLVue.app
-drwxr-xr-x+  3 root        wheel    102 11 Jun 17:05 Safari.app
-drwxr-xr-x   3 urfolomeus  admin    102  1 Sep  2011 Sequel Pro.app
-drwxr-xr-x   3 urfolomeus  staff    102  8 Jan  2013 SizeUp.app
-drwxr-xr-x   3 urfolomeus  staff    102 26 Jun 16:38 Skype.app
-drwxrwxr-x   3 root        wheel    102 10 Oct  2012 Sparrow.app
-drwxr-xr-x   3 urfolomeus  staff    102 10 Jul 10:43 Spotify.app
-drwxr-xr-x+  3 root        wheel    102 20 Jun  2012 Stickies.app
-drwxr-xr-x   3 urfolomeus  staff    102  8 Jul 02:31 Sublime.app
-drwxrwxr-x+  3 root        wheel    102 26 Sep  2012 System Preferences.app
-drwxr-xr-x   3 root        wheel    102 26 Sep  2012 TextEdit.app
-drwxr-xr-x   3 root        wheel    102 10 Jul 07:58 The Unarchiver.app
-drwxr-xr-x+  3 root        wheel    102 20 Jun  2012 Time Machine.app
-drwxr-xr-x   3 urfolomeus  admin    102  9 Jan  2012 TinkerTool.app
-drwxr-xr-x   3 urfolomeus  admin    102 20 Feb  2012 Transmission.app
-drwxr-xr-x   3 root        wheel    102 12 Jul 07:56 Tweetbot.app
-drwxr-xr-x   3 root        wheel    102  8 Aug 14:58 Type Fu.app
-drwxr-xr-x+ 32 root        admin   1088 23 Jul 14:37 Utilities
-drwxr-xr-x   3 urfolomeus  admin    102 18 Jul  2012 VLC.app
-drwxr-xr-x   4 root        wheel    136 19 Apr 22:45 Vagrant
-drwxr-xr-x   3 root        admin    102  2 Aug 10:14 VirtualBox.app
-drwxr-xr-x   4 519         admin    136 24 Jul 10:49 WatchGuard
-drwxr-xr-x   3 urfolomeus  staff    102  2 Feb  2013 Wedge.app
-drwxr-xr-x   3 urfolomeus  staff    102  2 Aug 11:05 Wunderlist.app
-drwxr-xr-x   3 root        wheel    102 18 Jun 17:28 Xcode.app
-drwxr-xr-x   4 root        wheel    136 16 Jul 10:22 iA Writer.app
-drwxr-xr-x   3 root        wheel    102 21 May 10:33 iMovie.app
-drwxr-xr-x   3 root        wheel    102 19 Apr 09:28 iPhoto.app
-drwxr-xr-x   3 urfolomeus  staff    102 24 Jun 21:06 iTerm.app
-drwxr-xr-x+  3 root        wheel    102 11 Jun 17:05 iTunes.app
-drwxr-xr-x@  3 urfolomeus  staff    102 29 Nov  2012 xScope.app
+total 16
+drwxrwxr-x+ 76 root  admin  2584 22 Jan 10:28 .
+drwxr-xr-x  30 root  wheel  1088 20 Jan 12:02 ..
+-rw-rw-r--   1 root  admin  6148 22 Jan 10:14 .DS_Store
+-rw-r--r--   1 root  wheel     0 25 Aug 09:58 .localized
+drwxr-xr-x   3 root  wheel   102 12 Jan 23:01 1Password.app
+drwxr-xr-x   3 alan  staff   102 18 Nov 10:09 Alfred 2.app
+drwxr-xr-x+  3 root  wheel   102 13 May  2013 App Store.app
+drwxr-xr-x@  3 alan  admin   102  6 Jan  2010 AppZapper.app
+drwxr-xr-x   3 root  wheel   102 19 Apr  2013 Automator.app
+drwxr-xr-x   3 root  wheel   102 25 Aug 09:05 Calculator.app
+drwxr-xr-x+  3 root  wheel   102 26 Dec 00:43 Calendar.app
+drwxr-xr-x   3 root  wheel   102 25 Aug 08:17 Chess.app
+drwxr-xr-x   3 alan  staff   102 12 Oct 01:10 Cinch.app
+drwxr-xr-x@  3 alan  staff   102 25 Jul  2012 CoRD.app
+drwxr-xr-x   3 root  wheel   102 19 Jan 09:40 Cobook.app
+drwxr-xr-x+  3 root  wheel   102  8 Jul  2013 Contacts.app
+drwxr-xr-x   3 alan  admin   102  2 Jan 21:00 Copy.app
+drwxr-xr-x+  3 root  wheel   102 25 Aug 06:10 DVD Player.app
+drwxr-xr-x   3 root  wheel   102  5 Jan 20:31 Dash.app
+drwxr-xr-x   3 root  wheel   102 25 Aug 02:38 Dashboard.app
+drwxr-xr-x   3 root  wheel   102 19 Jan 09:40 Day One.app
+drwxr-xr-x+  3 root  wheel   102 25 Aug 07:52 Dictionary.app
+drwxr-xr-x@  3 alan  staff   102 16 Jan 12:57 Dropbox.app
+drwxr-xr-x   3 root  wheel   102 19 Dec 16:54 Evernote.app
+drwxr-xr-x+  3 root  wheel   102 21 Sep 04:24 FaceTime.app
+drwxr-xr-x@  4 alan  admin   136 14 Aug 16:27 Firefox.app
+drwxr-xr-x   3 root  wheel   102 16 Apr  2013 Font Book.app
+drwxr-xr-x+  3 root  wheel   102 30 Aug 08:46 Game Center.app
+drwxr-xr-x   3 alan  staff   102 21 Jun  2013 GoToMeeting.app
+drwxrwxr-x@  3 alan  admin   102 13 Jan 15:38 Google Chrome.app
+drwxr-xr-x@  3 alan  staff   102  6 Dec 23:33 Google Drive.app
+drwxr-xr-x   3 root  wheel   102  1 Nov 09:08 Growl.app
+drwxr-xr-x   3 alan  staff   102 26 Nov 17:04 HipChat.app
+drwxr-xr-x+  3 root  wheel   102 25 Aug 06:54 Image Capture.app
+drwxr-xr-x   3 alan  staff   102 22 Oct 13:25 Kaleidoscope.app
+drwxr-xr-x   3 root  wheel   102 22 Nov 09:16 Keynote.app
+drwxr-xr-x   3 root  wheel   102 11 Aug 23:44 Kindle.app
+drwxr-xr-x   3 root  wheel   102 25 Aug 02:37 Launchpad.app
+drwxr-xr-x+  3 root  wheel   102 26 Dec 00:43 Mail.app
+drwxr-xr-x   3 root  wheel   102 28 Jun  2013 Maps.app
+drwxr-xr-x+  3 root  wheel   102  7 May  2012 Messages.app
+drwxrwxr-x@ 12 root  admin   408 29 Nov 16:07 Microsoft Office 2011
+drwxr-xr-x   3 root  wheel   102 25 Aug 02:38 Mission Control.app
+drwxr-xr-x+  3 root  wheel   102  5 Sep 06:40 Notes.app
+drwxr-xr-x   3 root  wheel   102 22 Nov 09:17 Pages.app
+drwxr-xr-x+  3 root  wheel   102 31 Aug 08:28 Photo Booth.app
+drwxr-xr-x   3 root  wheel   102  8 Dec 08:22 Pocket.app
+drwxr-xr-x+  3 root  wheel   102  6 Sep 05:19 Preview.app
+drwxr-xr-x+  3 root  wheel   102 26 Dec 00:43 QuickTime Player.app
+drwxr-xr-x+  3 root  wheel   102  6 May  2013 Reminders.app
+drwxr-xr-x+  3 root  wheel   102 26 Dec 00:43 Safari.app
+drwxr-xr-x   3 alan  staff   102 14 Jan 01:46 Screenhero.app
+drwxr-xr-x   3 alan  staff   102 16 Oct 02:24 SizeUp.app
+drwxr-xr-x   3 alan  admin   102 12 Nov 12:37 Skype.app
+drwxrwxr-x   3 root  wheel   102 11 Oct 10:21 Sparrow.app
+drwxr-xr-x   3 alan  staff   102 15 Jan 16:08 Spotify.app
+drwxr-xr-x+  3 root  wheel   102 25 Aug 06:01 Stickies.app
+drwxr-xr-x   3 alan  admin   102 20 Dec 15:30 Sublime Text.app
+drwxrwxr-x+  3 root  wheel   102 25 Aug 06:24 System Preferences.app
+drwxr-xr-x   3 root  wheel   102  1 Sep 01:36 TextEdit.app
+drwxr-xr-x   3 root  wheel   102  7 Oct 11:53 The Unarchiver.app
+drwxr-xr-x+  3 root  wheel   102 25 Aug 02:38 Time Machine.app
+drwxr-xr-x@  3 alan  admin   102  9 Aug 03:59 Transmission.app
+drwxr-xr-x   3 root  wheel   102 18 Dec 23:52 Tunnelblick.app
+drwxr-xr-x   3 root  wheel   102  2 Jan 18:22 Tweetbot.app
+drwxr-xr-x   3 root  wheel   102 17 Nov 11:25 Type Fu.app
+drwxr-xr-x+ 24 root  admin   816 16 Jan 13:22 Utilities
+drwxr-xr-x@  3 alan  admin   102 30 Jul 23:55 VLC.app
+drwxr-xr-x   3 root  admin   102  6 Jan 08:28 VirtualBox.app
+drwxr-xr-x   3 root  wheel   102 14 Nov 09:04 Xcode.app
+drwxr-xr-x   3 root  wheel   102 10 Sep 17:22 iA Writer.app
+drwxr-xr-x   3 root  wheel   102  8 Nov 10:46 iBooks.app
+drwxr-xr-x   3 root  wheel   102 29 Nov 10:34 iMovie.app
+drwxr-xr-x   3 root  wheel   102 15 Dec 10:06 iPhoto.app
+drwxr-xr-x   3 alan  staff   102 12 Jan 18:41 iTerm.app
+drwxr-xr-x+  3 root  wheel   102  7 Nov 09:14 iTunes.app
