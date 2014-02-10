@@ -1,3 +1,5 @@
+--ignore-dir=bower_components
 --ignore-dir=coverage
 --ignore-dir=log
+--ignore-dir=node_modules
 --ignore-dir=tmp/capybara
