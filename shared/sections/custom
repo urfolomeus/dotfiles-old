@@ -2,4 +2,5 @@
 . ~/bin/dotfiles/shared/addons/rbenv
 . ~/bin/dotfiles/shared/addons/rvm
 . ~/bin/dotfiles/shared/addons/tmuxinator
+. ~/bin/dotfiles/shared/addons/input
 
