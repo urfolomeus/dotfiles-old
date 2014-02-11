@@ -2,14 +2,6 @@
 	"color_scheme": "Packages/Theme - Railscasts/Railscasts.tmTheme",
 	"font_face": "monaco",
 	"font_size": 14,
-	"ignored_packages":
-	[
-		"Markdown Preview",
-		"Floobits",
-		"Vintage",
-		"RubyTest",
-		"DashDoc"
-	],
 	"save_on_focus_lost": true,
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
