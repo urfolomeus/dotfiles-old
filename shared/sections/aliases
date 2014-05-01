@@ -23,6 +23,7 @@ alias pg='pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.lo
 alias rb='ruby'
 alias redis='redis-server /usr/local/etc/redis.conf'
 alias rvmthis='rvm use `cat .ruby-version`@`cat .ruby-gemset`'
+alias serve='python -m SimpleHTTPServer 8000'
 alias sublime='~/bin/dotfiles/sublime'
 alias swapmb='ruby ~/bin/utilities/swap.rb -h mb & exit'
 alias swapmbp='ruby ~/bin/utilities/swap.rb -h mbp & exit'
@@ -95,7 +96,7 @@ alias hrdbm="heroku run rake db:migrate"
 
 ## git
 alias ga="git add -A"
-alias gb="git branch"
+alias gb="git br"
 alias gc="git commit"
 alias gcl="git clone"
 alias gco="git checkout"
