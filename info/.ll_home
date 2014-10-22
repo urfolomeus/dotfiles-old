@@ -1,0 +1,80 @@
+total 1240
+drwxr-xr-x+  79 alan  staff    2686 22 Oct 01:32 .
+drwxr-xr-x    6 root  admin     204  9 May 19:46 ..
+-rw-------    1 alan  staff       3  9 May 20:00 .CFUserTextEncoding
+-rw-r--r--@   1 alan  staff   39940 17 Oct 09:32 .DS_Store
+-rw-r--r--    1 alan  staff       1 14 Oct 06:20 .NERDTreeBookmarks
+drwxr-xr-x    3 alan  staff     102 23 Aug 14:21 .Protege
+drwx------    2 alan  staff      68 21 Oct 21:32 .Trash
+lrwxr-xr-x    1 alan  staff      30  9 May 22:10 .ackrc -> /Users/alan/bin/dotfiles/ackrc
+drwxr-xr-x    7 alan  staff     238 19 Jun 14:59 .android
+-rw-------    1 alan  staff     445  9 May 21:57 .bash_history
+-rw-r--r--    1 alan  staff     168  3 Jul 11:36 .bashrc
+drwxr-xr-x    4 alan  staff     136 30 May 16:27 .cache
+-rw-r--r--    1 alan  staff      13  7 Jun 08:49 .coffee_history
+drwxr-xr-x    5 alan  staff     170 18 Jun 23:58 .config
+drwxr-xr-x    3 alan  staff     102  2 Jun 17:33 .cordova
+drwx------    3 alan  staff     102 21 May 12:00 .cups
+-rw-r--r--    1 alan  staff     804 22 Jun 16:32 .dbshell
+drwx------   11 alan  staff     374 20 Oct 23:59 .dropbox
+drwxr-xr-x    3 alan  staff     102 19 Jun 16:24 .gem
+lrwxr-xr-x    1 alan  staff      30  9 May 22:10 .gemrc -> /Users/alan/bin/dotfiles/gemrc
+lrwxr-xr-x    1 alan  staff      37  9 May 23:24 .gitconfig -> /Users/alan/bin/private/git/gitconfig
+lrwxr-xr-x    1 alan  staff      38  9 May 22:11 .gitignore -> /Users/alan/bin/dotfiles/git/gitignore
+lrwxr-xr-x    1 alan  staff      34  9 May 23:14 .gvimrc -> /Users/alan/bin/vim-config/.gvimrc
+drwxr-xr-x    6 alan  staff     204 21 Oct 13:03 .heroku
+drwxr-xr-x    3 alan  staff     102 19 Jun 14:50 .ionic
+-rw-r--r--    1 alan  staff    3454 21 Oct 04:43 .irb-history
+drwxr-xr-x@   3 alan  staff     102 18 May 21:28 .lein
+drwxr-xr-x    3 alan  staff     102 30 May 16:27 .local
+drwxr-xr-x@   3 alan  staff     102 18 May 21:17 .m2
+-rw-------    1 alan  staff       0 12 Jun 10:14 .mongorc.js
+-rw-------    1 alan  staff     422 16 Jul 12:55 .netrc
+drwxr-xr-x    3 alan  staff     102 31 May 08:25 .node-gyp
+drwxr-xr-x  364 alan  staff   12376 21 Sep 22:28 .npm
+drwxr-xr-x   15 alan  staff     510  4 Sep 09:11 .oh-my-zsh
+drwxr-xr-x    3 alan  staff     102 24 Jul 13:19 .pip
+drwxr-xr-x    4 alan  staff     136 19 Jun 14:50 .plugman
+-rw-r--r--    1 alan  staff      68  9 May 22:30 .profile
+-rw-------    1 alan  staff     168 11 Aug 16:15 .psql_history
+-rw-r--r--    1 alan  staff      75 17 Jun 09:44 .redis-commander
+-rw-r--r--    1 alan  staff     164 17 Jun 09:45 .rediscli_history
+drwxr-xr-x   30 alan  staff    1020  9 May 22:30 .rvm
+drwx------   12 alan  staff     408 17 Oct  2013 .sav
+-rw-------    1 alan  staff     561 20 Aug 08:30 .sqlite_history
+drwx------    6 alan  staff     204  6 Oct 17:15 .ssh
+lrwxr-xr-x    1 alan  staff      34  9 May 22:11 .tmux.conf -> /Users/alan/bin/dotfiles/tmux.conf
+drwx------    4 alan  staff     136  3 Jul 11:36 .travis
+drwxr-xr-x    3 alan  staff     102 16 Jul 12:54 .turbot
+lrwxr-xr-x    1 alan  staff      31  9 May 23:14 .vim -> /Users/alan/bin/vim-config/.vim
+-rw-------    1 alan  staff   52757 22 Oct 01:27 .viminfo
+lrwxr-xr-x    1 alan  staff      33  9 May 23:14 .vimrc -> /Users/alan/bin/vim-config/.vimrc
+-rw-r--r--    1 alan  staff   35429 30 May 08:37 .zcompdump-Alan’s MacBook Pro-5.0.2
+-rw-r--r--    1 alan  staff   35429  4 Sep 18:23 .zcompdump-Arbitrary-5.0.2
+-rw-r--r--    1 alan  staff   36546 25 Sep 05:23 .zcompdump-Arbitrary-5.0.6
+lrwxr-xr-x    1 alan  staff      36  9 May 22:12 .zlogin -> /Users/alan/bin/dotfiles/zsh/.zlogin
+-rw-r--r--    1 alan  staff      17 16 Oct 04:43 .zsh-update
+-rw-------    1 alan  staff  327433 22 Oct 01:32 .zsh_history
+lrwxr-xr-x    1 alan  staff      35  9 May 22:18 .zshrc -> /Users/alan/bin/dotfiles/zsh/.zshrc
+-rw-r--r--    1 alan  staff    2288  9 May 21:52 .zshrc-e
+-rw-r--r--    1 alan  staff    2304  9 May 21:52 .zshrc.old
+drwx------    4 alan  staff     136  9 May 20:38 Applications
+drwxr-xr-x@  10 alan  staff     340 29 Jul 14:41 Copy
+drwx------@   3 alan  staff     102 25 Jun 12:51 Creative Cloud Files
+drwx------+   5 alan  staff     170 21 Oct 21:36 Desktop
+drwx------+  14 alan  staff     476  7 Oct 20:35 Documents
+drwx------+  85 alan  staff    2890 21 Oct 21:19 Downloads
+drwx------@  24 alan  staff     816 20 Oct 23:59 Dropbox
+drwx------@   8 alan  staff     272 20 Oct 23:59 Google Drive
+drwx------@  19 alan  staff     646 10 Jul 09:26 Google Drive copy
+drwxr-xr-x@   4 alan  staff     136 20 Oct 23:59 InVision
+drwx------@  56 alan  staff    1904 25 Sep 03:10 Library
+drwx------+   3 alan  staff     102  9 May 20:00 Movies
+drwx------+   5 alan  staff     170 18 May 13:22 Music
+drwx------+   7 alan  staff     238 14 Oct 12:23 Pictures
+drwxr-xr-x+   5 alan  staff     170  9 May 20:00 Public
+drwx------    6 alan  staff     204 17 Sep 23:13 VirtualBox VMs
+drwxr-xr-x    7 alan  staff     238  9 May 23:24 bin
+drwxr-xr-x   10 alan  staff     340 13 May 02:40 javascript-koans
+drwxr-xr-x   11 alan  staff     374 28 Jul 16:28 src
+drwxr-xr-x    5 alan  staff     170 18 Jul 11:52 tmp
