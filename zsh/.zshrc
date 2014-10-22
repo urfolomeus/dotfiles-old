@@ -51,3 +51,6 @@ source ~/bin/dotfiles/shared/sections/aliases
 source ~/bin/dotfiles/shared/sections/env
 source ~/bin/dotfiles/shared/sections/custom
 
+
+# added by travis gem
+[ -f /Users/alan/.travis/travis.sh ] && source /Users/alan/.travis/travis.sh

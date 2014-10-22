@@ -1,0 +1,19 @@
+#!/usr/bin/env ruby
+
+class String
+  def urlize
+    self.gsub(/[^a-zA-Z-]/, '-')
+  end
+end
+
+env, command_name, *args = ARGV
+
+env = nil if env == 'production'
+
+app = Dir.pwd.split('/').last.urlize
+app << "-#{env}" if env
+
+command = "heroku #{command_name} #{args.join(' ')} --app #{app}"
+
+puts command
+exec command

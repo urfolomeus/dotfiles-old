@@ -2,13 +2,12 @@
 alias ..='cd ..'
 alias :q='exit'
 alias c='clear'
-alias cf='coffee'
 alias dock='defaults write com.apple.dock no-glass -boolean YES; killall Dock'
+alias ea='vim ~/bin/dotfiles/shared/sections/aliases'
 alias elastic='elasticsearch -f -D es.config=/usr/local/Cellar/elasticsearch/0.18.7/config/elasticsearch.yml'
 alias erl15='brew unlink erlang-r16; brew link erlang'
 alias erl16='brew unlink erlang; brew link erlang-r16'
 alias grep='grep --color -nr'
-alias jake='./jake.sh'
 alias jfdi='sudo'
 alias ll='ls -la'
 alias manp="man -t $1 | open -fa preview"
@@ -16,14 +15,17 @@ alias memcache='nohup /usr/local/opt/memcached/bin/memcached > /tmp/memcached.lo
 alias mc_hammer='launchctl stop com.danga.memcached & launchctl start com.danga.memcached'
 alias mysqlstop='/usr/local/Cellar/mysql/5.5.10/bin/mysqld stop'
 alias mysqlstart='/usr/local/Cellar/mysql/5.5.10/bin/mysqld start'
-alias mong='mongod run --config /usr/local/Cellar/mongodb/2.0.2-x86_64/mongod.conf'
-alias mongd='nohup mongod run --config /usr/local/Cellar/mongodb/2.0.2-x86_64/mongod.conf > /tmp/mongod.log 2>&1 &'
-alias nudge='. ~/.bashrc'
+alias mong='mongod run --config /usr/local/etc/mongod.conf'
+alias mongd='nohup mongod run --config /usr/local/etc/mongod.conf > /tmp/mongod.log 2>&1 &'
+alias nudge='. ~/.bashrc; . ~/.zshrc'
 alias pg='pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start'
 alias rb='ruby'
+alias redcom='redis-commander'
 alias redis='redis-server /usr/local/etc/redis.conf'
+alias redisd='nohup redis-server /usr/local/etc/redis.conf > /tmp/redis.log 2>&1 &'
+alias couchd='nohup couchdb > /tmp/couchdb.log 2>&1 &'
 alias rvmthis='rvm use `cat .ruby-version`@`cat .ruby-gemset`'
-alias serve='python -m SimpleHTTPServer 8000'
+alias serve='python -m SimpleHTTPServer'
 alias sublime='~/bin/dotfiles/sublime'
 alias swapmb='ruby ~/bin/utilities/swap.rb -h mb & exit'
 alias swapmbp='ruby ~/bin/utilities/swap.rb -h mbp & exit'
@@ -36,6 +38,13 @@ alias vi='vim'
 ## clojure
 alias lr='lein repl'
 
+## javascript
+alias cf='coffee'
+alias gruntl='./node_modules/grunt-cli/bin/grunt'
+alias jake='./jake.sh'
+alias npmls='npm ls --depth=0'
+alias mocwatch='mocha --compilers coffee:coffee-script/register --watch --growl'
+
 ## testing
 alias watch='watchr ./Watchfile'
 alias bec='clear && bundle exec cucumber'
@@ -44,6 +53,7 @@ alias berc='clear && bundle exec rspec; bundle exec cucumber'
 alias bert='clear && bundle exec rake test'
 alias bew='bundle exec watchr watchr.rb'
 alias bifta='clear && bundle exec cucumber -f html -o tmp/cukes.html; open tmp/cukes.html; bundle exec rspec spec'
+alias cbr='clear && bin/rspec'
 
 
 ## rails
@@ -89,10 +99,16 @@ alias rs="rails server"
 
 
 ##heroku
-alias hc="heroku run console"
-alias hl="heroku logs"
-alias hrdbm="heroku run rake db:migrate"
+alias hp="heroku_helper production"
+alias hs="heroku_helper staging"
 
+alias hpc="heroku_helper production run console"
+alias hpl="heroku_helper production logs"
+alias hprdbm="heroku_helper production run rake db:migrate"
+
+alias hsc="heroku_helper staging run console"
+alias hsl="heroku_helper staging logs"
+alias hsrdbm="heroku_helper staging run rake db:migrate"
 
 ## git
 alias ga="git add -A"
