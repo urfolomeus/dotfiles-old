@@ -2,14 +2,12 @@
 alias ..='cd ..'
 alias :q='exit'
 alias c='clear'
-alias dock='defaults write com.apple.dock no-glass -boolean YES; killall Dock'
 alias ea='vim ~/bin/dotfiles/shared/sections/aliases'
-alias elastic='elasticsearch -f -D es.config=/usr/local/Cellar/elasticsearch/0.18.7/config/elasticsearch.yml'
-alias erl15='brew unlink erlang-r16; brew link erlang'
-alias erl16='brew unlink erlang; brew link erlang-r16'
+alias elastic='elasticsearch --config=/usr/local/opt/elasticsearch/config/elasticsearch.yml'
 alias grep='grep --color -nr'
 alias jfdi='sudo'
-alias ll='ls -la'
+alias la='ls -la'
+alias ll='ls -l'
 alias manp="man -t $1 | open -fa preview"
 alias memcache='nohup /usr/local/opt/memcached/bin/memcached > /tmp/memcached.log 2>&1 &'
 alias mc_hammer='launchctl stop com.danga.memcached & launchctl start com.danga.memcached'
@@ -24,13 +22,8 @@ alias redcom='redis-commander'
 alias redis='redis-server /usr/local/etc/redis.conf'
 alias redisd='nohup redis-server /usr/local/etc/redis.conf > /tmp/redis.log 2>&1 &'
 alias couchd='nohup couchdb > /tmp/couchdb.log 2>&1 &'
-alias rvmthis='rvm use `cat .ruby-version`@`cat .ruby-gemset`'
 alias serve='python -m SimpleHTTPServer'
 alias sublime='~/bin/dotfiles/sublime'
-alias swapmb='ruby ~/bin/utilities/swap.rb -h mb & exit'
-alias swapmbp='ruby ~/bin/utilities/swap.rb -h mbp & exit'
-alias tm='top -o vsize' #memory
-alias tu='top -o cpu'
 alias tks='tmux kill-session -t'
 alias tmr='~/bin/dotfiles/tmux_rails'
 alias vi='vim'
@@ -68,21 +61,6 @@ alias rtf="rake test:functionals"
 alias rtu="rake test:units"
 alias uni="unicorn_rails -c config/unicorn/development.rb"
 
-#<3.x
-alias sc="./script/console"
-alias sd="./script/destroy"
-alias sdc="./script/destroy controller"
-alias sdm="./script/destroy model"
-alias sdmg="./script/destroy migration"
-alias sds="./script/destroy scaffold"
-alias sg="./script/generate"
-alias sgc="./script/generate controller"
-alias sgm="./script/generate model"
-alias sgmg="./script/generate migration"
-alias sgs="./script/generate scaffold"
-alias ss="./script/server"
-
-#3.x
 alias be="bundle exec"
 alias rc="rails console"
 alias sd="rails destroy"
@@ -135,11 +113,6 @@ alias grh="git reset HEAD"
 alias gs="git st"
 alias gst="git stash"
 alias gsta="git stash apply"
-
-
-## rvm
-alias rvmu="rvm use"
-alias rvmgu="rvm gemset use"
 
 
 ## rake
