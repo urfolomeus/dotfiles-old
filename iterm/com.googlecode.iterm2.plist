@@ -599,7 +599,7 @@
 	<key>NSFontPanelPreviewHeight</key>
 	<real>0.0</real>
 	<key>NSNavLastRootDirectory</key>
-	<string>~/bin/dotfiles/iterm</string>
+	<string>~/Documents</string>
 	<key>NSQuotedKeystrokeBinding</key>
 	<string></string>
 	<key>NSRepeatCountBinding</key>
@@ -626,11 +626,11 @@
 	<key>NSWindow Frame NSFontPanel</key>
 	<string>760 136 735 276 0 0 2560 1417 </string>
 	<key>NSWindow Frame Preferences</key>
-	<string>290 1367 924 485 -292 800 1920 1200 </string>
+	<string>357 793 924 485 0 0 2560 1440 </string>
 	<key>NSWindow Frame SUStatusFrame</key>
 	<string>448 487 384 129 0 0 1280 778 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>-292 800 1920 1200 -292 800 1920 1177 </string>
+	<string>0 0 2560 1440 0 0 2560 1417 </string>
 	<key>NeverWarnAboutShortLivedSessions_3C40CD0D-D6C9-42B3-B420-BCDBA2F9A615</key>
 	<true/>
 	<key>NeverWarnAboutShortLivedSessions_401BC3BB-C4FC-40AF-B13C-0EF65CF46A0E</key>
@@ -2968,7 +2968,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2014-11-13T14:21:08Z</date>
+	<date>2015-04-07T08:05:55Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>Show Toolbelt</key>
