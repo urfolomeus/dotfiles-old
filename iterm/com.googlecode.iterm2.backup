@@ -594,8 +594,6 @@
 	<true/>
 	<key>MaxVertically</key>
 	<false/>
-	<key>NSFontPanelSizeSliderParams</key>
-	<string>2 0 100</string>
 	<key>NSNavLastRootDirectory</key>
 	<string>~/bin/dotfiles/iterm</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
@@ -624,7 +622,7 @@
 	<key>NSTableView Sort Ordering KeyBingingTable</key>
 	<array/>
 	<key>NSWindow Frame NSFontPanel</key>
-	<string>1169 37 445 204 0 0 1680 1027 </string>
+	<string>1169 37 445 236 0 0 1680 1027 </string>
 	<key>NSWindow Frame Preferences</key>
 	<string>269 115 924 485 0 0 1680 1050 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
@@ -1533,7 +1531,7 @@
 			<key>Blur</key>
 			<false/>
 			<key>Blur Radius</key>
-			<real>3.627406120300293</real>
+			<real>3.0725822448730469</real>
 			<key>Bold Color</key>
 			<dict>
 				<key>Blue Component</key>
@@ -1879,7 +1877,7 @@
 			<key>Non-ASCII Anti Aliased</key>
 			<true/>
 			<key>Normal Font</key>
-			<string>Inconsolata-dzForPowerline 18</string>
+			<string>Inconsolata-dzForPowerline 14</string>
 			<key>Option Key Sends</key>
 			<integer>0</integer>
 			<key>Prompt Before Closing 2</key>
@@ -2031,7 +2029,7 @@
 			<key>Terminal Type</key>
 			<string>xterm-256color</string>
 			<key>Transparency</key>
-			<real>0.18154354393482208</real>
+			<real>0.078903935849666595</real>
 			<key>Triggers</key>
 			<array/>
 			<key>Unlimited Scrollback</key>
@@ -2164,7 +2162,7 @@
 	<key>UseLionStyleFullscreen</key>
 	<false/>
 	<key>WebKitDefaultFontSize</key>
-	<integer>11</integer>
+	<integer>14</integer>
 	<key>WebKitStandardFont</key>
 	<string>.Helvetica Neue DeskInterface</string>
 	<key>Window Arrangements</key>
@@ -2710,11 +2708,11 @@
 											<key>Name</key>
 											<string>Default</string>
 											<key>Non Ascii Font</key>
-											<string>Monaco 12</string>
+											<string>Inconsolata-dzForPowerline 14</string>
 											<key>Non-ASCII Anti Aliased</key>
 											<true/>
 											<key>Normal Font</key>
-											<string>Monaco 16</string>
+											<string>Inconsolata-dzForPowerline 14</string>
 											<key>Option Key Sends</key>
 											<integer>2</integer>
 											<key>Prompt Before Closing 2</key>
@@ -3493,11 +3491,11 @@
 											<key>Name</key>
 											<string>Default</string>
 											<key>Non Ascii Font</key>
-											<string>Monaco 12</string>
+											<string>Inconsolata-dzForPowerline 14</string>
 											<key>Non-ASCII Anti Aliased</key>
 											<true/>
 											<key>Normal Font</key>
-											<string>Monaco 16</string>
+											<string>Inconsolata-dzForPowerline 14</string>
 											<key>Option Key Sends</key>
 											<integer>0</integer>
 											<key>Prompt Before Closing 2</key>
@@ -4221,11 +4219,11 @@
 											<key>Name</key>
 											<string>Default</string>
 											<key>Non Ascii Font</key>
-											<string>Monaco 12</string>
+											<string>Inconsolata-dzForPowerline 14</string>
 											<key>Non-ASCII Anti Aliased</key>
 											<true/>
 											<key>Normal Font</key>
-											<string>Monaco 16</string>
+											<string>Inconsolata-dzForPowerline 14</string>
 											<key>Option Key Sends</key>
 											<integer>0</integer>
 											<key>Prompt Before Closing 2</key>
@@ -4972,11 +4970,11 @@
 											<key>Name</key>
 											<string>Default</string>
 											<key>Non Ascii Font</key>
-											<string>Monaco 12</string>
+											<string>Inconsolata-dzForPowerline 14</string>
 											<key>Non-ASCII Anti Aliased</key>
 											<true/>
 											<key>Normal Font</key>
-											<string>Monaco 16</string>
+											<string>Inconsolata-dzForPowerline 14</string>
 											<key>Option Key Sends</key>
 											<integer>0</integer>
 											<key>Prompt Before Closing 2</key>
