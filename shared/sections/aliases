@@ -17,7 +17,7 @@ alias mysqlstop='/usr/local/Cellar/mysql/5.5.10/bin/mysqld stop'
 alias mysqlstart='/usr/local/Cellar/mysql/5.5.10/bin/mysqld start'
 alias mong='mongod run --config /usr/local/etc/mongod.conf'
 alias mongd='nohup mongod run --config /usr/local/etc/mongod.conf > /tmp/mongod.log 2>&1 &'
-alias nudge='. ~/.bashrc; . ~/.zshrc'
+alias nudge='. ~/.zshrc'
 #alias pg='pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start'
 alias pg='postgres -D /usr/local/var/postgres'
 alias rb='ruby'
@@ -123,6 +123,7 @@ alias rr="rake routes"
 alias rT="rake -T"
 
 ## vagrant
-alias vag='vagrant'
+alias va='vagrant'
+alias vi='vagrant init'
 alias vu='vagrant up'
-alias vs='vagrant ssh'
+alias vd='vagrant destroy'

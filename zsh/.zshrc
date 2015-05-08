@@ -56,3 +56,6 @@ source ~/bin/dotfiles/shared/sections/custom
 [ -f /Users/alan/.travis/travis.sh ] && source /Users/alan/.travis/travis.sh
 
 export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
+
+# added by travis gem
+[ -f /Users/cultivate/.travis/travis.sh ] && source /Users/cultivate/.travis/travis.sh
