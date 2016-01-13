@@ -13,8 +13,8 @@ alias ll='ls -l'
 alias manp="man -t $1 | open -fa preview"
 alias memcache='nohup /usr/local/opt/memcached/bin/memcached > /tmp/memcached.log 2>&1 &'
 alias mc_hammer='launchctl stop com.danga.memcached & launchctl start com.danga.memcached'
-alias mysqlstop='/usr/local/Cellar/mysql/5.5.10/bin/mysqld stop'
-alias mysqlstart='/usr/local/Cellar/mysql/5.5.10/bin/mysqld start'
+alias mysqlstop='mysql.server stop'
+alias mysqlstart='mysql.server start'
 alias mong='mongod run --config /usr/local/etc/mongod.conf'
 alias mongd='nohup mongod run --config /usr/local/etc/mongod.conf > /tmp/mongod.log 2>&1 &'
 alias nudge='. ~/.zshrc'
@@ -46,14 +46,17 @@ alias watch='watchr ./Watchfile'
 alias bec='clear && bundle exec cucumber'
 alias ber='clear && bundle exec rspec --format progress'
 alias berc='clear && bundle exec rspec; bundle exec cucumber'
+alias berk='clear && bundle exec rake'
 alias bert='clear && bundle exec rake test'
 alias bew='bundle exec watchr watchr.rb'
 alias bifta='clear && bundle exec cucumber -f html -o tmp/cukes.html; open tmp/cukes.html; bundle exec rspec spec'
-alias cbr='clear && bin/rspec'
+alias cbr='clear && bundle exec rspec'
 
 
 ## rails
-alias migrate="rake db:migrate db:test:prepare"
+alias migrate="bundle exec rake db:migrate db:test:prepare"
+alias remigrate="bundle exec rake db:migrate:redo db:test:prepare"
+alias unmigrate="bundle exec rake db:rollback db:test:prepare"
 alias rdbfl="rake db:fixtures:load"
 alias rdbm="rake db:migrate"
 alias rdbr="rake db:rollback"
@@ -94,8 +97,8 @@ alias hsrdbm="heroku_helper staging run rake db:migrate"
 ## git
 alias ga="git add -A"
 alias gb="git br"
-alias gc="git commit"
 alias gcl="git clone"
+alias gcm="git commit -m"
 alias gco="git checkout"
 alias gcp="git cherry-pick"
 alias gd="git diff"

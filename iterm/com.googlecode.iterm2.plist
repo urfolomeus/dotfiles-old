@@ -604,10 +604,12 @@
 	<string></string>
 	<key>NSScrollAnimationEnabled</key>
 	<false/>
+	<key>NSWindow Frame NSFontPanel</key>
+	<string>1396 125 445 304 0 0 1920 1177 </string>
 	<key>NSWindow Frame Preferences</key>
-	<string>602 409 924 485 0 0 1680 1027 </string>
+	<string>76 311 924 485 0 0 1680 1027 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>0 0 1680 1050 0 0 1680 1027 </string>
+	<string>0 7 1671 248 0 0 1680 1027 </string>
 	<key>NeverWarnAboutShortLivedSessions_3C40CD0D-D6C9-42B3-B420-BCDBA2F9A615</key>
 	<true/>
 	<key>NeverWarnAboutShortLivedSessions_401BC3BB-C4FC-40AF-B13C-0EF65CF46A0E</key>
@@ -645,11 +647,11 @@
 			<key>Ansi 1 Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.14145714044570923</real>
+				<real>0.14145712554454803</real>
 				<key>Green Component</key>
-				<real>0.10840655118227005</real>
+				<real>0.10840645432472229</real>
 				<key>Red Component</key>
-				<real>0.81926977634429932</real>
+				<real>0.81926983594894409</real>
 			</dict>
 			<key>Ansi 10 Color</key>
 			<dict>
@@ -784,11 +786,11 @@
 			<key>Background Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.15170273184776306</real>
+				<real>0.86405980587005615</real>
 				<key>Green Component</key>
-				<real>0.11783610284328461</real>
+				<real>0.95794391632080078</real>
 				<key>Red Component</key>
-				<real>0.0</real>
+				<real>0.98943418264389038</real>
 			</dict>
 			<key>Background Image Is Tiled</key>
 			<false/>
@@ -807,11 +809,11 @@
 			<key>Bold Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.56363654136657715</real>
+				<real>0.38298487663269043</real>
 				<key>Green Component</key>
-				<real>0.56485837697982788</real>
+				<real>0.35665956139564514</real>
 				<key>Red Component</key>
-				<real>0.50599193572998047</real>
+				<real>0.27671992778778076</real>
 			</dict>
 			<key>Character Encoding</key>
 			<integer>4</integer>
@@ -824,20 +826,20 @@
 			<key>Cursor Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.51685798168182373</real>
+				<real>0.43850564956665039</real>
 				<key>Green Component</key>
-				<real>0.50962930917739868</real>
+				<real>0.40717673301696777</real>
 				<key>Red Component</key>
-				<real>0.44058024883270264</real>
+				<real>0.32436618208885193</real>
 			</dict>
 			<key>Cursor Text Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.19370138645172119</real>
+				<real>0.79781103134155273</real>
 				<key>Green Component</key>
-				<real>0.15575926005840302</real>
+				<real>0.89001238346099854</real>
 				<key>Red Component</key>
-				<real>0.0</real>
+				<real>0.91611063480377197</real>
 			</dict>
 			<key>Cursor Type</key>
 			<integer>2</integer>
@@ -858,11 +860,11 @@
 			<key>Foreground Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.51685798168182373</real>
+				<real>0.43850564956665039</real>
 				<key>Green Component</key>
-				<real>0.50962930917739868</real>
+				<real>0.40717673301696777</real>
 				<key>Red Component</key>
-				<real>0.44058024883270264</real>
+				<real>0.32436618208885193</real>
 			</dict>
 			<key>Guid</key>
 			<string>3C40CD0D-D6C9-42B3-B420-BCDBA2F9A615</string>
@@ -1145,11 +1147,11 @@
 			<key>Name</key>
 			<string>Default</string>
 			<key>Non Ascii Font</key>
-			<string>Inconsolata-dzForPowerline 14</string>
+			<string>Menlo-Regular 11</string>
 			<key>Non-ASCII Anti Aliased</key>
 			<true/>
 			<key>Normal Font</key>
-			<string>Inconsolata-dzForPowerline 14</string>
+			<string>Menlo-Regular 11</string>
 			<key>Option Key Sends</key>
 			<integer>0</integer>
 			<key>Prompt Before Closing 2</key>
@@ -1169,20 +1171,20 @@
 			<key>Selected Text Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.56363654136657715</real>
+				<real>0.38298487663269043</real>
 				<key>Green Component</key>
-				<real>0.56485837697982788</real>
+				<real>0.35665956139564514</real>
 				<key>Red Component</key>
-				<real>0.50599193572998047</real>
+				<real>0.27671992778778076</real>
 			</dict>
 			<key>Selection Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.19370138645172119</real>
+				<real>0.79781103134155273</real>
 				<key>Green Component</key>
-				<real>0.15575926005840302</real>
+				<real>0.89001238346099854</real>
 				<key>Red Component</key>
-				<real>0.0</real>
+				<real>0.91611063480377197</real>
 			</dict>
 			<key>Semantic History</key>
 			<dict>
@@ -1854,7 +1856,7 @@
 			<key>Name</key>
 			<string>work</string>
 			<key>Non Ascii Font</key>
-			<string>Inconsolata-dzForPowerline 14</string>
+			<string>Inconsolata-dzForPowerline 18</string>
 			<key>Non-ASCII Anti Aliased</key>
 			<true/>
 			<key>Normal Font</key>
@@ -2010,7 +2012,7 @@
 			<key>Terminal Type</key>
 			<string>xterm-256color</string>
 			<key>Transparency</key>
-			<real>0.12396218627691269</real>
+			<real>0.0</real>
 			<key>Triggers</key>
 			<array/>
 			<key>Unlimited Scrollback</key>
@@ -2035,6 +2037,10 @@
 	</array>
 	<key>NoSyncNeverRemindPrefsChangesCopy</key>
 	<true/>
+	<key>NoSyncTimeOfLastPromo</key>
+	<real>453247703.40815902</real>
+	<key>NoSyncTimeOfLastPromoDownload</key>
+	<real>474190290.30742002</real>
 	<key>NotFirstRun</key>
 	<true/>
 	<key>OnlyWhenMoreTabs</key>
@@ -2085,7 +2091,7 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
-	<string>/Users/cultivate/bin/dotfiles/iterm</string>
+	<string>/Users/alan/bin/dotfiles/iterm</string>
 	<key>PromptOnClose</key>
 	<false/>
 	<key>PromptOnQuit</key>
@@ -2099,11 +2105,11 @@
 	<key>SUEnableAutomaticChecks</key>
 	<true/>
 	<key>SUFeedURL</key>
-	<string>http://iterm2.com/appcasts/testing.xml</string>
+	<string>https://iterm2.com/appcasts/testing.xml</string>
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2015-04-30T10:02:19Z</date>
+	<date>2016-01-11T07:31:28Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>Show Toolbelt</key>
@@ -5917,6 +5923,6 @@
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>2.1</string>
+	<string>2.1.4</string>
 </dict>
 </plist>

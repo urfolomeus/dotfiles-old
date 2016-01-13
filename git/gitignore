@@ -11,6 +11,7 @@ db/chemis-tree-paypal.db
 */public/javascripts/Song.js
 */spec/javascripts/PlayerSpec.js
 TODO
+*.todo
 *.sqlite3-journal
 coverage
 .ackrc

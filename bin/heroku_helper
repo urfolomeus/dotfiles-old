@@ -8,7 +8,7 @@ end
 
 env, command_name, *args = ARGV
 
-env = nil if env == 'production'
+#env = nil if env == 'production'
 
 app = Dir.pwd.split('/').last.urlize
 app << "-#{env}" if env
