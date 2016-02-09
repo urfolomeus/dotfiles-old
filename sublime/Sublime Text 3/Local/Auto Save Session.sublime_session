@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/Users/alan/bin/dotfiles/scripts/css_pal",
 		"/Users/alan/src/work/cultivate/mas/common_initial_assessment",
 		"/Users/alan/src/work/armoin/edinburgh_collected",
 		"/Users/alan/src/work/cultivate/internal/kelvin/hiring_assignment_kelvin_smith",
@@ -75,7 +76,6 @@
 		"/Users/alan/Dropbox/talks/phoenix_and_elm/code/counter",
 		"/Users/alan/Dropbox/src/personal/sites/intro",
 		"/Users/alan/Dropbox/src/work/cultivate/pigfucker",
-		"/Users/alan/bin/dotfiles/scripts/css_pal",
 		"/Users/alan/Dropbox/src/work/cultivate/elixir/phoenix/signal_example",
 		"/Users/alan/Dropbox/src/personal/learning/elm/ps/bingo",
 		"/Users/alan/src/personal/learning/elm/ps/ps_signals",
@@ -130,8 +130,8 @@
 		"/Users/alan/src/personal/learning/elm/bingo",
 		"/Users/alan/src/personal/learning/elm/ps"
 	],
-	"last_version": 3083,
-	"last_window_id": 1402,
+	"last_version": 3103,
+	"last_window_id": 1403,
 	"log_indexing": false,
 	"settings":
 	{
@@ -916,7 +916,7 @@
 			],
 			"find":
 			{
-				"height": 70.0
+				"height": 32.0
 			},
 			"find_in_files":
 			{
@@ -3781,14 +3781,11 @@
 			"buffers":
 			[
 				{
-					"contents": "Package Control Messages\n========================\n\nMaterial Theme\n--------------\n\n  Material Theme for Sublime Text 3\n  https://github.com/equinusocio/material-theme\n  \n  👉 Version 2.0.6 👈\n  ********************************************************************************\n  \n  🏮 UI THEME\n  \n    ➼ Add support to the new status bar switch panel button (bottom left) from dev biuld 3101\n    ➼ Fix tree highlight indicator to match current accent color\n  \n  🏮 COLOR SCHEME\n  \n    ➼ Fix ruby symbols color highlight\n    ➼ Fix html attributes color clitch in some cases\n\n\nTheme - Cobalt2\n---------------\n\n  ## 2.0.4 🔥 Updates! \n  \n  Transient tabs are now recognisable, thanks to a transparent bg\n  Addresses the BEM Modifier Invalid HTML Comment\n  Some nice improvements for Markdown writers\n  \n  🔥📖 I wrote a book + video series on Sublime Text! → SublimeTextBook.com\n  🔥📼 And I created a Training series on React.js → ReactForBeginners.com\n  \n  Use the coupon code COBALT2 for $15 off 💰 💵 💰 💵\n  \n  @wesbos \n  \n  Tweets at twitter.com/@wesbos  😗 😗 😗\n  \n  ## 2.0.1 👌\n  \n  Thanks for everyone's feedback on the theme, some minor updates:\n  \n  💃 Fixed HTML icon in the sidebar\n  😍 Changed the colour of JavaScript functions so they don't match variables\n  😄 Change the colour of CSS properties so they don't blend in with the values\n",
+					"file": "/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/assessments/question.html.erb",
 					"settings":
 					{
-						"buffer_size": 1327,
-						"line_ending": "Unix",
-						"name": "Package Control Messages",
-						"read_only": true,
-						"scratch": true
+						"buffer_size": 4101,
+						"line_ending": "Unix"
 					}
 				}
 			],
@@ -3922,7 +3919,10 @@
 			},
 			"expanded_folders":
 			[
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment"
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/assessments"
 			],
 			"file_history":
 			[
@@ -4253,31 +4253,31 @@
 					[
 						{
 							"buffer": 0,
+							"file": "/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/assessments/question.html.erb",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1327,
+								"buffer_size": 4101,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1327,
-										1327
+										0,
+										0
 									]
 								],
 								"settings":
 								{
 									"WordCountShouldRun": true,
-									"WordCountSyntax": "plain text",
-									"auto_indent": false,
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"tab_width": 2,
-									"word_wrap": true
+									"WordCountSyntax": "html",
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 1379.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
