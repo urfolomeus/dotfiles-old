@@ -1,17 +1,20 @@
+# OS X
 .DS_Store
+*.sqlite3-journal
+.ackrc
 *.swp
 *_acg*
-.idea/
+
+# ruby
 .rvmrc
-.ruby-gemset
-*asw_dump*
-db/chemis-tree-paypal.db
-*Reporting/report/periodic_*
+*.ruby-gemset
+coverage
+
+# jasmine
 */public/javascripts/Player.js
 */public/javascripts/Song.js
 */spec/javascripts/PlayerSpec.js
+
+# todo
 TODO
 *.todo
-*.sqlite3-journal
-coverage
-.ackrc
