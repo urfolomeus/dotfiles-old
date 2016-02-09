@@ -1,16 +1,27 @@
 {
 	"folder_history":
 	[
+		"/Users/alan/src/work/cultivate/mas/common_initial_assessment",
+		"/Users/alan/src/work/armoin/edinburgh_collected",
+		"/Users/alan/src/work/cultivate/internal/kelvin/hiring_assignment_kelvin_smith",
+		"/Users/alan/src/unpushed/seat_saver",
+		"/Users/alan/src/personal/oss/elm-brunch-new",
+		"/Users/alan/src/courses/linux_sys_admin_101/from_john/chef_vagrant",
+		"/Users/alan/src/courses/linux_sys_admin_101",
+		"/Users/alan/src/courses/linux_sys_admin_101/fixen",
+		"/Users/alan/src/courses/linux_sys_admin_101/first_vm/example-rails-app",
+		"/Users/alan/src/courses/linux_sys_admin_101/first_vm",
+		"/Users/alan/src/personal/oss/elm-brunch",
+		"/Users/alan/src/work/cultivate/internal/seat_saver",
+		"/Users/alan/src/work/cultivate/mas/dough",
+		"/Users/alan/src/work/cultivate/internal/cultivateHQ.com",
+		"/Users/alan/src/work/cultivate/mas/scripts",
 		"/Users/alan/Dropbox/src/personal/learning/elixir/pe/ch6",
 		"/Users/alan/bin/dotfiles",
 		"/Users/alan/Dropbox/work/cultivate/ecuk/internal/retros/2016-01",
 		"/Users/alan/src/work/cultivate/mas/webfeeds",
 		"/Users/alan",
 		"/Users/alan/Dropbox/src/personal/learning/elixir/pe",
-		"/Users/alan/src/work/cultivate/internal/cultivateHQ.com",
-		"/Users/alan/src/work/cultivate/internal/seat_saver",
-		"/Users/alan/src/work/cultivate/mas/common_initial_assessment",
-		"/Users/alan/src/work/armoin/edinburgh_collected",
 		"/Users/alan/src/personal/learning/javascript/react/redux/sandbox",
 		"/Users/alan/src/work/cultivate/internal/coding_assignments/hiring_assignment_roberto_la_greqa",
 		"/Users/alan/src/personal/learning/javascript/react/wesbos/catch_of_the_day",
@@ -102,7 +113,6 @@
 		"/Users/alan/src/personal/learning/elm",
 		"/Users/alan/src/work/cultivate/webfeeds",
 		"/Users/alan/src/personal/learning/elm/elm-architecture-tutorial/2",
-		"/Users/alan/src/personal/oss/elm-brunch",
 		"/Users/alan/src/personal/learning/elm/cream",
 		"/Users/alan/src/work/cultivate/elixir/conman",
 		"/Users/alan/src/personal/learning/javascript/brunch/brunch-guide-demos",
@@ -118,30 +128,144 @@
 		"/Users/alan/src/work/cultivate/rad_wrapper/rad_consumer",
 		"/Users/alan/src/work/cultivate/rad_wrapper/rad/.git",
 		"/Users/alan/src/personal/learning/elm/bingo",
-		"/Users/alan/src/personal/learning/elm/ps",
-		"/Users/alan/src/work/cultivate/rad",
-		"/Users/alan/src/personal/learning/elixir/eia",
-		"/Users/alan/src/personal/learning/elixir/eia/ch02",
-		"/Users/alan/src/personal/learning/javascript/require",
-		"/Users/alan/src/personal/sites/the_css_pit",
-		"/Users/alan/src/work/cultivate/sandbox/webfeeds",
-		"/Users/alan/src/personal/projects/ex_csv_lint",
-		"/Users/alan/src/personal/projects/csvlint.rb",
-		"/Users/alan/src/personal/projects/data_noms",
-		"/Users/alan/src/personal/projects/archive/data-noms-rails"
+		"/Users/alan/src/personal/learning/elm/ps"
 	],
 	"last_version": 3083,
-	"last_window_id": 1306,
+	"last_window_id": 1401,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 1001.0,
+		"new_window_height": 1391.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"guidance",
+						"guidance__heading	(question.html.erb)"
+					],
+					[
+						"guidance_text",
+						"guidance__text	(question.html.erb)"
+					],
+					[
+						"enforcemnets",
+						"enforcements__explain	(_enforcement.html.erb)"
+					],
+					[
+						"expect",
+						"expected_classes"
+					],
+					[
+						"clas",
+						"class_list	(question.html.erb)"
+					],
+					[
+						"question",
+						"question_key"
+					],
+					[
+						"class",
+						"class_list"
+					],
+					[
+						"image",
+						"image_uploader_spec.rb"
+					],
+					[
+						"_get",
+						"_getMainModules"
+					],
+					[
+						"out",
+						"outputFile"
+					],
+					[
+						"def",
+						"defaultPublicFolder"
+					],
+					[
+						"pub",
+						"publicFolder"
+					],
+					[
+						"outp",
+						"outputFolder"
+					],
+					[
+						"expe",
+						"expectedCommand"
+					],
+					[
+						"main",
+						"mainModule	(index_spec.js)"
+					],
+					[
+						"file",
+						"filePath"
+					],
+					[
+						"normal",
+						"normalisedFilePath"
+					],
+					[
+						"elm",
+						"elmFolder"
+					],
+					[
+						"expec",
+						"expected_cwd"
+					],
+					[
+						"ba",
+						"baseConfig"
+					],
+					[
+						"src",
+						"srcFile"
+					],
+					[
+						"inline",
+						"inlineErrorMessage"
+					],
+					[
+						"in",
+						"inline"
+					],
+					[
+						"show",
+						"showValidationSummary"
+					],
+					[
+						"sho",
+						"showValidationSummary"
+					],
+					[
+						"shw",
+						"showValidationSummary	(NoServerMarkupNoSummary.html)"
+					],
+					[
+						"conf",
+						"config"
+					],
+					[
+						"descri",
+						"describe"
+					],
+					[
+						"vali",
+						"validation_summary"
+					],
+					[
+						"sce",
+						"scenario"
+					],
+					[
+						"current",
+						"current_answer	(assessments_controller_spec.rb)"
+					],
 					[
 						"list",
 						"list1"
@@ -217,10 +341,6 @@
 					[
 						"subject",
 						"subject_to_enforcement	(application_helper.rb)"
-					],
-					[
-						"expec",
-						"expected_error_text"
 					],
 					[
 						"raise",
@@ -387,10 +507,6 @@
 						"start_link	(counter.ex)"
 					],
 					[
-						"ba",
-						"backend"
-					],
-					[
 						"st",
 						"strategy	(rumbl.ex)"
 					],
@@ -400,10 +516,6 @@
 					],
 					[
 						"ini",
-						"initial_val"
-					],
-					[
-						"in",
 						"initial_val"
 					],
 					[
@@ -541,118 +653,6 @@
 					[
 						"player",
 						"playerId"
-					],
-					[
-						"play",
-						"playerId"
-					],
-					[
-						"you",
-						"youtubeScriptTag"
-					],
-					[
-						"pla",
-						"playerId"
-					],
-					[
-						"login",
-						"login_by_username_and_pass"
-					],
-					[
-						"user",
-						"username"
-					],
-					[
-						"logi",
-						"login_by_username_and_pass"
-					],
-					[
-						"not",
-						"not_found	(auth.ex)"
-					],
-					[
-						"as",
-						"assigns"
-					],
-					[
-						"assign",
-						"assigns	(auth.ex)"
-					],
-					[
-						"R",
-						"Router	(auth.ex)"
-					],
-					[
-						"lma",
-						"lma_user"
-					],
-					[
-						"title",
-						"title_for"
-					],
-					[
-						"conent",
-						"content_for"
-					],
-					[
-						"gsu",
-						"gsub"
-					],
-					[
-						"full",
-						"full_description"
-					],
-					[
-						"seat",
-						"seatLists	(SeatSaver.elm)"
-					],
-					[
-						"ans",
-						"answered_y"
-					],
-					[
-						"flow",
-						"flow_registry"
-					],
-					[
-						"give",
-						"give_emergency_advice	(assessments_controller_spec.rb)"
-					],
-					[
-						"see",
-						"seed_answers"
-					],
-					[
-						"ass",
-						"assign	(auth.ex)"
-					],
-					[
-						"insert",
-						"insert_user"
-					],
-					[
-						"s",
-						"seed_answers"
-					],
-					[
-						"preio",
-						"previous_answers	(assessments_controller.rb)"
-					],
-					[
-						"count",
-						"count_before"
-					],
-					[
-						"video",
-						"video_count"
-					],
-					[
-						"cat",
-						"categories"
-					],
-					[
-						"ca",
-						"category	(video.ex)"
 					]
 				]
 			},
@@ -683,9 +683,13 @@
 			"command_palette":
 			{
 				"height": 354.0,
-				"last_filter": "package",
+				"last_filter": "mar",
 				"selected_items":
 				[
+					[
+						"mar",
+						"Markdown Preview: Preview in Browser"
+					],
 					[
 						"package",
 						"Package Control: Install Package"
@@ -727,10 +731,6 @@
 						"Preferences: Browse Packages"
 					],
 					[
-						"mar",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
 						"json",
 						"Pretty JSON: Format (Pretty Print) JSON"
 					],
@@ -763,7 +763,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 449.0
+				"width": 557.0
 			},
 			"console":
 			{
@@ -785,134 +785,134 @@
 			},
 			"file_history":
 			[
-				"/Users/alan/bin/dotfiles/sublime/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/Users/alan/Dropbox/src/personal/learning/elixir/pe/ch6/chop.exs",
-				"/Users/alan/Dropbox/src/personal/learning/elixir/elixir_notes/pro-tips.md",
-				"/Users/alan/bin/dotfiles/shared/sections/aliases",
-				"/Users/alan/Dropbox/src/personal/learning/elixir/pe/ch6/default_params.exs",
-				"/Users/alan/Dropbox/src/personal/learning/elixir/pe/ch6/guard.exs",
-				"/Users/alan/Dropbox/src/personal/learning/elixir/pe/ch6/factorial1.exs",
-				"/Users/alan/Dropbox/src/personal/learning/elixir/pe/ch6/exercises.exs",
-				"/Users/alan/src/work/cultivate/mas/webfeeds/README.md",
-				"/Users/alan/src/work/cultivate/mas/webfeeds/config/schedule.rb",
-				"/Users/alan/src/work/cultivate/mas/webfeeds/lib/tasks/notify.rake",
-				"/Users/alan/src/work/cultivate/mas/webfeeds/lib/tasks/fetch.rake",
-				"/Users/alan/src/work/cultivate/mas/webfeeds/lib/jobs/fetch_all_source_items.rb",
-				"/Users/alan/src/work/cultivate/mas/webfeeds/app/models/source.rb",
-				"/Users/alan/src/work/cultivate/mas/webfeeds/app/models/source_item.rb",
-				"/Users/alan/src/work/cultivate/mas/webfeeds/app/models/xml_source_document.rb",
-				"/Users/alan/Dropbox/src/personal/learning/elixir/pe/ch6/times.exs",
-				"/Users/alan/Dropbox/src/personal/learning/elixir/pe/ch5/func-01.exs",
-				"/Users/alan/Dropbox/src/personal/learning/elixir/pe/ch5/handle_open.exs",
-				"/Users/alan/Dropbox/src/personal/learning/elixir/pe/ch5/func-02.exs",
-				"/Users/alan/Dropbox/src/personal/learning/elixir/pe/ch5/pin.exs",
-				"/Users/alan/Dropbox/src/personal/learning/elixir/pe/ch5/func-04.exs",
-				"/Users/alan/Dropbox/src/personal/learning/elixir/pe/ch5/func-05.exs",
-				"/Users/alan/.gitconfig",
-				"/Users/alan/src/work/cultivate/internal/cultivateHQ.com/source/posts/2015-10-15-phoenix-elm-1.md",
-				"/Users/alan/Dropbox/src/personal/learning/elixir/pe/ch4/func-01.exs",
-				"/Users/alan/Dropbox/src/personal/learning/elixir/pe/ch4",
-				"/Users/alan/Dropbox/src/personal/learning/elixir/pe/ch2/pm-1.exs",
-				"/Users/alan/Dropbox/src/personal/learning/elixir/pe/ch1/hello.exs",
-				"/Users/alan/src/work/cultivate/internal/seat_saver/brunch-config.js",
-				"/Users/alan/src/work/cultivate/internal/seat_saver/web/static/js/app.js",
-				"/Users/alan/src/work/cultivate/internal/seat_saver/web/static/js/socket.js",
-				"/Users/alan/src/work/cultivate/internal/seat_saver/package.json",
-				"/Users/alan/src/work/cultivate/internal/seat_saver/mix.exs",
-				"/Users/alan/src/work/cultivate/internal/seat_saver/test/support/channel_case.ex",
-				"/Users/alan/src/work/cultivate/internal/seat_saver/test/support/conn_case.ex",
-				"/Users/alan/src/work/cultivate/internal/seat_saver/web/gettext.ex",
-				"/Users/alan/src/work/cultivate/internal/seat_saver/web/views/error_helpers.ex",
-				"/Users/alan/src/work/cultivate/internal/seat_saver/web/templates/layout/app.html.eex",
-				"/Users/alan/src/work/cultivate/internal/seat_saver/web/web.ex",
-				"/Users/alan/src/work/cultivate/internal/seat_saver/web/views/changesetview.ex",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/lib/flows/cia.rb",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/assessments/_information.html.erb",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/assessments/question.html.erb",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/config/locales/en.yml",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/helpers/application_helper.rb",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/spec/helpers/application_helper_spec.rb",
-				"/Users/alan/src/work/cultivate/mas/webfeeds/lib/jobs/fetch_all_posts_for_blog.rb",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/models/cia_interrogator.rb",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/spec/models/cia_interrogator_spec.rb",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/assessments/_debug.html.erb",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/layouts/application.html.erb",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/spec/property_tests/cia_flow_property_spec.rb",
-				"/Users/alan/src/work/armoin/edinburgh_collected/spec/features/my/memories/add_memory_spec.rb",
-				"/Users/alan/src/work/armoin/edinburgh_collected/docs/todos/text_memory.todo",
-				"/Users/alan/src/work/armoin/edinburgh_collected/app/models/memory.rb",
-				"/Users/alan/src/work/armoin/edinburgh_collected/spec/fabricators/memory_fabricator.rb",
-				"/Users/alan/src/work/armoin/edinburgh_collected/app/models/written.rb",
-				"/Users/alan/src/work/armoin/edinburgh_collected/spec/models/written_spec.rb",
-				"/Users/alan/src/work/armoin/edinburgh_collected/spec/support/shared_examples/models/memory_examples.rb",
-				"/Users/alan/src/work/armoin/edinburgh_collected/app/views/my/memories/_details_form.html.erb",
-				"/Users/alan/src/work/armoin/edinburgh_collected/app/models/photo.rb",
-				"/Users/alan/src/work/armoin/edinburgh_collected/spec/models/photo_spec.rb",
-				"/Users/alan/src/work/armoin/edinburgh_collected/app/views/my/memories/new.html.erb",
-				"/Users/alan/src/work/armoin/edinburgh_collected/app/views/memories/_memory.html.erb",
-				"/Users/alan/src/work/armoin/edinburgh_collected/app/assets/stylesheets/old/sections/_memories.sass",
-				"/Users/alan/src/work/armoin/edinburgh_collected/config/locales/en.yml",
-				"/Users/alan/src/work/armoin/edinburgh_collected/app/assets/stylesheets/new/sections/_general.sass",
-				"/Users/alan/src/work/armoin/edinburgh_collected/app/views/my/memories/add_memory.html.erb",
-				"/Users/alan/src/work/armoin/edinburgh_collected/spec/models/memory_spec.rb",
-				"/Users/alan/src/work/armoin/edinburgh_collected/spec/controllers/my/memories_controller_spec.rb",
-				"/Users/alan/src/work/armoin/edinburgh_collected/app/controllers/my/memories_controller.rb",
-				"/Users/alan/src/work/armoin/edinburgh_collected/spec/models/text_spec.rb",
-				"/Users/alan/src/work/armoin/edinburgh_collected/app/models/text.rb",
-				"/Users/alan/src/work/armoin/edinburgh_collected/spec/models/scrapbook_cover_spec.rb",
-				"/Users/alan/src/work/armoin/edinburgh_collected/spec/fabricators/scrapbook_memory_fabricator.rb",
-				"/Users/alan/src/work/armoin/edinburgh_collected/docs/todos/digital_postcards.todo",
-				"/Users/alan/src/personal/learning/javascript/react/redux/notes.md",
-				"/Users/alan/Desktop/Kelvin.todo",
-				"/Users/alan/src/personal/learning/javascript/react/wesbos/catch_of_the_day/scripts/main.js",
-				"/Users/alan/src/personal/learning/javascript/react/wesbos/catch_of_the_day/scripts/components/App.js",
-				"/Users/alan/src/personal/learning/javascript/react/wesbos/catch_of_the_day/scripts/components/routes.js",
-				"/Users/alan/src/personal/learning/javascript/react/wesbos/catch_of_the_day/scripts/components/Inventory.js",
-				"/Users/alan/src/personal/learning/javascript/react/wesbos/catch_of_the_day/scripts/components/AddFishForm.js",
-				"/Users/alan/src/personal/learning/javascript/react/wesbos/catch_of_the_day/scripts/components/Fish.js",
-				"/Users/alan/src/personal/learning/javascript/react/wesbos/catch_of_the_day/scripts/components/Header.js",
-				"/Users/alan/src/personal/learning/javascript/react/wesbos/catch_of_the_day/scripts/components/StorePicker.js",
-				"/Users/alan/src/personal/learning/javascript/react/wesbos/catch_of_the_day/scripts/components/NotFound.js",
-				"/Users/alan/src/personal/learning/javascript/react/wesbos/catch_of_the_day/scripts/components/Order.js",
-				"/Users/alan/src/personal/learning/javascript/react/wesbos/catch_of_the_day/css/style.styl",
-				"/Users/alan/src/personal/learning/javascript/react/wesbos/catch_of_the_day/css/_animations.styl",
-				"/Users/alan/src/personal/learning/javascript/react/wesbos/catch_of_the_day/build/css/style.css",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/config/environments/production.rb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/config/routes.rb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/qa/index.html.erb",
 				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/assets/stylesheets/_variables.scss",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/assets/stylesheets/_enhanced.scss",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/overall.todo",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/.rubocop.yml",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/spec/lib/smart_answer_extensions/question/checkbox_with_other_spec.rb",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/lib/smart_answer_extensions/question/checkbox_with_other.rb",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/lib/smart_answer_extensions/question/subject_to_enforcement.rb",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/spec/features/assessment_validation_spec.rb",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/assessments/_checkbox_with_other.html.erb",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/lib/smart_answer_extensions.rb",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/spec/lib/smart_answer_extensions/question/subject_to_enforcement_spec.rb",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/lib/smart_answer/lib/smart_answer/question/base.rb",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/assessments/_subject_to_enforcement.html.erb",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/lib/smart_answer_extensions/flow/custom_questions.rb",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/lib/smart_answer/lib/smart_answer/invalid_response.rb",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/controllers/assessments_controller.rb",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/assets/javascripts/modules/DynamicToggler.js",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/spec/javascripts/fixtures/DynamicTogglerWithOther.html",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/pre_assessment/new.html.erb",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/assets/javascripts/modules/DynamicSelectBox.js",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/lib/smart_answer/lib/smart_answer/flow.rb",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/lib/smart_answer/lib/smart_answer/node.rb",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/lib/smart_answer/lib/smart_answer/question/multiple_choice.rb",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/assets/stylesheets/components/contact_and_key.scss",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/assets/stylesheets/layouts/_columns.scss",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/assessments/_enforcement.html.erb",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/shared/_contact_and_key.html.erb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/assets/stylesheets/components/_form.scss",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/vendor/assets/bower_components/yeast/assets/lib/_variables.scss",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/assets/stylesheets/components/_contact_and_key.scss",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/layouts/_mas_head.html.erb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/assets/stylesheets/components/_pre_assessment_form.scss",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/vendor/assets/bower_components/mas_dough_theme/components/form/_form.scss",
+				"/Users/alan/Dropbox/work/armoin/Edinburgh Collected/todos/testing.todo",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/assessments/question.html.erb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/assets/stylesheets/components/_hint.scss",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/spec/helpers/application_helper_spec.rb",
 				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/enforcements/index.html.erb",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/spec/controllers/assessments_controller_spec.rb",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/lib/smart_answer/lib/smart_answer/question/checkbox.rb",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/spec/mothers/assessment_mother.rb",
-				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/assessments/results.html.erb",
-				"/Users/alan/Dropbox/todos/main.todo",
-				"/Users/alan/Dropbox/talks/wth_is_otp/notes.md",
-				"/Users/alan/Dropbox/learning/elixir/phoenix/prog_phoenix/rumbl/web/channels/video_channel.ex",
-				"/Users/alan/Dropbox/learning/elixir/phoenix/prog_phoenix/rumbl/web/views/annotation_view.ex"
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/assets/stylesheets/components/_question.scss",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/assessments/_multiple_choice_with_highlights.html.erb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/assessments/_multiple_choice.html.erb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/assessments/_checkbox_with_other.html.erb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/assessments/_checkbox.html.erb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/assets/stylesheets/_enhanced.scss",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/layouts/application.html.erb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/assets/stylesheets/layouts/_columns.scss",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/assets/stylesheets/layouts/_cia_main.scss",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/assets/stylesheets/layouts/_equal_height_columns.scss",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/assessments/_enforcement.html.erb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/assessments/_subject_to_enforcement.html.erb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/pre_assessments/new.html.erb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/lib/flows/cia.rb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/lib/cia_helper.rb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/config/locales/en.yml",
+				"/Users/alan/src/work/armoin/edinburgh_collected/docs/todos/testing.todo",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/helpers/question_helper.rb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/assessments/_information.html.erb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/controllers/pre_assessments_controller.rb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/controllers/enforcements_controller.rb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/helpers/application_helper.rb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/assets/stylesheets/components/_section_heading.scss",
+				"/Users/alan/bin/dotfiles/sublime/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/Gemfile",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/Gemfile.lock",
+				"/Users/alan/Desktop/david_email.txt",
+				"/Users/alan/src/work/armoin/edinburgh_collected/Gemfile",
+				"/Users/alan/src/work/armoin/edinburgh_collected/spec/fabricators/category_fabricator.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/spec/fabricators/link_fabricator.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/spec/fabricators/scrapbook_fabricator.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/spec/fabricators/tag_fabricator.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/spec/fabricators/user_fabricator.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/uploaders/image_uploader.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/spec/models/link_spec.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/models/link.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/models/user.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/controllers/my/profile_controller.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/controllers/concerns/update_with_image.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/controllers/concerns/model_with_image_updater.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/docs/todos/tasks.todo",
+				"/Users/alan/src/work/armoin/edinburgh_collected/spec/models/user_spec.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/spec/rails_helper.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/spec/support/shoulda_matchers.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/spec/mailers/authentication_mailer_spec.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/views/authentication_mailer/reset_password_email.html.erb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/views/shared/_profile_link.html.erb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/spec/support/shared_examples/views/owner_details_examples.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/spec/javascripts/spec.js.coffee",
+				"/Users/alan/src/work/armoin/edinburgh_collected/config/initializers/assets.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/assets/stylesheets/new/sections/_buttons.sass",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/assets/stylesheets/new/_base.sass",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/assets/stylesheets/application.sass",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/assets/stylesheets/new/main.sass",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/assets/stylesheets/old/media/_mobiles.sass",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/assets/stylesheets/application_new.sass",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/assets/stylesheets/scrapbooks.sass",
+				"/Users/alan/src/work/armoin/edinburgh_collected/spec/javascripts/spec.css.sass",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/views/scrapbooks/_selector.html.erb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/views/layouts/_favicon.html.erb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/views/layouts/application.html.erb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/assets/stylesheets/old/sections/_buttons.sass",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/assets/stylesheets/old/sections/_beta.sass",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/assets/stylesheets/new/_base.css.sass",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/assets/stylesheets/old/_base.css.sass",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/views/layouts/application_old.html.erb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/views/search/memories/index.html.erb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/views/memories/index.html.erb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/views/memories/_add_to_scrapbook.html.erb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/views/home/index.html.erb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/config/secrets.yml",
+				"/Users/alan/src/work/armoin/edinburgh_collected/config/initializers/mime_types.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/config/locales/en.yml",
+				"/Users/alan/src/work/armoin/edinburgh_collected/config/application.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/config/environments/development.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/config/environments/production.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/config/environments/test.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/.travis.yml",
+				"/Users/alan/src/work/armoin/edinburgh_collected/.ruby-version",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/models/moderation_log.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/models/concerns/moderatable.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/models/scrapbook_cover.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/models/scrapbook.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/spec/models/scrapbook_spec.rb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/assessments/_value.html.erb",
+				"/Users/alan/Desktop/kelvin.md",
+				"/Users/alan/src/work/armoin/edinburgh_collected/docs/deploy_history.sh",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/views/memories/_memory.html.erb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/spec/uploaders/image_uploader_spec.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/uploaders/temp_image_file_uploader.rb",
+				"/Users/alan/src/personal/oss/elm-brunch-new/test/index_spec.js",
+				"/Users/alan/src/personal/oss/elm-brunch-new/index.js",
+				"/Users/alan/src/courses/linux_sys_admin_101/fixen/example-rails-app/config/deploy.rb",
+				"/Users/alan/src/personal/oss/elm-brunch-new/package.json",
+				"/Users/alan/src/unpushed/seat_saver/brunch-config.js",
+				"/Users/alan/src/unpushed/seat_saver/package.json",
+				"/Users/alan/src/unpushed/seat_saver/node_modules/elm-brunch/index.js",
+				"/Users/alan/src/unpushed/seat_saver/node_modules/elm-brunch-new/index.js",
+				"/Users/alan/src/unpushed/seat_saver/node_modules/elm-brunch/package.json",
+				"/Users/alan/src/work/cultivate/internal/seat_saver/package.json",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/lib/debt_advice.rb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/spec/support/site_prism/multiple_choice_with_highlights_page.rb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/spec/features/client_side_validation_spec.rb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/assets/javascripts/require_config.js.erb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/spec/javascripts/test-main.js",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/spec/lib/cia_helper_spec.rb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/acg.todo",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/assets/javascripts/modules/DynamicToggler.js",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/overall.todo",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/spec/support/site_prism/checkbox_with_other_page.rb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/spec/spec_helper.rb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/spec/rails_helper.rb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/spec/javascripts/tests/DynamicToggler_spec.js"
 			],
 			"find":
 			{
@@ -923,6 +923,8 @@
 				"height": 158.0,
 				"where_history":
 				[
+					"",
+					"/Users/alan/src/unpushed/seat_saver/node_modules/elm-brunch",
 					"",
 					"/Users/alan/Dropbox/learning/elixir/phoenix/prog_phoenix/rumbl/web",
 					"",
@@ -942,134 +944,134 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"Test",
-					"except",
-					"number",
-					"vcr",
-					"puts",
-					"hub",
-					"ist",
-					"import Ecto.Model",
-					"build",
-					"MyApp",
-					"section",
-					"sections",
-					"section",
-					"channel_validation_section",
-					"blog.moneyadviceservice",
-					"cia_channel",
-					"seed_answers",
-					"previous_advised_channels",
-					"information",
-					"liability",
-					"select_a_category",
-					"fill_in_required_written_memory_fields",
-					"Tell us about",
-					"white",
-					"transparent",
-					"text",
-					"Text",
-					"text",
-					"Text",
-					"text",
-					"Text",
-					"text",
-					"Text",
-					"TextMemory",
-					"text_memory",
-					"fill_in_required_text_memory_fields",
-					"text_memory",
-					"text",
-					"components/",
-					"Inventory",
-					"Order",
-					"AddFishForm",
-					"Fish",
-					"Header",
-					"History",
-					"NotFound",
-					"Sory",
-					"this.props",
-					"ul.order li",
-					"dynam",
-					"dyn",
-					"Current answer needs a value for",
-					"Current answer needs a value for 'Other enforcement actions'",
-					"checkbox_with_other",
-					"data-dough-dynamic-select-box-trigger",
-					"triggerSelector",
-					"ul",
-					"hightlight",
-					"render_views",
-					"div",
-					"p",
-					"Navigator",
-					"params[\"",
-					"video",
-					"Token",
-					"multiple-choice",
-					"multiple",
-					"multiple-choice-option",
-					"multiple",
-					"radio-button",
-					"otherRadioButton",
-					"firstRadioButton",
-					"radio",
+					"AUTH_USERNAME",
+					"$baseline-unit",
+					"input[type=\"text\"]",
+					"$baseline-unit",
+					"hint-toggler",
+					"class_list",
+					"question-body",
+					"back-button",
+					".option__label",
+					"guidance",
+					"question__margin-top--collapse",
+					"link_to.*back",
+					"link_to t('back')",
+					"Access",
+					"question__margin-top--collapse",
+					"section_heading",
+					"hint",
+					"Faker",
+					"FastImage",
+					"width ",
+					"application_new",
+					"image_tag",
+					"pry",
+					"small",
+					"beta",
+					"feedback",
+					"user-card",
+					"teal",
+					"reset_password_email",
+					"foreigner",
+					"strip_links",
+					"strip_tags",
+					"sanitize_css",
+					"sanitize",
+					"teal",
+					" white",
+					" red",
+					"red",
+					"purple",
+					"memory",
+					".cover",
+					"after_",
+					"164px",
+					"contact-and-key__svg-icon",
+					".contact-and-key__svg-icon",
+					"'Please pick an option.'",
+					"'Please pick at least one.'",
+					"6",
+					"speach",
+					"baseConfig",
+					"unexpectedCommand",
+					"expectedCwd     =",
+					"var expectedCwd    ",
+					"var expectedCwd     ",
+					"expectedCwd",
+					"exec",
+					"childProcess",
+					"fileName",
+					"run",
+					"output",
+					"web/static/vendor",
+					"fileName",
+					"srcFile",
 					"_",
-					"without_valid_options",
-					"raw_input",
-					"question_content",
-					"-",
-					"_atLeastOneChecked",
-					"enable",
-					"triggerClickHandler",
+					"File",
+					"sampleConfig",
+					"exec",
+					".path",
+					"path",
+					"assess_pre_qualified_channel_face_to_face",
+					"first_channel_validation_question",
+					"channel_validation__previous_channel__stopping_receiving_help",
+					"suggest_alternative_channel",
+					"channel_validation__client_able_to_access_help",
+					"channel_validation__suggest_alternative_channel__without_face_to_face",
+					"delivery_channel_for",
+					"select_channel_validation_second_stage",
+					"dynamic_toggler",
+					"otherTextElement",
 					"otherTextSelector",
-					"otherTriggerSelector",
-					"-",
-					"_",
-					"dynamic_select_box_config",
-					"select-box",
-					"DynamicallyEnableComponent",
-					"DynamicSelectBox",
-					"_",
-					"dump",
-					"signal",
-					"pnrg",
-					"User.find(",
-					"id",
-					"attributed_to_for",
-					"Donated by",
-					"__FILE__",
-					"Dir",
-					"lobby",
-					"><!",
-					"mather",
-					"production",
-					"NodeWrapper",
-					"answers",
-					"possible_answers",
-					"outcome_reached?",
-					"final_channel",
-					"emergency_advice_flag",
-					"final_channel",
-					"cia_channel",
-					"owner",
-					"answer_params",
-					"seed_answers",
-					"options",
-					"node",
-					"flow_traversal",
-					"@",
-					"flow_helper",
-					"FlowHelper",
-					"flow",
-					"//",
-					"description",
-					"PRE_QUALIFIED_CHANNEL_TO_PREVIOUSLY_USED",
-					".to_s",
-					".to_sym",
-					".to_s",
-					".map(&:to_s)"
+					"display",
+					"multichoice_with_highlight",
+					"dynamic_toggler",
+					"and_i_wait_for_the_next_question",
+					"dough",
+					"then_i_dont_see_inline_validation",
+					"then_i_see_inline_validation",
+					"other_text",
+					"other_triggers",
+					"should",
+					"true",
+					"showValidationSummary",
+					"ValidationSummary",
+					"validationSummary",
+					"ValidationSummary",
+					"validationSummary",
+					"ValidationSummary",
+					"validationSummary",
+					"ValidationSummary",
+					"validationSummary",
+					"ValidationSummary",
+					"validationSummary",
+					"ValidationSummary",
+					"validationSummary",
+					"ValidationSummary",
+					"validationSummary",
+					"ValidationSummary",
+					"validationSummary",
+					" when exists already",
+					"validation summary",
+					"and",
+					"question__svg-icon",
+					"liability_received_debt_advice_before",
+					"checkb",
+					"n option",
+					"multiple_choice",
+					"and_i_select_an_answer",
+					"\n        and_it_includes_the_message('Please pick an option.')",
+					"\n\n  def and_i_click_next\n    page.next_button.click\n  end",
+					"\\btext\\b",
+					"text",
+					"actionLink",
+					"instructionsWrapper",
+					"button-icon--camera",
+					"instructionsWrapper",
+					"container",
+					"$el",
+					"validationSummaryClass"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1126,6 +1128,90 @@
 				"selected_items":
 				[
 					[
+						"cia",
+						"lib/flows/cia.rb"
+					],
+					[
+						"en",
+						"config/locales/en.yml"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"spec/models/link_spec.rb",
+						"spec/models/link_spec.rb"
+					],
+					[
+						"spec/mailers/authentication_mailer_spec.rb",
+						"spec/mailers/authentication_mailer_spec.rb"
+					],
+					[
+						"mulhtml",
+						"app/views/assessments/_multiple_choice.html.erb"
+					],
+					[
+						"ciahelper",
+						"lib/cia_helper.rb"
+					],
+					[
+						"gemlo",
+						"Gemfile.lock"
+					],
+					[
+						"app/views/assessments/_checkbox.html.erb",
+						"app/views/assessments/_checkbox.html.erb"
+					],
+					[
+						"app/views/assessments/_multiple_choice.html.erb",
+						"app/views/assessments/_multiple_choice.html.erb"
+					],
+					[
+						"pack",
+						"package.json"
+					],
+					[
+						"spfeacl",
+						"spec/features/client_side_validation_spec.rb"
+					],
+					[
+						"multpag",
+						"spec/support/site_prism/multiple_choice_page.rb"
+					],
+					[
+						"asspag",
+						"spec/support/site_prism/assessment_page.rb"
+					],
+					[
+						"ge",
+						"Gemfile"
+					],
+					[
+						"_big",
+						"app/assets/stylesheets/new/components/_big_buttons.css.sass"
+					],
+					[
+						"valid",
+						"vendor/assets/bower_components/dough/assets/js/components/Validation.js"
+					],
+					[
+						"mulcho",
+						"lib/smart_answer/lib/smart_answer/question/multiple_choice.rb"
+					],
+					[
+						"apphelp",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"quest",
+						"app/views/assessments/question.html.erb"
+					],
+					[
+						"appli",
+						"app/views/layouts/application.html.erb"
+					],
+					[
 						"pac",
 						"package.json"
 					],
@@ -1140,10 +1226,6 @@
 					[
 						"brunch",
 						"brunch-config.js"
-					],
-					[
-						"pack",
-						"package.json"
 					],
 					[
 						"mix",
@@ -1170,20 +1252,12 @@
 						"scripts/main.js"
 					],
 					[
-						"apphelp",
-						"app/helpers/application_helper.rb"
-					],
-					[
 						"asscont",
 						"app/controllers/assessments_controller.rb"
 					],
 					[
 						"en.yml",
 						"config/locales/en.yml"
-					],
-					[
-						"cia",
-						"lib/flows/cia.rb"
 					],
 					[
 						"dynamictogglerwithother.html",
@@ -1340,10 +1414,6 @@
 					[
 						"preasspage",
 						"spec/support/site_prism/pre_assessment_page.rb"
-					],
-					[
-						"gem",
-						"Gemfile"
 					],
 					[
 						"vidconte",
@@ -1568,74 +1638,6 @@
 					[
 						"dev",
 						"config/dev.exs"
-					],
-					[
-						"rumblrep",
-						"lib/rumbl/repo.ex"
-					],
-					[
-						"indehtee",
-						"web/templates/user/index.html.eex"
-					],
-					[
-						"ro",
-						"web/router.ex"
-					],
-					[
-						"seat",
-						"web/elm/SeatSaver.elm"
-					],
-					[
-						"flotrav",
-						"app/models/flow_traversal.rb"
-					],
-					[
-						"_deb",
-						"app/views/assessments/_debug.html.erb"
-					],
-					[
-						"out",
-						"app/views/assessments/outcome.html.erb"
-					],
-					[
-						"debug.html.",
-						"app/views/assessments/_debug.html.erb"
-					],
-					[
-						"ciin",
-						"spec/models/cia_interrogator_spec.rb"
-					],
-					[
-						"assrb",
-						"app/models/assessment.rb"
-					],
-					[
-						"asses",
-						"app/controllers/assessments_controller.rb"
-					],
-					[
-						"trav",
-						"app/models/flow_traversal.rb"
-					],
-					[
-						"outc",
-						"app/views/assessments/outcome.html.erb"
-					],
-					[
-						"cia_intsp",
-						"spec/models/cia_interrogator_spec.rb"
-					],
-					[
-						"en.",
-						"config/locales/en.yml"
-					],
-					[
-						"hellend",
-						"lib/hello/endpoint.ex"
-					],
-					[
-						"_check",
-						"app/views/assessments/_checkbox.html.erb"
 					]
 				],
 				"width": 0.0
@@ -1662,7 +1664,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 193.0,
+			"side_bar_width": 223.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -1672,6 +1674,1591 @@
 	},
 	"windows":
 	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"guidance",
+						"guidance__heading	(question.html.erb)"
+					],
+					[
+						"guidance_text",
+						"guidance__text	(question.html.erb)"
+					],
+					[
+						"enforcemnets",
+						"enforcements__explain	(_enforcement.html.erb)"
+					],
+					[
+						"expect",
+						"expected_classes"
+					],
+					[
+						"clas",
+						"class_list	(question.html.erb)"
+					],
+					[
+						"question",
+						"question_key"
+					],
+					[
+						"class",
+						"class_list"
+					],
+					[
+						"image",
+						"image_uploader_spec.rb"
+					],
+					[
+						"_get",
+						"_getMainModules"
+					],
+					[
+						"out",
+						"outputFile"
+					],
+					[
+						"def",
+						"defaultPublicFolder"
+					],
+					[
+						"pub",
+						"publicFolder"
+					],
+					[
+						"outp",
+						"outputFolder"
+					],
+					[
+						"expe",
+						"expectedCommand"
+					],
+					[
+						"main",
+						"mainModule	(index_spec.js)"
+					],
+					[
+						"file",
+						"filePath"
+					],
+					[
+						"normal",
+						"normalisedFilePath"
+					],
+					[
+						"elm",
+						"elmFolder"
+					],
+					[
+						"expec",
+						"expected_cwd"
+					],
+					[
+						"ba",
+						"baseConfig"
+					],
+					[
+						"src",
+						"srcFile"
+					],
+					[
+						"inline",
+						"inlineErrorMessage"
+					],
+					[
+						"in",
+						"inline"
+					],
+					[
+						"show",
+						"showValidationSummary"
+					],
+					[
+						"sho",
+						"showValidationSummary"
+					],
+					[
+						"shw",
+						"showValidationSummary	(NoServerMarkupNoSummary.html)"
+					],
+					[
+						"conf",
+						"config"
+					],
+					[
+						"descri",
+						"describe"
+					],
+					[
+						"vali",
+						"validation_summary"
+					],
+					[
+						"sce",
+						"scenario"
+					],
+					[
+						"current",
+						"current_answer	(assessments_controller_spec.rb)"
+					],
+					[
+						"list",
+						"list1"
+					],
+					[
+						"rec",
+						"recipient"
+					],
+					[
+						"cu",
+						"current_answer"
+					],
+					[
+						"Deb",
+						"DebtAdvice"
+					],
+					[
+						"ques",
+						"questions_with_answers"
+					],
+					[
+						"path",
+						"path_to_prequalified"
+					],
+					[
+						"previous",
+						"previous_advised_channels	(_debug.html.erb)"
+					],
+					[
+						"local",
+						"local_telephone	(en.yml)"
+					],
+					[
+						"display",
+						"display_pre_qualified_channel	(_information.html.erb)"
+					],
+					[
+						"displa",
+						"display_pre_qualified_channel	(_information.html.erb)"
+					],
+					[
+						"pre",
+						"pre_qualified_channel	(cia.rb)"
+					],
+					[
+						"re",
+						"relative"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"St",
+						"StorePicker"
+					],
+					[
+						"prop",
+						"propTypes"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"tran",
+						"transitionName"
+					],
+					[
+						"sub",
+						"subject_to_enforcement"
+					],
+					[
+						"subject",
+						"subject_to_enforcement	(application_helper.rb)"
+					],
+					[
+						"raise",
+						"raise_error	(checkbox_with_other_spec.rb)"
+					],
+					[
+						"desc",
+						"described_class"
+					],
+					[
+						"option",
+						"option_2"
+					],
+					[
+						"pa",
+						"parse_input	(subject_to_enforcement.rb)"
+					],
+					[
+						"en",
+						"enforcement	(subject_to_enforcement.rb)"
+					],
+					[
+						"non",
+						"non_exclusive	(cia_interrogator.rb)"
+					],
+					[
+						"check",
+						"_checkbox_with_other.html.erb"
+					],
+					[
+						"Sub",
+						"SubjectToEnforcementQuestion	(checkbox_with_other.rb)"
+					],
+					[
+						"NO",
+						"NO_ENFORCEMENTS_OPTION"
+					],
+					[
+						"select",
+						"selected"
+					],
+					[
+						"no",
+						"no_enforcements_option"
+					],
+					[
+						"Chec",
+						"CheckboxWithOther"
+					],
+					[
+						"ra",
+						"raw_input"
+					],
+					[
+						"tri",
+						"triggerSelector"
+					],
+					[
+						"trigger",
+						"triggerSelector"
+					],
+					[
+						"com",
+						"component"
+					],
+					[
+						"remo",
+						"removeButton"
+					],
+					[
+						"remove",
+						"removeFromOrder"
+					],
+					[
+						"reo",
+						"removeFish"
+					],
+					[
+						"rend",
+						"renderInventory"
+					],
+					[
+						"f",
+						"fishes"
+					],
+					[
+						"pr",
+						"props"
+					],
+					[
+						"lo",
+						"localStorageRef"
+					],
+					[
+						"cia",
+						"cia_interrogator"
+					],
+					[
+						"is",
+						"isAvailable"
+					],
+					[
+						"order",
+						"orderIds"
+					],
+					[
+						"add",
+						"addToOrder"
+					],
+					[
+						"but",
+						"buttonText"
+					],
+					[
+						"cre",
+						"createClass"
+					],
+					[
+						"tim",
+						"timestamp"
+					],
+					[
+						"Add",
+						"AddFishForm"
+					],
+					[
+						"store",
+						"storeId"
+					],
+					[
+						"No",
+						"NotFound"
+					],
+					[
+						"Sot",
+						"StorePicker"
+					],
+					[
+						"React",
+						"ReactRouter"
+					],
+					[
+						"h",
+						"h3"
+					],
+					[
+						"app",
+						"app_id"
+					],
+					[
+						"wol",
+						"wolfram"
+					],
+					[
+						"que",
+						"query_str"
+					],
+					[
+						"fetch",
+						"fetch_xml"
+					],
+					[
+						"start",
+						"start_link	(counter.ex)"
+					],
+					[
+						"st",
+						"strategy	(rumbl.ex)"
+					],
+					[
+						"handle",
+						"handle_info"
+					],
+					[
+						"ini",
+						"initial_val"
+					],
+					[
+						"get",
+						"getCurrentTime"
+					],
+					[
+						"render",
+						"renderAnnotation"
+					],
+					[
+						"Annotation",
+						"AnnotationView	(video_channel.ex)"
+					],
+					[
+						"anno",
+						"annotations"
+					],
+					[
+						"vi",
+						"video_id"
+					],
+					[
+						"assi",
+						"assigns	(user_socket.ex)"
+					],
+					[
+						"new",
+						"new_sock"
+					],
+					[
+						"vid",
+						"videoId"
+					],
+					[
+						"put",
+						"put_current_user"
+					],
+					[
+						"ann",
+						"annotations"
+					],
+					[
+						"Annot",
+						"AnnotationView	(video_channel.ex)"
+					],
+					[
+						"sort",
+						"sorted_response"
+					],
+					[
+						"other",
+						"other_options"
+					],
+					[
+						"options",
+						"options_from_string"
+					],
+					[
+						"us",
+						"userToken	(app.html.eex)"
+					],
+					[
+						"msg",
+						"msgContainer"
+					],
+					[
+						"ms",
+						"msgContainer"
+					],
+					[
+						"asi",
+						"assign"
+					],
+					[
+						"trigg",
+						"triggerElement"
+					],
+					[
+						"Dyn",
+						"DynamicTogglerProto"
+					],
+					[
+						"multi",
+						"multi_with_other"
+					],
+					[
+						"_multi",
+						"_multiWithOther"
+					],
+					[
+						"o",
+						"otherText"
+					],
+					[
+						"Dy",
+						"DynamicTogglerProto"
+					],
+					[
+						"type",
+						"typeSelector"
+					],
+					[
+						"togg",
+						"toggleType"
+					],
+					[
+						"to",
+						"toggleType"
+					],
+					[
+						"target",
+						"targetElement"
+					],
+					[
+						"tr",
+						"triggerElement"
+					],
+					[
+						"slu",
+						"slug"
+					],
+					[
+						"sl",
+						"slugify"
+					],
+					[
+						"onpla",
+						"onPlayerStateChange"
+					],
+					[
+						"on",
+						"onPlayerReady"
+					],
+					[
+						"player",
+						"playerId"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Ruby/Ruby.sublime-build",
+							""
+						],
+						[
+							"Packages/RSpec/RSpec - Bundle Exec.sublime-build",
+							""
+						],
+						[
+							"Packages/RSpec/RSpec.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/RSpec/RSpec - Bundle Exec.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "mar",
+				"selected_items":
+				[
+					[
+						"mar",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"pret",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"Package Control: lis",
+						"Package Control: List Packages"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"sort",
+						"Sort Lines"
+					],
+					[
+						"mv",
+						"File: Move"
+					],
+					[
+						"pcd",
+						"Package Control: Disable Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Preferences: Browse Packages"
+					],
+					[
+						"json",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: moduledoc"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"sxrb",
+						"Set Syntax: Ruby"
+					],
+					[
+						"prett",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 557.0
+			},
+			"console":
+			{
+				"height": 160.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment"
+			],
+			"file_history":
+			[
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/config/environments/production.rb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/config/routes.rb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/qa/index.html.erb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/assets/stylesheets/_variables.scss",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/assets/stylesheets/components/_form.scss",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/vendor/assets/bower_components/yeast/assets/lib/_variables.scss",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/assets/stylesheets/components/_contact_and_key.scss",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/layouts/_mas_head.html.erb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/assets/stylesheets/components/_pre_assessment_form.scss",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/vendor/assets/bower_components/mas_dough_theme/components/form/_form.scss",
+				"/Users/alan/Dropbox/work/armoin/Edinburgh Collected/todos/testing.todo",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/assessments/question.html.erb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/assets/stylesheets/components/_hint.scss",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/spec/helpers/application_helper_spec.rb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/enforcements/index.html.erb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/assets/stylesheets/components/_question.scss",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/assessments/_multiple_choice_with_highlights.html.erb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/assessments/_multiple_choice.html.erb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/assessments/_checkbox_with_other.html.erb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/assessments/_checkbox.html.erb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/assets/stylesheets/_enhanced.scss",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/layouts/application.html.erb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/assets/stylesheets/layouts/_columns.scss",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/assets/stylesheets/layouts/_cia_main.scss",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/assets/stylesheets/layouts/_equal_height_columns.scss",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/assessments/_enforcement.html.erb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/assessments/_subject_to_enforcement.html.erb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/pre_assessments/new.html.erb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/lib/flows/cia.rb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/lib/cia_helper.rb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/config/locales/en.yml",
+				"/Users/alan/src/work/armoin/edinburgh_collected/docs/todos/testing.todo",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/helpers/question_helper.rb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/assessments/_information.html.erb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/controllers/pre_assessments_controller.rb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/controllers/enforcements_controller.rb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/helpers/application_helper.rb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/assets/stylesheets/components/_section_heading.scss",
+				"/Users/alan/bin/dotfiles/sublime/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/Gemfile",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/Gemfile.lock",
+				"/Users/alan/Desktop/david_email.txt",
+				"/Users/alan/src/work/armoin/edinburgh_collected/Gemfile",
+				"/Users/alan/src/work/armoin/edinburgh_collected/spec/fabricators/category_fabricator.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/spec/fabricators/link_fabricator.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/spec/fabricators/scrapbook_fabricator.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/spec/fabricators/tag_fabricator.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/spec/fabricators/user_fabricator.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/uploaders/image_uploader.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/spec/models/link_spec.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/models/link.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/models/user.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/controllers/my/profile_controller.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/controllers/concerns/update_with_image.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/controllers/concerns/model_with_image_updater.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/docs/todos/tasks.todo",
+				"/Users/alan/src/work/armoin/edinburgh_collected/spec/models/user_spec.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/spec/rails_helper.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/spec/support/shoulda_matchers.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/spec/mailers/authentication_mailer_spec.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/views/authentication_mailer/reset_password_email.html.erb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/views/shared/_profile_link.html.erb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/spec/support/shared_examples/views/owner_details_examples.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/spec/javascripts/spec.js.coffee",
+				"/Users/alan/src/work/armoin/edinburgh_collected/config/initializers/assets.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/assets/stylesheets/new/sections/_buttons.sass",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/assets/stylesheets/new/_base.sass",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/assets/stylesheets/application.sass",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/assets/stylesheets/new/main.sass",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/assets/stylesheets/old/media/_mobiles.sass",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/assets/stylesheets/application_new.sass",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/assets/stylesheets/scrapbooks.sass",
+				"/Users/alan/src/work/armoin/edinburgh_collected/spec/javascripts/spec.css.sass",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/views/scrapbooks/_selector.html.erb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/views/layouts/_favicon.html.erb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/views/layouts/application.html.erb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/assets/stylesheets/old/sections/_buttons.sass",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/assets/stylesheets/old/sections/_beta.sass",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/assets/stylesheets/new/_base.css.sass",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/assets/stylesheets/old/_base.css.sass",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/views/layouts/application_old.html.erb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/views/search/memories/index.html.erb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/views/memories/index.html.erb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/views/memories/_add_to_scrapbook.html.erb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/views/home/index.html.erb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/config/secrets.yml",
+				"/Users/alan/src/work/armoin/edinburgh_collected/config/initializers/mime_types.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/config/locales/en.yml",
+				"/Users/alan/src/work/armoin/edinburgh_collected/config/application.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/config/environments/development.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/config/environments/production.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/config/environments/test.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/.travis.yml",
+				"/Users/alan/src/work/armoin/edinburgh_collected/.ruby-version",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/models/moderation_log.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/models/concerns/moderatable.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/models/scrapbook_cover.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/models/scrapbook.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/spec/models/scrapbook_spec.rb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/views/assessments/_value.html.erb",
+				"/Users/alan/Desktop/kelvin.md",
+				"/Users/alan/src/work/armoin/edinburgh_collected/docs/deploy_history.sh",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/views/memories/_memory.html.erb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/spec/uploaders/image_uploader_spec.rb",
+				"/Users/alan/src/work/armoin/edinburgh_collected/app/uploaders/temp_image_file_uploader.rb",
+				"/Users/alan/src/personal/oss/elm-brunch-new/test/index_spec.js",
+				"/Users/alan/src/personal/oss/elm-brunch-new/index.js",
+				"/Users/alan/src/courses/linux_sys_admin_101/fixen/example-rails-app/config/deploy.rb",
+				"/Users/alan/src/personal/oss/elm-brunch-new/package.json",
+				"/Users/alan/src/unpushed/seat_saver/brunch-config.js",
+				"/Users/alan/src/unpushed/seat_saver/package.json",
+				"/Users/alan/src/unpushed/seat_saver/node_modules/elm-brunch/index.js",
+				"/Users/alan/src/unpushed/seat_saver/node_modules/elm-brunch-new/index.js",
+				"/Users/alan/src/unpushed/seat_saver/node_modules/elm-brunch/package.json",
+				"/Users/alan/src/work/cultivate/internal/seat_saver/package.json",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/lib/debt_advice.rb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/spec/support/site_prism/multiple_choice_with_highlights_page.rb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/spec/features/client_side_validation_spec.rb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/assets/javascripts/require_config.js.erb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/spec/javascripts/test-main.js",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/spec/lib/cia_helper_spec.rb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/acg.todo",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/app/assets/javascripts/modules/DynamicToggler.js",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/overall.todo",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/spec/support/site_prism/checkbox_with_other_page.rb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/spec/spec_helper.rb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/spec/rails_helper.rb",
+				"/Users/alan/src/work/cultivate/mas/common_initial_assessment/spec/javascripts/tests/DynamicToggler_spec.js"
+			],
+			"find":
+			{
+				"height": 70.0
+			},
+			"find_in_files":
+			{
+				"height": 158.0,
+				"where_history":
+				[
+					"",
+					"/Users/alan/src/unpushed/seat_saver/node_modules/elm-brunch",
+					"",
+					"/Users/alan/Dropbox/learning/elixir/phoenix/prog_phoenix/rumbl/web",
+					"",
+					"/Users/alan/src/work/cultivate/internal/cultivateHQ.com/source/posts",
+					"",
+					"/Users/alan/Dropbox/src/work/cultivate/rad_wrapper/rad_consumer/app/assets",
+					"",
+					"/Users/alan/src/work/armoin/edinburgh_collected/app/assets/stylesheets/",
+					"/Users/alan/src/work/armoin/edinburgh_collected/assets/stylesheets",
+					"",
+					"spec",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"AUTH_USERNAME",
+					"$baseline-unit",
+					"input[type=\"text\"]",
+					"$baseline-unit",
+					"hint-toggler",
+					"class_list",
+					"question-body",
+					"back-button",
+					".option__label",
+					"guidance",
+					"question__margin-top--collapse",
+					"link_to.*back",
+					"link_to t('back')",
+					"Access",
+					"question__margin-top--collapse",
+					"section_heading",
+					"hint",
+					"Faker",
+					"FastImage",
+					"width ",
+					"application_new",
+					"image_tag",
+					"pry",
+					"small",
+					"beta",
+					"feedback",
+					"user-card",
+					"teal",
+					"reset_password_email",
+					"foreigner",
+					"strip_links",
+					"strip_tags",
+					"sanitize_css",
+					"sanitize",
+					"teal",
+					" white",
+					" red",
+					"red",
+					"purple",
+					"memory",
+					".cover",
+					"after_",
+					"164px",
+					"contact-and-key__svg-icon",
+					".contact-and-key__svg-icon",
+					"'Please pick an option.'",
+					"'Please pick at least one.'",
+					"6",
+					"speach",
+					"baseConfig",
+					"unexpectedCommand",
+					"expectedCwd     =",
+					"var expectedCwd    ",
+					"var expectedCwd     ",
+					"expectedCwd",
+					"exec",
+					"childProcess",
+					"fileName",
+					"run",
+					"output",
+					"web/static/vendor",
+					"fileName",
+					"srcFile",
+					"_",
+					"File",
+					"sampleConfig",
+					"exec",
+					".path",
+					"path",
+					"assess_pre_qualified_channel_face_to_face",
+					"first_channel_validation_question",
+					"channel_validation__previous_channel__stopping_receiving_help",
+					"suggest_alternative_channel",
+					"channel_validation__client_able_to_access_help",
+					"channel_validation__suggest_alternative_channel__without_face_to_face",
+					"delivery_channel_for",
+					"select_channel_validation_second_stage",
+					"dynamic_toggler",
+					"otherTextElement",
+					"otherTextSelector",
+					"display",
+					"multichoice_with_highlight",
+					"dynamic_toggler",
+					"and_i_wait_for_the_next_question",
+					"dough",
+					"then_i_dont_see_inline_validation",
+					"then_i_see_inline_validation",
+					"other_text",
+					"other_triggers",
+					"should",
+					"true",
+					"showValidationSummary",
+					"ValidationSummary",
+					"validationSummary",
+					"ValidationSummary",
+					"validationSummary",
+					"ValidationSummary",
+					"validationSummary",
+					"ValidationSummary",
+					"validationSummary",
+					"ValidationSummary",
+					"validationSummary",
+					"ValidationSummary",
+					"validationSummary",
+					"ValidationSummary",
+					"validationSummary",
+					"ValidationSummary",
+					"validationSummary",
+					" when exists already",
+					"validation summary",
+					"and",
+					"question__svg-icon",
+					"liability_received_debt_advice_before",
+					"checkb",
+					"n option",
+					"multiple_choice",
+					"and_i_select_an_answer",
+					"\n        and_it_includes_the_message('Please pick an option.')",
+					"\n\n  def and_i_click_next\n    page.next_button.click\n  end",
+					"\\btext\\b",
+					"text",
+					"actionLink",
+					"instructionsWrapper",
+					"button-icon--camera",
+					"instructionsWrapper",
+					"container",
+					"$el",
+					"validationSummaryClass"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"div",
+					"\\n",
+					"\\},\\n\\{",
+					"},\\n{",
+					"",
+					"\\n&",
+					"&\\n",
+					"",
+					"\"",
+					"",
+					"\"",
+					"\\n"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/alan/src/work/cultivate/mas/common_initial_assessment"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 70.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 130.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 200 4 1280 1023 0 0 1680 1027 ",
+			"project": "",
+			"replace":
+			{
+				"height": 60.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"cia",
+						"lib/flows/cia.rb"
+					],
+					[
+						"en",
+						"config/locales/en.yml"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"spec/models/link_spec.rb",
+						"spec/models/link_spec.rb"
+					],
+					[
+						"spec/mailers/authentication_mailer_spec.rb",
+						"spec/mailers/authentication_mailer_spec.rb"
+					],
+					[
+						"mulhtml",
+						"app/views/assessments/_multiple_choice.html.erb"
+					],
+					[
+						"ciahelper",
+						"lib/cia_helper.rb"
+					],
+					[
+						"gemlo",
+						"Gemfile.lock"
+					],
+					[
+						"app/views/assessments/_checkbox.html.erb",
+						"app/views/assessments/_checkbox.html.erb"
+					],
+					[
+						"app/views/assessments/_multiple_choice.html.erb",
+						"app/views/assessments/_multiple_choice.html.erb"
+					],
+					[
+						"pack",
+						"package.json"
+					],
+					[
+						"spfeacl",
+						"spec/features/client_side_validation_spec.rb"
+					],
+					[
+						"multpag",
+						"spec/support/site_prism/multiple_choice_page.rb"
+					],
+					[
+						"asspag",
+						"spec/support/site_prism/assessment_page.rb"
+					],
+					[
+						"ge",
+						"Gemfile"
+					],
+					[
+						"_big",
+						"app/assets/stylesheets/new/components/_big_buttons.css.sass"
+					],
+					[
+						"valid",
+						"vendor/assets/bower_components/dough/assets/js/components/Validation.js"
+					],
+					[
+						"mulcho",
+						"lib/smart_answer/lib/smart_answer/question/multiple_choice.rb"
+					],
+					[
+						"apphelp",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"quest",
+						"app/views/assessments/question.html.erb"
+					],
+					[
+						"appli",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"pac",
+						"package.json"
+					],
+					[
+						"soc",
+						"web/static/js/socket.js"
+					],
+					[
+						"app",
+						"web/static/js/app.js"
+					],
+					[
+						"brunch",
+						"brunch-config.js"
+					],
+					[
+						"mix",
+						"mix.exs"
+					],
+					[
+						"style",
+						"css/style.styl"
+					],
+					[
+						"anima",
+						"css/_animations.styl"
+					],
+					[
+						"syle.s",
+						"css/style.styl"
+					],
+					[
+						"anim",
+						"css/_animations.styl"
+					],
+					[
+						"main",
+						"scripts/main.js"
+					],
+					[
+						"asscont",
+						"app/controllers/assessments_controller.rb"
+					],
+					[
+						"en.yml",
+						"config/locales/en.yml"
+					],
+					[
+						"dynamictogglerwithother.html",
+						"spec/javascripts/fixtures/DynamicTogglerWithOther.html"
+					],
+					[
+						"dynamictoggler.js",
+						"app/assets/javascripts/modules/DynamicToggler.js"
+					],
+					[
+						"propf",
+						"spec/property_tests/cia_flow_property_spec.rb"
+					],
+					[
+						"vidchan",
+						"web/channels/video_channel.ex"
+					],
+					[
+						"user",
+						"web/models/user.ex"
+					],
+					[
+						"v",
+						"web/models/video.ex"
+					],
+					[
+						"migra201512",
+						"priv/repo/migrations/20151231002113_create_annotation.exs"
+					],
+					[
+						"seed",
+						"priv/repo/seeds.exs"
+					],
+					[
+						"auth",
+						"web/controllers/auth.ex"
+					],
+					[
+						"app.html",
+						"web/templates/layout/app.html.eex"
+					],
+					[
+						"sockjs",
+						"web/static/js/socket.js"
+					],
+					[
+						"webappjs",
+						"web/static/js/app.js"
+					],
+					[
+						"vidjs",
+						"web/static/js/video.js"
+					],
+					[
+						"video",
+						"web/models/video.ex"
+					],
+					[
+						"userso",
+						"web/channels/user_socket.ex"
+					],
+					[
+						"end",
+						"lib/rumbl/endpoint.ex"
+					],
+					[
+						"sock",
+						"web/static/js/socket.js"
+					],
+					[
+						"webstatjs",
+						"web/static/js/app.js"
+					],
+					[
+						"stapp",
+						"priv/static/js/app.js"
+					],
+					[
+						"information",
+						"app/views/assessments/_information.html.erb"
+					],
+					[
+						"vidi",
+						"web/templates/video/index.html.eex"
+					],
+					[
+						"watch/",
+						"web/templates/watch/show.html.eex"
+					],
+					[
+						"vid",
+						"web/models/video.ex"
+					],
+					[
+						"migslu",
+						"priv/repo/migrations/20151221012238_add_slug_to_video.exs"
+					],
+					[
+						"web",
+						"web/web.ex"
+					],
+					[
+						"vidind",
+						"web/templates/video/index.html.eex"
+					],
+					[
+						"rou",
+						"web/router.ex"
+					],
+					[
+						"phoe11",
+						"source/posts/2015-11-26-phoenix-elm-11.md"
+					],
+					[
+						"pseud",
+						"source/posts/2014-02-24-pseudo-random-number-generator-in-elixir.html.markdown"
+					],
+					[
+						"pseu",
+						"source/posts/2014-02-24-pseudo-random-number-generator-in-elixir.html.markdown"
+					],
+					[
+						"pse",
+						"source/posts/2014-02-24-pseudo-random-number-generator-in-elixir.html.markdown"
+					],
+					[
+						"test",
+						"config/test.exs"
+					],
+					[
+						"aut",
+						"web/controllers/auth.ex"
+					],
+					[
+						"authte",
+						"test/controllers/auth_test.exs"
+					],
+					[
+						"cia_he",
+						"lib/cia_helper.rb"
+					],
+					[
+						"ciainter",
+						"spec/models/cia_interrogator_spec.rb"
+					],
+					[
+						"assesscon",
+						"app/controllers/assessments_controller.rb"
+					],
+					[
+						"add_emergency_advice_to_assessments",
+						"db/migrate/20151214142156_add_emergency_advice_to_assessments.rb"
+					],
+					[
+						"preasspage",
+						"spec/support/site_prism/pre_assessment_page.rb"
+					],
+					[
+						"vidconte",
+						"test/controllers/video_controller_test.exs"
+					],
+					[
+						"specflotra",
+						"spec/models/flow_traversal_spec.rb"
+					],
+					[
+						"flowtrav",
+						"app/models/flow_traversal.rb"
+					],
+					[
+						"testvidcon",
+						"test/controllers/video_controller_test.exs"
+					],
+					[
+						"socke",
+						"web/static/js/socket.js"
+					],
+					[
+						"config/locales/en.yml",
+						"config/locales/en.yml"
+					],
+					[
+						"conn_c",
+						"test/support/conn_case.ex"
+					],
+					[
+						"testpagco",
+						"test/controllers/page_controller_test.exs"
+					],
+					[
+						"testsup/",
+						"test/support/conn_case.ex"
+					],
+					[
+						"videdit",
+						"web/templates/video/edit.html.eex"
+					],
+					[
+						"new",
+						"web/templates/video/new.html.eex"
+					],
+					[
+						"form",
+						"web/templates/video/form.html.eex"
+					],
+					[
+						"vidcon",
+						"web/controllers/video_controller.ex"
+					],
+					[
+						"seeds",
+						"priv/repo/seeds.exs"
+					],
+					[
+						"2015",
+						"priv/repo/migrations/20151209172818_add_category_id_to_video.exs"
+					],
+					[
+						"mig20",
+						"priv/repo/migrations/20151209172533_create_category.exs"
+					],
+					[
+						"use",
+						"web/models/user.ex"
+					],
+					[
+						"migra2015",
+						"priv/repo/migrations/20151208234629_create_video.exs"
+					],
+					[
+						"vidocon",
+						"web/controllers/video_controller.ex"
+					],
+					[
+						"userco",
+						"web/controllers/user_controller.ex"
+					],
+					[
+						"secon",
+						"web/controllers/session_controller.ex"
+					],
+					[
+						"usercon",
+						"web/controllers/user_controller.ex"
+					],
+					[
+						"lay.ht",
+						"web/templates/layout/app.html.eex"
+					],
+					[
+						"de",
+						"lib/debt_advice.rb"
+					],
+					[
+						"schema",
+						"db/schema.rb"
+					],
+					[
+						"ass",
+						"app/models/assessment.rb"
+					],
+					[
+						"assessp",
+						"spec/models/assessment_spec.rb"
+					],
+					[
+						"sschema",
+						"node_modules/fsevents/node_modules/is-my-json-valid/test/json-schema.js"
+					],
+					[
+						"addrec",
+						"db/migrate/20151208161803_add_recommended_and_final_channels_and_completed_at_to_assessments.rb"
+					],
+					[
+						"asscon",
+						"app/controllers/assessments_controller.rb"
+					],
+					[
+						"cia_in",
+						"app/models/cia_interrogator.rb"
+					],
+					[
+						"outcome",
+						"app/views/assessments/outcome.html.erb"
+					],
+					[
+						"flowhe",
+						"lib/flow_helper.rb"
+					],
+					[
+						"assconspe",
+						"spec/controllers/assessments_controller_spec.rb"
+					],
+					[
+						"flowhelpsp",
+						"spec/lib/flow_helper_spec.rb"
+					],
+					[
+						"flow_wak",
+						"spec/support/flow_walker.rb"
+					],
+					[
+						"flow_trav",
+						"app/models/flow_traversal.rb"
+					],
+					[
+						"state",
+						"lib/smart_answer/lib/smart_answer/state.rb"
+					],
+					[
+						"deb",
+						"lib/debt_advice.rb"
+					],
+					[
+						"flohe",
+						"lib/flow_helper.rb"
+					],
+					[
+						"flowhelper",
+						"lib/flow_helper.rb"
+					],
+					[
+						"flowhelp",
+						"spec/lib/flow_helper_spec.rb"
+					],
+					[
+						"flow",
+						"lib/smart_answer/lib/smart_answer/flow.rb"
+					],
+					[
+						"rout",
+						"web/router.ex"
+					],
+					[
+						"user_con",
+						"web/controllers/user_controller.ex"
+					],
+					[
+						"debt",
+						"lib/debt_advice.rb"
+					],
+					[
+						"flow_helper",
+						"lib/flow_helper.rb"
+					],
+					[
+						"flow_reg",
+						"lib/smart_answer/lib/smart_answer/flow_registry.rb"
+					],
+					[
+						"trave",
+						"app/models/flow_traversal.rb"
+					],
+					[
+						"controus",
+						"web/controllers/user_controller.ex"
+					],
+					[
+						"tespag",
+						"test/controllers/page_controller_test.exs"
+					],
+					[
+						"testpagec",
+						"_build/test/lib/rumbl/ebin/Elixir.Rumbl.PageController.beam"
+					],
+					[
+						"index.ht",
+						"web/templates/page/index.html.eex"
+					],
+					[
+						"rumbl.e",
+						"lib/rumbl.ex"
+					],
+					[
+						"create_",
+						"priv/repo/migrations/20151207085844_create_user.exs"
+					],
+					[
+						"dev",
+						"config/dev.exs"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 223.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1401,
+			"workspace_name": ""
+		}
 	],
 	"workspaces":
 	{
