@@ -1,8 +1,25 @@
 ## bash
+
+# functions
+function dockerd(){
+  eval "$(docker-machine env $1)"
+}
+
+function mcd(){
+  md $1 && cd $1
+}
+
+# aliases
 alias ..='cd ..'
 alias :q='exit'
 alias c='clear'
+alias dcomp='docker-compose'
+alias dcup='docker-compose up'
+alias dm='docker-machine'
+alias docd='dockerd'
 alias ea='vim ~/bin/dotfiles/shared/sections/aliases'
+alias ed='subl'
+alias edp='sublp'
 alias elastic='elasticsearch --config=/usr/local/opt/elasticsearch/config/elasticsearch.yml'
 alias elasticd='elasticsearch -d --config=/usr/local/opt/elasticsearch/config/elasticsearch.yml'
 alias elastics='curl -XPOST "http://localhost:9200/_shutdown"'
@@ -11,6 +28,7 @@ alias jfdi='sudo'
 alias la='ls -la'
 alias ll='ls -l'
 alias manp="man -t $1 | open -fa preview"
+alias mcd='mcd'
 alias memcache='nohup /usr/local/opt/memcached/bin/memcached > /tmp/memcached.log 2>&1 &'
 alias mc_hammer='launchctl stop com.danga.memcached & launchctl start com.danga.memcached'
 alias mysqlstop='mysql.server stop'
@@ -26,13 +44,20 @@ alias redis='redis-server /usr/local/etc/redis.conf'
 alias redisd='nohup redis-server /usr/local/etc/redis.conf > /tmp/redis.log 2>&1 &'
 alias couchd='nohup couchdb > /tmp/couchdb.log 2>&1 &'
 alias serve='python -m SimpleHTTPServer'
+alias sublp='subl settings.sublime-project'
 alias sublime='~/bin/dotfiles/sublime'
 alias tks='tmux kill-session -t'
 alias tmr='~/bin/dotfiles/tmux_rails'
 alias vi='vim'
 
+## Clients
+alias masvpn='sshuttle --dns -r mas-vpn 10.20.0.0/13'
+
 ## clojure
 alias lr='lein repl'
+
+## elixir
+alias ipx='iex -S mix phoenix.server'
 
 ## javascript
 alias cf='coffee'
@@ -54,9 +79,10 @@ alias cbr='clear && bundle exec rspec'
 
 
 ## rails
-alias migrate="bundle exec rake db:migrate db:test:prepare"
-alias remigrate="bundle exec rake db:migrate:redo db:test:prepare"
-alias unmigrate="bundle exec rake db:rollback db:test:prepare"
+alias dbcreate="bundle exec rake db:create; bundle exec rake db:create RAILS_ENV=test"
+alias migrate="bundle exec rake db:migrate; bundle exec rake db:migrate RAILS_ENV=test"
+alias remigrate="bundle exec rake db:migrate:redo; bundle exec rake db:migrate:redo RAILS_ENV=test"
+alias unmigrate="bundle exec rake db:rollback; bundle exec rake db:rollback RAILS_ENV=test"
 alias rdbfl="rake db:fixtures:load"
 alias rdbm="rake db:migrate"
 alias rdbr="rake db:rollback"
@@ -107,6 +133,7 @@ alias gdtc="git difftool --cached"
 alias gfo="git fetch origin"
 alias gi="git init"
 alias gl="git hist"
+alias glfp="git histfp"
 alias gm="git merge"
 alias gpl="git pull"
 alias gplo="git pull origin"
