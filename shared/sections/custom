@@ -1,6 +1,9 @@
-. ~/bin/dotfiles/shared/addons/heroku
-. ~/bin/dotfiles/shared/addons/rbenv
-. ~/bin/dotfiles/shared/addons/rvm
-. ~/bin/dotfiles/shared/addons/tmuxinator
-. ~/bin/dotfiles/shared/addons/input
+#. ~/bin/dotfiles/shared/addons/rbenv
+#. ~/bin/dotfiles/shared/addons/rvm
 
+. ~/bin/dotfiles/shared/addons/asdf
+. ~/bin/dotfiles/shared/addons/awscli
+. ~/bin/dotfiles/shared/addons/heroku
+. ~/bin/dotfiles/shared/addons/input
+. ~/bin/dotfiles/shared/addons/tmuxinator
+. ~/bin/dotfiles/shared/addons/travis

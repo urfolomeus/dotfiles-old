@@ -1,0 +1,2 @@
+# added by travis gem
+[ -f /Users/alan/.travis/travis.sh ] && source /Users/alan/.travis/travis.sh
