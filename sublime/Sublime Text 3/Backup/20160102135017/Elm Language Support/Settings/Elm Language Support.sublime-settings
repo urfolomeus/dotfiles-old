@@ -1,6 +1,0 @@
-{
-    "debug": false,
-	"enabled": true,
-	"elm_docs_path": "docs.json",
-	"elm_format_on_save": false,
-}

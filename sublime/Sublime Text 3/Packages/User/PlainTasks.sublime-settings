@@ -1,9 +1,0 @@
-{
-  "open_tasks_bullet": "[ ]",
-  "done_tasks_bullet": "[x]",
-  "cancelled_tasks_bullet": "[-]",
-  "color_scheme": "Packages/PlainTasks/tasks-solarized-light.hidden-tmTheme",
-  "font_size": 16,
-  "font_face": "Monaco",
-  "line_numbers": true
-}
