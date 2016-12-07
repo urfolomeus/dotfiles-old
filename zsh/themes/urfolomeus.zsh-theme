@@ -46,28 +46,23 @@ prompt_git() {
   fi
 }
 
-# Ruby Version
+# Lang Version
 
-prompt_rvm() {
-  local cmd
-  if [ "$(rvm-prompt i)" = "ruby" ]; then
-    cmd=$(rvm-prompt v g)
-  else
-    cmd=$(rvm-prompt i v g)
+prompt_lang() {
+  local version
+
+  version=$(asdf which $1)
+
+  if [[ "$version" != "No version set for $1" ]]; then
+    prompt_segment NONE black " "
+    prompt_segment NONE $2 "[$1-$version]"
   fi
-  prompt_segment NONE red " [${cmd}]"
 }
 
-prompt_rbenv() {
-  prompt_segment NONE red " [${rbenv version | sed -e "s/ (set.*$//"}]"
-}
-
-prompt_ruby_version() {
-  if which rvm-prompt &> /dev/null; then
-    prompt_rvm
-  elif which rbenv &> /dev/null; then
-    prompt_rbenv
-  fi
+prompt_asdf() {
+  prompt_lang ruby red
+  prompt_lang elixir magenta
+  prompt_lang nodejs yellow
 }
 
 # Dir: current working directory
@@ -80,7 +75,7 @@ build_prompt() {
   RETVAL=$?
   prompt_context
   prompt_dir
-  prompt_rvm
+  #prompt_asdf
   prompt_end
 }
 
