@@ -7,7 +7,8 @@
 
 # ruby
 .rvmrc
-*.ruby-gemset
+.ruby-gemset
+.ruby-env
 coverage
 
 # jasmine
@@ -15,6 +16,13 @@ coverage
 */public/javascripts/Song.js
 */spec/javascripts/PlayerSpec.js
 
+# node
+node_modules
+
 # todo
 TODO
 *.todo
+.imdone
+
+# editor
+*.sublime-*
